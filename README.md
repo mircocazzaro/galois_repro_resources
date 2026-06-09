@@ -120,18 +120,29 @@ These curves make explicit what the aggregate table already suggests: on the Nob
 
 ## Quality profiles
 
-The quality-profile tables are available in:
+The following table reports the merged quality profile for the Nobel Prizes benchmark across the two evaluated models and all execution methods. For each model--method pair, we report `F1-Cell`, `Cardinality`, `Tuple Constraint`, and `AVG-Score` as mean and standard deviation.
 
-```text
-tables/quality_profile_table_nobel_prizes_gpt4omini.tex
-tables/quality_profile_table_nobel_prizes_llama38b.tex
-```
+| Model       | Method   |       F1-Cell |   Cardinality | Tuple Constr. |     AVG-Score |
+| ----------- | -------- | ------------: | ------------: | ------------: | ------------: |
+| GPT-4o-mini | NL       | 0.732 (0.007) | 0.940 (0.003) | 0.371 (0.010) | 0.681 (0.005) |
+| GPT-4o-mini | SQL      | 0.729 (0.006) | 0.827 (0.006) | 0.391 (0.015) | 0.649 (0.007) |
+| GPT-4o-mini | GaloisWO | 0.094 (0.036) | 0.137 (0.055) | 0.025 (0.016) | 0.085 (0.032) |
+| GPT-4o-mini | GaloisS  | 0.160 (0.016) | 0.324 (0.013) | 0.151 (0.011) | 0.212 (0.012) |
+| GPT-4o-mini | GaloisA  | 0.161 (0.015) | 0.325 (0.010) | 0.149 (0.008) | 0.211 (0.009) |
+| GPT-4o-mini | GaloisF  | 0.165 (0.015) | 0.335 (0.017) | 0.151 (0.008) | 0.217 (0.011) |
+| Llama 3 8B  | NL       | 0.548 (0.372) | 0.630 (0.408) | 0.349 (0.252) | 0.509 (0.344) |
+| Llama 3 8B  | SQL      | 0.727 (0.000) | 0.808 (0.000) | 0.432 (0.000) | 0.656 (0.000) |
+| Llama 3 8B  | GaloisWO | 0.152 (0.000) | 0.378 (0.000) | 0.004 (0.000) | 0.178 (0.000) |
+| Llama 3 8B  | GaloisS  | 0.173 (0.000) | 0.404 (0.000) | 0.034 (0.000) | 0.204 (0.000) |
+| Llama 3 8B  | GaloisA  | 0.171 (0.000) | 0.401 (0.000) | 0.034 (0.000) | 0.202 (0.000) |
+| Llama 3 8B  | GaloisF  | 0.171 (0.000) | 0.401 (0.000) | 0.034 (0.000) | 0.202 (0.000) |
 
 For GPT-4o-mini, the direct baselines obtain much higher `F1-Cell` and `Cardinality` than the Galois variants. `NL` reaches the best aggregate score mainly because it combines strong cell-level correctness with very high cardinality. `SQL` is close in `F1-Cell` and slightly stronger in `Tuple Constraint`, but lower in cardinality.
 
-For Llama 3 8B, `SQL` is the strongest method across the aggregate score and gives a more stable profile than `NL`, whose standard deviation is large. The Galois variants have lower tuple-level correctness and remain far from the direct baselines, although they improve over the unoptimized `GaloisWO` baseline in some dimensions.
+For Llama 3 8B, `SQL` is the strongest method across the aggregate score and gives a more stable profile than `NL`, whose standard deviation is large. The Galois variants have lower tuple-level correctness and remain far from the direct baselines, although the optimized variants improve over the unoptimized `GaloisWO` baseline in some dimensions.
 
-The quality profiles therefore clarify why the aggregate results look the way they do. The main weakness of the Galois variants is not only final AVG-Score, but also the combination of incomplete tuple retrieval, weaker cell-level recall, and lower tuple reconstruction quality.
+The quality profiles therefore clarify why the aggregate results look the way they do. The main weakness of the Galois variants is not only final `AVG-Score`, but also the combination of incomplete tuple retrieval, weaker cell-level recall, and lower tuple reconstruction quality.
+
 
 ---
 

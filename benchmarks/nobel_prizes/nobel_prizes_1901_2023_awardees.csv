@@ -1,0 +1,971 @@
+id,award_year,date_awarded,category,is_shared,name,is_repeat_winner,affiliation_name,affiliation_city,affiliation_country
+1,1901,1901-11-12,Chemistry,0,Jacobus H. van 't Hoff,0,Berlin University,Berlin,Germany
+2,1901,1901-11-14,Literature,0,Sully Prudhomme,0,,,
+3,1901,1901-12-10,Peace,1,Henry Dunant,0,Red Cross,Geneva,Switzerland
+4,1901,1901-12-10,Peace,1,Frédéric Passy,0,,,
+5,1901,1901-11-12,Physics,0,Wilhelm Conrad Röntgen,0,Munich University,Munich,Germany
+6,1901,1901-10-30,Physiology or Medicine,0,Emil von Behring,0,Marburg University,Marburg,Germany
+7,1902,1902-11-11,Chemistry,0,Emil Fischer,0,Berlin University,Berlin,Germany
+8,1902,1902-11-13,Literature,0,Theodor Mommsen,0,University of Berlin,Berlin,Germany
+9,1902,1902-12-10,Peace,1,Élie Ducommun,0,,,
+10,1902,1902-12-10,Peace,1,Albert Gobat,0,,,
+11,1902,1902-11-11,Physics,1,Hendrik A. Lorentz,0,Leiden University,Leiden,the Netherlands
+12,1902,1902-11-11,Physics,1,Pieter Zeeman,0,Amsterdam University,Amsterdam,the Netherlands
+13,1902,1902-10-30,Physiology or Medicine,0,Ronald Ross,0,University College,Liverpool,United Kingdom
+14,1903,1903-11-12,Physics,1,Henri Becquerel,0,École Polytechnique,Paris,France
+15,1903,1903-11-19,Literature,0,Bjørnstjerne Bjørnson,0,,,
+16,1903,1903-12-10,Peace,0,Randal Cremer,0,,,
+17,1903,1903-10-15,Physiology or Medicine,0,Niels Ryberg Finsen,0,Finsen Medical Light Institute,Copenhagen,Denmark
+18,1903,1903-11-12,Physics,1,Pierre Curie,0,École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry),Paris,France
+19,1903,1903-11-12,Physics,1,Marie Curie,0,University of Paris,Paris,France
+20,1903,1903-11-12,Chemistry,0,Svante Arrhenius,0,Stockholm University,Stockholm,Sweden
+21,1904,1904-11-08,Chemistry,0,Sir William Ramsay,0,University College,London,United Kingdom
+22,1904,1904-11-17,Literature,1,Frédéric Mistral,0,,,
+23,1904,1904-11-17,Literature,1,José Echegaray,0,,,
+24,1904,1904-11-08,Physics,0,Lord Rayleigh,0,Royal Institution of Great Britain,London,United Kingdom
+25,1904,1904-10-20,Physiology or Medicine,0,Ivan Pavlov,0,Military Medical Academy,St. Petersburg,Russia
+26,1905,1905-11-09,Literature,0,Henryk Sienkiewicz,0,,,
+27,1905,1905-11-09,Physics,0,Philipp Lenard,0,Kiel University,Kiel,Germany
+28,1905,1905-11-09,Chemistry,0,Adolf von Baeyer,0,Munich University,Munich,Germany
+29,1905,1905-10-12,Physiology or Medicine,0,Robert Koch,0,Institute for Infectious Diseases,Berlin,Germany
+30,1905,1905-12-10,Peace,0,Bertha von Suttner,0,,,
+31,1906,1906-11-12,Chemistry,0,Henri Moissan,0,Sorbonne University,Paris,France
+32,1906,1906-11-08,Literature,0,Giosuè Carducci,0,,,
+33,1906,1906-12-10,Peace,0,Theodore Roosevelt,0,US Government,Washington,USA
+34,1906,1906-11-12,Physics,0,J.J. Thomson,0,University of Cambridge,Cambridge,United Kingdom
+35,1906,1906-10-25,Physiology or Medicine,1,Camillo Golgi,0,Pavia University,Pavia,Italy
+36,1906,1906-10-25,Physiology or Medicine,1,Santiago Ramón y Cajal,0,Madrid University,Madrid,Spain
+37,1907,1907-11-12,Chemistry,0,Eduard Buchner,0,Landwirtschaftliche Hochschule (Agricultural College),Berlin,Germany
+38,1907,1907-11-07,Literature,0,Rudyard Kipling,0,,,
+39,1907,1907-12-10,Peace,1,Ernesto Teodoro Moneta,0,,,
+40,1907,1907-12-10,Peace,1,Louis Renault,0,Sorbonne University,Paris,France
+41,1907,1907-11-12,Physics,0,Albert A. Michelson,0,University of Chicago,"Chicago, IL",USA
+42,1907,1907-10-31,Physiology or Medicine,0,Alphonse Laveran,0,Institut Pasteur,Paris,France
+43,1908,1908-11-12,Literature,0,Rudolf Eucken,0,,,
+44,1908,1908-12-10,Peace,1,Fredrik Bajer,0,,,
+45,1908,1908-12-10,Peace,1,Klas Pontus Arnoldson,0,,,
+46,1908,1908-10-29,Physiology or Medicine,1,Ilya Mechnikov,0,Institut Pasteur,Paris,France
+47,1908,1908-11-10,Physics,0,Gabriel Lippmann,0,Sorbonne University,Paris,France
+48,1908,1908-10-29,Physiology or Medicine,1,Paul Ehrlich,0,Goettingen University,Göttingen,Germany
+49,1908,1908-11-10,Chemistry,0,Ernest Rutherford,0,Victoria University,Manchester,United Kingdom
+50,1909,1909-11-11,Literature,0,Selma Lagerlöf,0,,,
+51,1909,1909-11-09,Chemistry,0,Wilhelm Ostwald,0,Leipzig University,Leipzig,Germany
+52,1909,1909-10-28,Physiology or Medicine,0,Theodor Kocher,0,Berne University,Bern,Switzerland
+53,1909,1909-12-10,Peace,1,Auguste Beernaert,0,,,
+54,1909,1909-11-09,Physics,1,Ferdinand Braun,0,Strasbourg University,Strasbourg,France
+55,1909,1909-11-09,Physics,1,Guglielmo Marconi,0,Marconi Wireless Telegraph Co. Ltd.,London,United Kingdom
+56,1909,1909-12-10,Peace,1,Paul Henri d'Estournelles de Constant,0,,,
+57,1910,1910-11-12,Chemistry,0,Otto Wallach,0,Goettingen University,Göttingen,Germany
+58,1910,1910-11-10,Literature,0,Paul Heyse,0,,,
+59,1910,1910-11-05,Physics,0,Johannes Diderik van der Waals,0,Amsterdam University,Amsterdam,the Netherlands
+60,1910,1910-10-20,Physiology or Medicine,0,Albrecht Kossel,0,University of Heidelberg,Heidelberg,Germany
+61,1911,1911-11-07,Chemistry,0,Marie Curie,1,Sorbonne University,Paris,France
+62,1911,1911-11-09,Literature,0,Maurice Maeterlinck,0,,,
+63,1911,1911-12-10,Peace,1,Tobias Asser,0,,,
+64,1911,1911-12-10,Peace,1,Alfred Fried,0,,,
+65,1911,1911-11-07,Physics,0,Wilhelm Wien,0,Würzburg University,Würzburg,Germany
+66,1911,1911-10-19,Physiology or Medicine,0,Allvar Gullstrand,0,Uppsala University,Uppsala,Sweden
+67,1912,1912-11-12,Chemistry,1,Victor Grignard,0,Nancy University,Nancy,France
+68,1912,1912-11-12,Chemistry,1,Paul Sabatier,0,Toulouse University,Toulouse,France
+69,1912,1912-11-14,Literature,0,Gerhart Hauptmann,0,,,
+70,1912,1913-12-10,Peace,0,Elihu Root,0,,,
+71,1912,1912-11-12,Physics,0,Gustaf Dalén,0,Swedish Gas-Accumulator Co.,"Lidingö, Stockholm",Sweden
+72,1912,1912-10-10,Physiology or Medicine,0,Alexis Carrel,0,Rockefeller Institute for Medical Research,"New York, NY",USA
+73,1913,1913-11-13,Literature,0,Rabindranath Tagore,0,,,
+74,1913,1913-11-11,Chemistry,0,Alfred Werner,0,University of Zurich,Zurich,Switzerland
+75,1913,1913-12-10,Peace,0,Henri La Fontaine,0,,,
+76,1913,1913-10-30,Physiology or Medicine,0,Charles Richet,0,Sorbonne University,Paris,France
+77,1913,1913-11-11,Physics,0,Heike Kamerlingh Onnes,0,Leiden University,Leiden,the Netherlands
+78,1914,1915-11-11,Chemistry,0,Theodore W. Richards,0,Harvard University,"Cambridge, MA",USA
+79,1914,1915-11-11,Physics,0,Max von Laue,0,Frankfurt-on-the-Main University,Frankfurt-on-the-Main,Germany
+80,1914,1915-10-29,Physiology or Medicine,0,Robert Bárány,0,Vienna University,Vienna,Austria
+81,1915,1915-11-11,Chemistry,0,Richard Willstätter,0,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie,Berlin-Dahlem,Germany
+82,1915,1916-11-09,Literature,0,Romain Rolland,0,,,
+83,1915,1915-11-12,Physics,1,William Bragg,0,University College,London,United Kingdom
+84,1915,1915-11-12,Physics,1,Lawrence Bragg,0,Victoria University,Manchester,United Kingdom
+85,1916,1916-11-09,Literature,0,Verner von Heidenstam,0,,,
+86,1917,1917-11-08,Literature,1,Henrik Pontoppidan,0,,,
+87,1917,1918-11-12,Physics,0,Charles Glover Barkla,0,Edinburgh University,Edinburgh,United Kingdom
+88,1917,1917-11-08,Literature,1,Karl Gjellerup,0,,,
+89,1918,1919-11-13,Chemistry,0,Fritz Haber,0,Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie,Berlin-Dahlem,Germany
+90,1918,1919-11-13,Physics,0,Max Planck,0,Berlin University,Berlin,Germany
+91,1919,1920-11-11,Literature,0,Carl Spitteler,0,,,
+92,1919,1920-12-10,Peace,0,Woodrow Wilson,0,,,
+93,1919,1919-11-13,Physics,0,Johannes Stark,0,Greifswald University,Greifswald,Germany
+94,1919,1920-10-28,Physiology or Medicine,0,Jules Bordet,0,Brussels University,Brussels,Belgium
+95,1920,1921-11-10,Chemistry,0,Walther Nernst,0,Berlin University,Berlin,Germany
+96,1920,1920-10-28,Physiology or Medicine,0,August Krogh,0,Copenhagen University,Copenhagen,Denmark
+97,1920,1920-11-11,Literature,0,Knut Hamsun,0,,,
+98,1920,1920-11-11,Physics,0,Charles Edouard Guillaume,0,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),Sèvres,France
+99,1920,1920-12-10,Peace,0,Léon Bourgeois,0,,,
+100,1921,1922-11-09,Chemistry,0,Frederick Soddy,0,University of Oxford,Oxford,United Kingdom
+101,1921,1921-11-10,Literature,0,Anatole France,0,,,
+102,1921,1921-12-10,Peace,1,Hjalmar Branting,0,,,
+103,1921,1921-12-10,Peace,1,Christian Lange,0,,,
+104,1921,1922-11-09,Physics,0,Albert Einstein,0,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Berlin,Germany
+105,1922,1922-11-09,Literature,0,Jacinto Benavente,0,,,
+106,1922,1922-12-10,Peace,0,Fridtjof Nansen,0,,,
+107,1922,1922-11-09,Chemistry,0,Francis W. Aston,0,University of Cambridge,Cambridge,United Kingdom
+108,1922,1922-10-25,Physiology or Medicine,1,Archibald V. Hill,0,London University,London,United Kingdom
+109,1922,1922-10-25,Physiology or Medicine,1,Otto Meyerhof,0,Kiel University,Kiel,Germany
+110,1922,1922-11-09,Physics,0,Niels Bohr,0,Copenhagen University,Copenhagen,Denmark
+111,1923,1923-11-13,Chemistry,0,Fritz Pregl,0,Graz University,Graz,Austria
+112,1923,1923-11-14,Literature,0,William Butler Yeats,0,,,
+113,1923,1923-11-13,Physics,0,Robert A. Millikan,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+114,1923,1923-10-25,Physiology or Medicine,1,Frederick G. Banting,0,University of Toronto,Toronto,Canada
+115,1923,1923-10-25,Physiology or Medicine,1,John Macleod,0,University of Toronto,Toronto,Canada
+116,1924,1924-11-13,Literature,0,Władysław Reymont,0,,,
+117,1924,1925-11-12,Physics,0,Manne Siegbahn,0,Uppsala University,Uppsala,Sweden
+118,1924,1924-10-23,Physiology or Medicine,0,Willem Einthoven,0,Leiden University,Leiden,the Netherlands
+119,1925,1926-12-10,Peace,1,Sir Austen Chamberlain,0,,,
+120,1925,1926-11-11,Literature,0,George Bernard Shaw,0,,,
+121,1925,1926-11-11,Chemistry,0,Richard Zsigmondy,0,Goettingen University,Göttingen,Germany
+122,1925,1926-12-10,Peace,1,Charles G. Dawes,0,,,
+123,1925,1926-11-11,Physics,1,Gustav Hertz,0,Halle University,Halle,Germany
+124,1925,1926-11-11,Physics,1,James Franck,0,Goettingen University,Göttingen,Germany
+125,1926,1926-11-11,Chemistry,0,The Svedberg,0,Uppsala University,Uppsala,Sweden
+126,1926,1927-11-10,Literature,0,Grazia Deledda,0,,,
+127,1926,1926-12-10,Peace,1,Aristide Briand,0,,,
+128,1926,1926-12-10,Peace,1,Gustav Stresemann,0,,,
+129,1926,1926-11-11,Physics,0,Jean Baptiste Perrin,0,Sorbonne University,Paris,France
+130,1926,1927-10-27,Physiology or Medicine,0,Johannes Fibiger,0,Copenhagen University,Copenhagen,Denmark
+131,1927,1928-11-13,Chemistry,0,Heinrich Wieland,0,Munich University,Munich,Germany
+132,1927,1928-11-13,Literature,0,Henri Bergson,0,,,
+133,1927,1927-10-27,Physiology or Medicine,0,Julius Wagner-Jauregg,0,Vienna University,Vienna,Austria
+134,1927,1927-12-10,Peace,1,Ferdinand Buisson,0,,,
+135,1927,1927-11-10,Physics,1,Arthur H. Compton,0,University of Chicago,"Chicago, IL",USA
+136,1927,1927-11-10,Physics,1,C.T.R. Wilson,0,University of Cambridge,Cambridge,United Kingdom
+137,1927,1927-12-10,Peace,1,Ludwig Quidde,0,,,
+138,1928,1928-11-13,Chemistry,0,Adolf Windaus,0,Goettingen University,Göttingen,Germany
+139,1928,1928-11-13,Literature,0,Sigrid Undset,0,,,
+140,1928,1929-11-12,Physics,0,Owen Willans Richardson,0,London University,London,United Kingdom
+141,1928,1928-10-25,Physiology or Medicine,0,Charles Nicolle,0,Institut Pasteur,Tunis,Tunisia
+142,1929,1929-11-12,Chemistry,1,Arthur Harden,0,London University,London,United Kingdom
+143,1929,1929-11-12,Chemistry,1,Hans von Euler-Chelpin,0,Stockholm University,Stockholm,Sweden
+144,1929,1929-11-12,Literature,0,Thomas Mann,0,,,
+145,1929,1930-12-10,Peace,0,Frank B. Kellogg,0,,,
+146,1929,1929-11-12,Physics,0,Louis de Broglie,0,"Sorbonne University, Institut Henri Poincaré",Paris,France
+147,1929,1929-10-31,Physiology or Medicine,1,Christiaan Eijkman,0,Utrecht University,Utrecht,the Netherlands
+148,1929,1929-10-31,Physiology or Medicine,1,Sir Frederick Hopkins,0,University of Cambridge,Cambridge,United Kingdom
+149,1930,1930-11-05,Literature,0,Sinclair Lewis,0,,,
+150,1930,1930-11-13,Physics,0,Sir Chandrasekhara Venkata Raman,0,Calcutta University,Calcutta,India
+151,1930,1930-11-13,Chemistry,0,Hans Fischer,0,Technische Hochschule (Institute of Technology),Munich,Germany
+152,1930,1930-10-30,Physiology or Medicine,0,Karl Landsteiner,0,Rockefeller Institute for Medical Research,"New York, NY",USA
+153,1930,1930-12-10,Peace,0,Nathan Söderblom,0,,,
+154,1931,1931-11-12,Chemistry,1,Carl Bosch,0,University of Heidelberg,Heidelberg,Germany
+155,1931,1931-11-12,Chemistry,1,Friedrich Bergius,0,University of Heidelberg,Heidelberg,Germany
+156,1931,1931-11-08,Literature,0,Erik Axel Karlfeldt,0,,,
+157,1931,1931-12-10,Peace,1,Jane Addams,0,,,
+158,1931,1931-12-10,Peace,1,Nicholas Murray Butler,0,Columbia University,"New York, NY",USA
+159,1931,1931-10-29,Physiology or Medicine,0,Otto Warburg,0,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie,Berlin-Dahlem,Germany
+160,1932,1932-11-10,Chemistry,0,Irving Langmuir,0,General Electric Company,"Schenectady, NY",USA
+161,1932,1932-11-10,Literature,0,John Galsworthy,0,,,
+162,1932,1933-11-09,Physics,0,Werner Heisenberg,0,Leipzig University,Leipzig,Germany
+163,1932,1932-10-27,Physiology or Medicine,1,Sir Charles Sherrington,0,University of Oxford,Oxford,United Kingdom
+164,1932,1932-10-27,Physiology or Medicine,1,Edgar Adrian,0,University of Cambridge,Cambridge,United Kingdom
+165,1933,1934-12-10,Peace,0,Sir Norman Angell,0,,,
+166,1933,1933-11-09,Literature,0,Ivan Bunin,0,,,
+167,1933,1933-11-09,Physics,1,Erwin Schrödinger,0,Berlin University,Berlin,Germany
+168,1933,1933-10-20,Physiology or Medicine,0,Thomas H. Morgan,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+169,1933,1933-11-09,Physics,1,Paul A.M. Dirac,0,University of Cambridge,Cambridge,United Kingdom
+170,1934,1934-11-15,Chemistry,0,Harold C. Urey,0,Columbia University,"New York, NY",USA
+171,1934,1934-11-08,Literature,0,Luigi Pirandello,0,,,
+172,1934,1934-12-10,Peace,0,Arthur Henderson,0,,,
+173,1934,1934-10-25,Physiology or Medicine,1,George H. Whipple,0,University of Rochester,"Rochester, NY",USA
+174,1934,1934-10-25,Physiology or Medicine,1,George R. Minot,0,Harvard University,"Cambridge, MA",USA
+175,1934,1934-10-25,Physiology or Medicine,1,William P. Murphy,0,Harvard University,"Cambridge, MA",USA
+176,1935,1935-11-14,Chemistry,1,Frédéric Joliot,0,Institut du Radium,Paris,France
+177,1935,1935-11-14,Chemistry,1,Irène Joliot-Curie,0,Institut du Radium,Paris,France
+178,1935,1936-11-24,Peace,0,Carl von Ossietzky,0,,,
+179,1935,1935-11-14,Physics,0,James Chadwick,0,Liverpool University,Liverpool,United Kingdom
+180,1935,1935-10-24,Physiology or Medicine,0,Hans Spemann,0,University of Freiburg im Breisgau,Breisgau,Germany
+181,1936,1936-11-12,Chemistry,0,Peter Debye,0,Berlin University,Berlin,Germany
+182,1936,1936-11-24,Peace,0,Carlos Saavedra Lamas,0,,,
+183,1936,1936-11-12,Literature,0,Eugene O'Neill,0,,,
+184,1936,1936-11-12,Physics,1,Victor F. Hess,0,Innsbruck University,Innsbruck,Austria
+185,1936,1936-10-29,Physiology or Medicine,1,Sir Henry Dale,0,National Institute for Medical Research,London,United Kingdom
+186,1936,1936-11-12,Physics,1,Carl D. Anderson,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+187,1936,1936-10-29,Physiology or Medicine,1,Otto Loewi,0,Graz University,Graz,Austria
+188,1937,1937-11-11,Chemistry,1,Norman Haworth,0,Birmingham University,Birmingham,United Kingdom
+189,1937,1937-11-11,Chemistry,1,Paul Karrer,0,University of Zurich,Zurich,Switzerland
+190,1937,1937-11-11,Literature,0,Roger Martin du Gard,0,,,
+191,1937,1937-11-18,Peace,0,"Robert Cecil, Viscount Cecil of Chelwood",0,,,
+192,1937,1937-11-11,Physics,1,Clinton Davisson,0,Bell Telephone Laboratories,"New York, NY",USA
+193,1937,1937-11-11,Physics,1,George Paget Thomson,0,London University,London,United Kingdom
+194,1937,1937-10-28,Physiology or Medicine,0,Albert Szent-Györgyi,0,Szeged University,Szeged,Hungary
+195,1938,1939-11-09,Chemistry,0,Richard Kuhn,0,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung,Heidelberg,Germany
+196,1938,1938-11-10,Literature,0,Pearl Buck,0,,,
+197,1938,1938-11-10,Physics,0,Enrico Fermi,0,Rome University,Rome,Italy
+198,1938,1939-10-26,Physiology or Medicine,0,Corneille Heymans,0,Ghent University,Ghent,Belgium
+199,1939,1939-11-09,Physics,0,Ernest Lawrence,0,University of California,"Berkeley, CA",USA
+200,1939,1939-11-09,Chemistry,1,Adolf Butenandt,0,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie,Berlin-Dahlem,Germany
+201,1939,1939-11-09,Chemistry,1,Leopold Ruzicka,0,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland
+202,1939,1939-10-26,Physiology or Medicine,0,Gerhard Domagk,0,Munster University,Munster,Germany
+203,1939,1939-11-10,Literature,0,Frans Eemil Sillanpää,0,,,
+204,1943,1944-11-09,Chemistry,0,George de Hevesy,0,Stockholm University,Stockholm,Sweden
+205,1943,1944-11-09,Physics,0,Otto Stern,0,Carnegie Institute of Technology,"Pittsburgh, PA",USA
+206,1943,1944-10-26,Physiology or Medicine,1,Henrik Dam,0,Polytechnic Institute,Copenhagen,Denmark
+207,1943,1944-10-26,Physiology or Medicine,1,Edward A. Doisy,0,Saint Louis University,"St. Louis, MO",USA
+208,1944,1945-11-15,Chemistry,0,Otto Hahn,0,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie,Berlin-Dahlem,Germany
+209,1944,1944-11-09,Literature,0,Johannes V. Jensen,0,,,
+210,1944,1944-11-09,Physics,0,Isidor Isaac Rabi,0,Columbia University,"New York, NY",USA
+211,1944,1944-10-26,Physiology or Medicine,1,Joseph Erlanger,0,Washington University,"St. Louis, MO",USA
+212,1944,1944-10-26,Physiology or Medicine,1,Herbert S. Gasser,0,Rockefeller Institute for Medical Research,"New York, NY",USA
+213,1945,1945-11-15,Chemistry,0,Artturi Virtanen,0,University of Helsinki,Helsinki,Finland
+214,1945,1945-11-15,Literature,0,Gabriela Mistral,0,,,
+215,1945,1945-11-15,Physics,0,Wolfgang Pauli,0,Princeton University,"Princeton, NJ",USA
+216,1945,1945-10-25,Physiology or Medicine,1,Sir Howard Florey,0,University of Oxford,Oxford,United Kingdom
+217,1945,1945-10-25,Physiology or Medicine,1,Sir Alexander Fleming,0,London University,London,United Kingdom
+218,1945,1945-10-25,Physiology or Medicine,1,Ernst B. Chain,0,University of Oxford,Oxford,United Kingdom
+219,1945,1945-11-12,Peace,0,Cordell Hull,0,,,
+220,1946,1946-11-14,Chemistry,1,James B. Sumner,0,Cornell University,"Ithaca, NY",USA
+221,1946,1946-11-14,Chemistry,1,John H. Northrop,0,Rockefeller Institute for Medical Research,"Princeton, NJ",USA
+222,1946,1946-11-14,Chemistry,1,Wendell M. Stanley,0,Rockefeller Institute for Medical Research,"Princeton, NJ",USA
+223,1946,1946-11-14,Literature,0,Hermann Hesse,0,,,
+224,1946,1946-11-14,Peace,1,Emily Greene Balch,0,,,
+225,1946,1946-11-14,Peace,1,John R. Mott,0,,,
+226,1946,1946-11-14,Physics,0,Percy W. Bridgman,0,Harvard University,"Cambridge, MA",USA
+227,1946,1946-10-31,Physiology or Medicine,0,Hermann J. Muller,0,Indiana University,"Bloomington, IN",USA
+228,1947,1947-11-13,Physics,0,Edward V. Appleton,0,Department of Scientific and Industrial Research,London,United Kingdom
+229,1947,1947-11-13,Chemistry,0,Sir Robert Robinson,0,University of Oxford,Oxford,United Kingdom
+230,1947,1947-11-13,Literature,0,André Gide,0,,,
+231,1947,1947-10-23,Physiology or Medicine,1,Gerty Cori,0,Washington University,"St. Louis, MO",USA
+232,1947,1947-10-23,Physiology or Medicine,1,Bernardo Houssay,0,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),Buenos Aires,Argentina
+233,1947,1947-10-23,Physiology or Medicine,1,Carl Cori,0,Washington University,"St. Louis, MO",USA
+234,1948,1948-11-04,Chemistry,0,Arne Tiselius,0,Uppsala University,Uppsala,Sweden
+235,1948,1948-11-04,Literature,0,T.S. Eliot,0,,,
+236,1948,1948-11-04,Physics,0,Patrick M.S. Blackett,0,Victoria University,Manchester,United Kingdom
+237,1948,1948-10-28,Physiology or Medicine,0,Paul Müller,0,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),Basel,Switzerland
+238,1949,1949-11-03,Chemistry,0,William F. Giauque,0,University of California,"Berkeley, CA",USA
+239,1949,1950-11-10,Literature,0,William Faulkner,0,,,
+240,1949,1949-10-12,Peace,0,Lord Boyd Orr,0,,,
+241,1949,1949-11-03,Physics,0,Hideki Yukawa,0,Columbia University,"New York, NY",USA
+242,1949,1949-10-27,Physiology or Medicine,1,Walter Hess,0,University of Zurich,Zurich,Switzerland
+243,1949,1949-10-27,Physiology or Medicine,1,Egas Moniz,0,University of Lisbon,Lisbon,Portugal
+244,1950,1950-11-10,Chemistry,1,Kurt Alder,0,Cologne University,Cologne,Germany
+245,1950,1950-11-10,Chemistry,1,Otto Diels,0,Kiel University,Kiel,Germany
+246,1950,1950-11-10,Literature,0,Bertrand Russell,0,,,
+247,1950,1950-09-22,Peace,0,Ralph Bunche,0,Harvard University,"Cambridge, MA",USA
+248,1950,1950-11-10,Physics,0,Cecil Powell,0,Bristol University,Bristol,United Kingdom
+249,1950,1950-10-26,Physiology or Medicine,1,Edward C. Kendall,0,Mayo Clinic,"Rochester, MN",USA
+250,1950,1950-10-26,Physiology or Medicine,1,Philip S. Hench,0,Mayo Clinic,"Rochester, MN",USA
+251,1950,1950-10-26,Physiology or Medicine,1,Tadeus Reichstein,0,Basel University,Basel,Switzerland
+252,1951,1951-11-15,Chemistry,1,Edwin M. McMillan,0,University of California,"Berkeley, CA",USA
+253,1951,1951-11-15,Chemistry,1,Glenn T. Seaborg,0,University of California,"Berkeley, CA",USA
+254,1951,1951-11-15,Literature,0,Pär Lagerkvist,0,,,
+255,1951,1951-11-05,Peace,0,Léon Jouhaux,0,,,
+256,1951,1951-11-15,Physics,1,John Cockcroft,0,Atomic Energy Research Establishment,"Harwell, Berkshire",United Kingdom
+257,1951,1951-11-15,Physics,1,Ernest T.S. Walton,0,Trinity College,Dublin,Ireland
+258,1951,1951-10-18,Physiology or Medicine,0,Max Theiler,0,"Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation","New York, NY",USA
+259,1952,1952-11-06,Chemistry,1,Archer J.P. Martin,0,National Institute for Medical Research,London,United Kingdom
+260,1952,1952-11-06,Chemistry,1,Richard L.M. Synge,0,Rowett Research Institute,Bucksburn (Scotland),United Kingdom
+261,1952,1952-11-06,Physics,1,E. M. Purcell,0,Harvard University,"Cambridge, MA",USA
+262,1952,1952-11-06,Literature,0,François Mauriac,0,,,
+263,1952,1952-11-06,Physics,1,Felix Bloch,0,Stanford University,"Stanford, CA",USA
+264,1952,1953-10-30,Peace,0,Albert Schweitzer,0,,,
+265,1952,1952-10-23,Physiology or Medicine,0,Selman A. Waksman,0,Rutgers University,"New Brunswick, NJ",USA
+266,1953,1953-11-04,Chemistry,0,Hermann Staudinger,0,University of Freiburg,Breisgau,Germany
+267,1953,1953-10-15,Literature,0,Winston Churchill,0,,,
+268,1953,1953-10-30,Peace,0,George C. Marshall,0,,,
+269,1953,1953-11-04,Physics,0,Frits Zernike,0,Groningen University,Groningen,the Netherlands
+270,1953,1953-10-22,Physiology or Medicine,1,Hans Krebs,0,Sheffield University,Sheffield,United Kingdom
+271,1953,1953-10-22,Physiology or Medicine,1,Fritz Lipmann,0,Harvard Medical School,"Boston, MA",USA
+272,1954,1954-11-03,Chemistry,0,Linus Pauling,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+273,1954,1954-10-28,Literature,0,Ernest Hemingway,0,,,
+274,1954,1954-11-03,Physics,1,Max Born,0,Edinburgh University,Edinburgh,United Kingdom
+275,1954,1954-11-03,Physics,1,Walther Bothe,0,University of Heidelberg,Heidelberg,Germany
+276,1954,1954-10-21,Physiology or Medicine,1,John F. Enders,0,Harvard Medical School,"Boston, MA",USA
+277,1954,1954-10-21,Physiology or Medicine,1,Thomas H. Weller,0,"Research Division of Infectious Diseases, Children's Medical Center","Boston, MA",USA
+278,1954,1954-10-21,Physiology or Medicine,1,Frederick C. Robbins,0,Western Reserve University,"Cleveland, OH",USA
+279,1955,1955-11-02,Physics,1,Willis E. Lamb,0,Stanford University,"Stanford, CA",USA
+280,1955,1955-10-27,Literature,0,Halldór Laxness,0,,,
+281,1955,1955-10-20,Physiology or Medicine,0,Hugo Theorell,0,"Karolinska Institutet, Nobel Medical Institute",Stockholm,Sweden
+282,1955,1955-11-02,Physics,1,Polykarp Kusch,0,Columbia University,"New York, NY",USA
+283,1955,1955-11-02,Chemistry,0,Vincent du Vigneaud,0,Cornell University,"Ithaca, NY",USA
+284,1956,1956-11-01,Chemistry,1,Sir Cyril Hinshelwood,0,University of Oxford,Oxford,United Kingdom
+285,1956,1956-11-01,Chemistry,1,Nikolay Semenov,0,Institute for Chemical Physics of the Academy of Sciences of the USSR,Moscow,Russia
+286,1956,1956-10-25,Literature,0,Juan Ramón Jiménez,0,,,
+287,1956,1956-11-01,Physics,1,William B. Shockley,0,"Semiconductor Laboratory of Beckman Instruments, Inc.","Mountain View, CA",USA
+288,1956,1956-11-01,Physics,1,John Bardeen,0,University of Illinois,"Urbana, IL",USA
+289,1956,1956-11-01,Physics,1,Walter H. Brattain,0,Bell Telephone Laboratories,"Murray Hill, NJ",USA
+290,1956,1956-10-18,Physiology or Medicine,1,André F. Cournand,0,"Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital","New York, NY",USA
+291,1956,1956-10-18,Physiology or Medicine,1,Werner Forssmann,0,Mainz University,Mainz,Germany
+292,1956,1956-10-18,Physiology or Medicine,1,Dickinson W. Richards,0,Columbia University,"New York, NY",USA
+293,1957,1957-10-03,Peace,0,Lester Bowles Pearson,0,,,
+294,1957,1957-10-31,Chemistry,0,Lord Todd,0,University of Cambridge,Cambridge,United Kingdom
+295,1957,1957-10-17,Literature,0,Albert Camus,0,,,
+296,1957,1957-10-31,Physics,1,Tsung-Dao Lee,0,Columbia University,"New York, NY",USA
+297,1957,1957-10-24,Physiology or Medicine,0,Daniel Bovet,0,Istituto Superiore di Sanità (Chief Institute of Public Health),Rome,Italy
+298,1957,1957-10-31,Physics,1,Chen Ning Yang,0,Institute for Advanced Study,"Princeton, NJ",USA
+299,1958,1958-10-28,Chemistry,0,Frederick Sanger,0,University of Cambridge,Cambridge,United Kingdom
+300,1958,1958-10-28,Literature,0,Boris Pasternak,0,,,
+301,1958,1958-11-10,Peace,0,Georges Pire,0,,,
+302,1958,1958-10-28,Physics,1,Pavel A. Cherenkov,0,P.N. Lebedev Physical Institute,Moscow,Russia
+303,1958,1958-10-28,Physics,1,Il´ja M. Frank,0,Lomonosov Moscow State University,Moscow,Russia
+304,1958,1958-10-28,Physics,1,Igor Y. Tamm,0,Lomonosov Moscow State University,Moscow,Russia
+305,1958,1958-10-30,Physiology or Medicine,1,George Beadle,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+306,1958,1958-10-30,Physiology or Medicine,1,Edward Tatum,0,Rockefeller Institute for Medical Research,"New York, NY",USA
+307,1958,1958-10-30,Physiology or Medicine,1,Joshua Lederberg,0,University of Wisconsin,"Madison, WI",USA
+308,1959,1959-10-22,Literature,0,Salvatore Quasimodo,0,,,
+309,1959,1959-10-26,Physics,1,Emilio Segrè,0,University of California,"Berkeley, CA",USA
+310,1959,1959-11-05,Peace,0,Philip Noel-Baker,0,,,
+311,1959,1959-10-15,Physiology or Medicine,1,Severo Ochoa,0,"New York University, College of Medicine","New York, NY",USA
+312,1959,1959-10-26,Physics,1,Owen Chamberlain,0,University of California,"Berkeley, CA",USA
+313,1959,1959-10-15,Physiology or Medicine,1,Arthur Kornberg,0,Stanford University,"Stanford, CA",USA
+314,1959,1959-10-26,Chemistry,0,Jaroslav Heyrovsky,0,Polarographic Institute of the Czechoslovak Academy of Science,Prague,Czech Republic
+315,1960,1960-11-03,Chemistry,0,Willard F. Libby,0,University of California,"Los Angeles, CA",USA
+316,1960,1960-10-26,Literature,0,Saint-John Perse,0,,,
+317,1960,1961-10-23,Peace,0,Albert Lutuli,0,,,
+318,1960,1960-11-03,Physics,0,Donald A. Glaser,0,University of California,"Berkeley, CA",USA
+319,1960,1960-10-20,Physiology or Medicine,1,Sir Frank Macfarlane Burnet,0,Walter and Eliza Hall Institute for Medical Research,Melbourne,Australia
+320,1960,1960-10-20,Physiology or Medicine,1,Peter Medawar,0,University College,London,United Kingdom
+321,1961,1961-10-23,Peace,0,Dag Hammarskjöld,0,,,
+322,1961,1961-10-26,Literature,0,Ivo Andrić,0,,,
+323,1961,1961-11-02,Chemistry,0,Melvin Calvin,0,University of California,"Berkeley, CA",USA
+324,1961,1961-11-02,Physics,1,Robert Hofstadter,0,Stanford University,"Stanford, CA",USA
+325,1961,1961-10-19,Physiology or Medicine,0,Georg von Békésy,0,Harvard University,"Cambridge, MA",USA
+326,1961,1961-11-02,Physics,1,Rudolf Mössbauer,0,Technical University,Munich,Germany
+327,1962,1962-11-01,Chemistry,1,Max F. Perutz,0,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+328,1962,1962-11-01,Chemistry,1,John C. Kendrew,0,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+329,1962,1962-10-05,Literature,0,John Steinbeck,0,,,
+330,1962,1963-10-10,Peace,0,Linus Pauling,1,California Institute of Technology (Caltech),"Pasadena, CA",USA
+331,1962,1962-11-01,Physics,0,Lev Landau,0,Academy of Sciences,Moscow,Russia
+332,1962,1962-10-18,Physiology or Medicine,1,Francis Crick,0,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+333,1962,1962-10-18,Physiology or Medicine,1,James Watson,0,Harvard University,"Cambridge, MA",USA
+334,1962,1962-10-18,Physiology or Medicine,1,Maurice Wilkins,0,London University,London,United Kingdom
+335,1963,1963-11-05,Physics,1,Eugene Wigner,0,Princeton University,"Princeton, NJ",USA
+336,1963,1963-11-05,Chemistry,1,Karl Ziegler,0,Max-Planck-Institut für Kohlenforschung,Mülheim an der Ruhr,Germany
+337,1963,1963-11-05,Chemistry,1,Giulio Natta,0,Institute of Technology,Milan,Italy
+338,1963,1963-11-05,Physics,1,J. Hans D. Jensen,0,University of Heidelberg,Heidelberg,Germany
+339,1963,1963-10-24,Literature,0,Giorgos Seferis,0,,,
+340,1963,1963-10-17,Physiology or Medicine,1,Sir John Eccles,0,Australian National University,Canberra,Australia
+341,1963,1963-10-17,Physiology or Medicine,1,Alan Hodgkin,0,University of Cambridge,Cambridge,United Kingdom
+342,1963,1963-10-17,Physiology or Medicine,1,Andrew Huxley,0,University College,London,United Kingdom
+343,1963,1963-11-05,Physics,1,Maria Goeppert Mayer,0,University of California,"San Diego, CA",USA
+344,1964,1964-10-29,Chemistry,0,Dorothy Crowfoot Hodgkin,0,"University of Oxford, Royal Society",Oxford,United Kingdom
+345,1964,1964-10-22,Literature,0,Jean-Paul Sartre,0,,,
+346,1964,1964-10-14,Peace,0,Martin Luther King Jr.,0,,,
+347,1964,1964-10-29,Physics,1,Charles H. Townes,0,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA
+348,1964,1964-10-29,Physics,1,Nicolay G. Basov,0,P.N. Lebedev Physical Institute,Moscow,Russia
+349,1964,1964-10-29,Physics,1,Aleksandr M. Prokhorov,0,P.N. Lebedev Physical Institute,Moscow,Russia
+350,1964,1964-10-15,Physiology or Medicine,1,Konrad Bloch,0,Harvard University,"Cambridge, MA",USA
+351,1964,1964-10-15,Physiology or Medicine,1,Feodor Lynen,0,Max-Planck-Institut für Zellchemie,Munich,Germany
+352,1965,1965-10-21,Physics,1,Julian Schwinger,0,Harvard University,"Cambridge, MA",USA
+353,1965,1965-10-21,Chemistry,0,Robert B. Woodward,0,Harvard University,"Cambridge, MA",USA
+354,1965,1965-10-15,Literature,0,Mikhail Sholokhov,0,,,
+355,1965,1965-10-21,Physics,1,Sin-Itiro Tomonaga,0,Tokyo University of Education,Tokyo,Japan
+356,1965,1965-10-14,Physiology or Medicine,1,François Jacob,0,Institut Pasteur,Paris,France
+357,1965,1965-10-14,Physiology or Medicine,1,André Lwoff,0,Institut Pasteur,Paris,France
+358,1965,1965-10-14,Physiology or Medicine,1,Jacques Monod,0,Institut Pasteur,Paris,France
+359,1965,1965-10-21,Physics,1,Richard P. Feynman,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+360,1966,1966-11-03,Chemistry,0,Robert S. Mulliken,0,University of Chicago,"Chicago, IL",USA
+361,1966,1966-10-20,Literature,1,Shmuel Agnon,0,,,
+362,1966,1966-10-20,Literature,1,Nelly Sachs,0,,,
+363,1966,1966-11-03,Physics,0,Alfred Kastler,0,École Normale Supérieure,Paris,France
+364,1966,1966-10-13,Physiology or Medicine,1,Peyton Rous,0,Rockefeller University,"New York, NY",USA
+365,1966,1966-10-13,Physiology or Medicine,1,Charles B. Huggins,0,"University of Chicago, Ben May Laboratory for Cancer Research","Chicago, IL",USA
+366,1967,1967-10-30,Chemistry,1,Manfred Eigen,0,Max-Planck-Institut für Physikalische Chemie,Göttingen,Germany
+367,1967,1967-10-30,Chemistry,1,Ronald G.W. Norrish,0,,,
+368,1967,1967-10-30,Chemistry,1,George Porter,0,Royal Institution of Great Britain,London,United Kingdom
+369,1967,1967-10-19,Literature,0,Miguel Angel Asturias,0,,,
+370,1967,1967-10-30,Physics,0,Hans Bethe,0,,,
+371,1967,1967-10-18,Physiology or Medicine,1,Ragnar Granit,0,,,
+372,1967,1967-10-18,Physiology or Medicine,1,Keffer Hartline,0,,,
+373,1967,1967-10-18,Physiology or Medicine,1,George Wald,0,,,
+374,1968,1968-10-30,Chemistry,0,Lars Onsager,0,Yale University,"New Haven, CT",USA
+375,1968,1968-10-17,Literature,0,Yasunari Kawabata,0,,,
+376,1968,1968-10-09,Peace,0,René Cassin,0,,,
+377,1968,1968-10-30,Physics,0,Luis Alvarez,0,,,
+378,1968,1968-10-16,Physiology or Medicine,1,Robert W. Holley,0,,,
+379,1968,1968-10-16,Physiology or Medicine,1,H. Gobind Khorana,0,,,
+380,1968,1968-10-16,Physiology or Medicine,1,Marshall W. Nirenberg,0,,,
+381,1969,1969-10-27,Economic Sciences,1,Ragnar Frisch,0,University of Oslo,Oslo,Norway
+382,1969,1969-10-30,Chemistry,1,Derek Barton,0,Imperial College,London,United Kingdom
+383,1969,1969-10-30,Chemistry,1,Odd Hassel,0,University of Oslo,Oslo,Norway
+384,1969,1969-10-27,Economic Sciences,1,Jan Tinbergen,0,The Netherlands School of Economics,Rotterdam,the Netherlands
+385,1969,1969-10-23,Literature,0,Samuel Beckett,0,,,
+386,1969,1969-10-30,Physics,0,Murray Gell-Mann,0,,,
+387,1969,1969-10-16,Physiology or Medicine,1,Alfred D. Hershey,0,,,
+388,1969,1969-10-16,Physiology or Medicine,1,Salvador E. Luria,0,,,
+389,1969,1969-10-16,Physiology or Medicine,1,Max Delbrück,0,,,
+390,1970,1970-10-27,Chemistry,0,Luis Leloir,0,Institute for Biochemical Research,Buenos Aires,Argentina
+391,1970,1970-10-26,Economic Sciences,0,Paul A. Samuelson,0,,,
+392,1970,1970-10-08,Literature,0,Aleksandr Solzhenitsyn,0,,,
+393,1970,1970-10-21,Peace,0,Norman Borlaug,0,,,
+394,1970,1970-10-27,Physics,1,Hannes Alfvén,0,Royal Institute of Technology,Stockholm,Sweden
+395,1970,1970-10-27,Physics,1,Louis Néel,0,University of Grenoble,Grenoble,France
+396,1970,1970-10-15,Physiology or Medicine,1,Sir Bernard Katz,0,,,
+397,1970,1970-10-15,Physiology or Medicine,1,Ulf von Euler,0,,,
+398,1970,1970-10-15,Physiology or Medicine,1,Julius Axelrod,0,National Institutes of Health,"Bethesda, MD",USA
+399,1971,1971-10-15,Economic Sciences,0,Simon Kuznets,0,Harvard University,"Cambridge, MA",USA
+400,1971,1971-11-02,Chemistry,0,Gerhard Herzberg,0,National Research Council of Canada,Ottawa,Canada
+401,1971,1971-10-21,Literature,0,Pablo Neruda,0,,,
+402,1971,1971-10-21,Peace,0,Willy Brandt,0,,,
+403,1971,1971-10-14,Physiology or Medicine,0,"Earl W. Sutherland, Jr.",0,,,
+404,1971,1971-11-02,Physics,0,Dennis Gabor,0,,,
+405,1972,1972-10-25,Economic Sciences,1,Kenneth J. Arrow,0,Harvard University,"Cambridge, MA",USA
+406,1972,1972-10-20,Chemistry,1,Christian Anfinsen,0,National Institutes of Health,"Bethesda, MD",USA
+407,1972,1972-10-20,Chemistry,1,Stanford Moore,0,Rockefeller University,"New York, NY",USA
+408,1972,1972-10-25,Economic Sciences,1,John R. Hicks,0,All Souls College,Oxford,United Kingdom
+409,1972,1972-10-20,Physics,1,Leon N. Cooper,0,,,
+410,1972,1972-10-20,Chemistry,1,William H. Stein,0,Rockefeller University,"New York, NY",USA
+411,1972,1972-10-20,Physics,1,John Bardeen,1,University of Illinois,"Urbana, IL",USA
+412,1972,1972-10-20,Physics,1,Robert Schrieffer,0,University of Pennsylvania,"Philadelphia, PA",USA
+413,1972,1972-10-12,Physiology or Medicine,1,Gerald M. Edelman,0,Rockefeller University,"New York, NY",USA
+414,1972,1972-10-12,Physiology or Medicine,1,Rodney R. Porter,0,University of Oxford,Oxford,United Kingdom
+415,1972,1972-10-19,Literature,0,Heinrich Böll,0,,,
+416,1973,1973-10-17,Peace,1,Henry Kissinger,0,,,
+417,1973,1973-10-17,Peace,1,Le Duc Tho ,0,,,
+418,1973,1973-10-23,Chemistry,1,Ernst Otto Fischer,0,Technical University,Munich,Germany
+419,1973,1973-10-23,Chemistry,1,Geoffrey Wilkinson,0,Imperial College,London,United Kingdom
+420,1973,1973-10-25,Literature,0,Patrick White,0,,,
+421,1973,1973-10-18,Economic Sciences,0,Wassily Leontief,0,,,
+422,1973,1973-10-11,Physiology or Medicine,1,Konrad Lorenz,0,,,
+423,1973,1973-10-23,Physics,1,Brian D. Josephson,0,University of Cambridge,Cambridge,United Kingdom
+424,1973,1973-10-11,Physiology or Medicine,1,Karl von Frisch,0,,,
+425,1973,1973-10-11,Physiology or Medicine,1,Nikolaas Tinbergen,0,,,
+426,1973,1973-10-23,Physics,1,Ivar Giaever,0,,,
+427,1973,1973-10-23,Physics,1,Leo Esaki,0,,,
+428,1974,1974-10-09,Peace,1,Seán MacBride,0,,,
+429,1974,1974-10-09,Economic Sciences,1,Friedrich von Hayek,0,,,
+430,1974,1974-10-03,Literature,1,Harry Martinson,0,,,
+431,1974,1974-10-15,Chemistry,0,Paul J. Flory,0,Stanford University,"Stanford, CA",USA
+432,1974,1974-10-03,Literature,1,Eyvind Johnson,0,,,
+433,1974,1974-10-09,Economic Sciences,1,Gunnar Myrdal,0,,,
+434,1974,1974-10-10,Physiology or Medicine,1,George E. Palade,0,,,
+435,1974,1974-10-15,Physics,1,Antony Hewish,0,University of Cambridge,Cambridge,United Kingdom
+436,1974,1974-10-09,Peace,1,Eisaku Satō,0,,,
+437,1974,1974-10-15,Physics,1,Martin Ryle,0,University of Cambridge,Cambridge,United Kingdom
+438,1974,1974-10-10,Physiology or Medicine,1,Albert Claude,0,Université Catholique de Louvain,Louvain,Belgium
+439,1974,1974-10-10,Physiology or Medicine,1,Christian de Duve,0,Rockefeller University,"New York, NY",USA
+440,1975,1975-10-17,Chemistry,1,Vladimir Prelog,0,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland
+441,1975,1975-10-17,Chemistry,1,John Cornforth,0,University of Sussex,Brighton,United Kingdom
+442,1975,1975-10-23,Literature,0,Eugenio Montale,0,,,
+443,1975,1975-10-14,Economic Sciences,1,Tjalling C. Koopmans,0,Yale University,"New Haven, CT",USA
+444,1975,1975-10-16,Physiology or Medicine,1,Howard M. Temin,0,University of Wisconsin,"Madison, WI",USA
+445,1975,1975-10-14,Economic Sciences,1,Leonid Vitaliyevich Kantorovich,0,Academy of Sciences,Moscow,Russia
+446,1975,1975-10-17,Physics,1,Aage N. Bohr,0,Niels Bohr Institute,Copenhagen,Denmark
+447,1975,1975-10-09,Peace,0,Andrei Sakharov,0,,,
+448,1975,1975-10-16,Physiology or Medicine,1,Renato Dulbecco,0,,,
+449,1975,1975-10-16,Physiology or Medicine,1,David Baltimore,0,,,
+450,1975,1975-10-17,Physics,1,James Rainwater,0,,,
+451,1975,1975-10-17,Physics,1,Ben R. Mottelson,0,,,
+452,1976,1976-10-18,Chemistry,0,William Lipscomb,0,Harvard University,"Cambridge, MA",USA
+453,1976,1976-10-14,Economic Sciences,0,Milton Friedman,0,,,
+454,1976,1976-10-21,Literature,0,Saul Bellow,0,,,
+455,1976,1976-10-18,Physics,1,Burton Richter,0,Stanford Linear Accelerator Center,"Stanford, CA",USA
+456,1976,1976-10-18,Physics,1,Samuel C.C. Ting,0,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA
+457,1976,1976-10-14,Physiology or Medicine,1,Baruch S. Blumberg,0,The Institute for Cancer Research,"Philadelphia, PA",USA
+458,1976,1976-10-14,Physiology or Medicine,1,D. Carleton Gajdusek,0,National Institutes of Health,"Bethesda, MD",USA
+459,1976,1977-10-10,Peace,1,Betty Williams,0,,,
+460,1976,1977-10-10,Peace,1,Mairead Corrigan,0,,,
+461,1977,1977-10-11,Physics,1,Philip W. Anderson,0,,,
+462,1977,1977-10-11,Chemistry,0,Ilya Prigogine,0,Université Libre de Bruxelles,Brussels,Belgium
+463,1977,1977-10-14,Economic Sciences,1,Bertil Ohlin,0,Stockholm School of Economics,Stockholm,Sweden
+464,1977,1977-10-14,Economic Sciences,1,James E. Meade,0,University of Cambridge,Cambridge,United Kingdom
+465,1977,1977-10-06,Literature,0,Vicente Aleixandre,0,,,
+466,1977,1977-10-11,Physics,1,John H. Van Vleck,0,,,
+467,1977,1977-10-13,Physiology or Medicine,1,Roger Guillemin,0,The Salk Institute,"San Diego, CA",USA
+468,1977,1977-10-13,Physiology or Medicine,1,Andrew V. Schally,0,,,
+469,1977,1977-10-13,Physiology or Medicine,1,Rosalyn Yalow,0,Veterans Administration Hospital,"Bronx, NY",USA
+470,1977,1977-10-11,Physics,1,Sir Nevill F. Mott,0,,,
+471,1978,1978-10-17,Chemistry,0,Peter Mitchell,0,Glynn Research Laboratories,Bodmin,United Kingdom
+472,1978,1978-10-16,Economic Sciences,0,Herbert Simon,0,Carnegie Mellon University,"Pittsburgh, PA",USA
+473,1978,1978-10-05,Literature,0,Isaac Bashevis Singer,0,,,
+474,1978,1978-10-27,Peace,1,Anwar al-Sadat,0,,,
+475,1978,1978-10-12,Physiology or Medicine,1,Hamilton O. Smith,0,,,
+476,1978,1978-10-27,Peace,1,Menachem Begin,0,,,
+477,1978,1978-10-17,Physics,1,Arno Penzias,0,Bell Laboratories,"Holmdel, NJ",USA
+478,1978,1978-10-17,Physics,1,Robert Woodrow Wilson,0,Bell Laboratories,"Holmdel, NJ",USA
+479,1978,1978-10-12,Physiology or Medicine,1,Werner Arber,0,Biozentrum der Universität,Basel,Switzerland
+480,1978,1978-10-12,Physiology or Medicine,1,Daniel Nathans,0,,,
+481,1978,1978-10-17,Physics,1,Pyotr Kapitsa,0,,,
+482,1979,1979-10-18,Literature,0,Odysseus Elytis,0,,,
+483,1979,1979-10-15,Chemistry,1,Herbert C. Brown,0,Purdue University,"West Lafayette, IN",USA
+484,1979,1979-10-15,Chemistry,1,Georg Wittig,0,University of Heidelberg,Heidelberg,Germany
+485,1979,1979-10-16,Economic Sciences,1,Theodore W. Schultz,0,University of Chicago,"Chicago, IL",USA
+486,1979,1979-10-16,Economic Sciences,1,Sir Arthur Lewis,0,Princeton University,"Princeton, NJ",USA
+487,1979,1979-10-27,Peace,0,Mother Teresa,0,Missionaries of Charity,Kolkata,India
+488,1979,1979-10-15,Physics,1,Abdus Salam,0,International Centre for Theoretical Physics,Trieste,Italy
+489,1979,1979-10-15,Physics,1,Steven Weinberg,0,,,
+490,1979,1979-10-11,Physiology or Medicine,1,Allan M. Cormack,0,Tufts University,"Medford, MA",USA
+491,1979,1979-10-11,Physiology or Medicine,1,Godfrey N. Hounsfield,0,"Central Research Laboratories, EMI",London,United Kingdom
+492,1979,1979-10-15,Physics,1,Sheldon Glashow,0,,,
+493,1980,1980-10-15,Economic Sciences,0,Lawrence R. Klein,0,,,
+494,1980,1980-10-14,Chemistry,1,Paul Berg,0,Stanford University,"Stanford, CA",USA
+495,1980,1980-10-14,Chemistry,1,Walter Gilbert,0,"Harvard University, Biological Laboratories","Cambridge, MA",USA
+496,1980,1980-10-14,Chemistry,1,Frederick Sanger,1,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+497,1980,1980-10-09,Literature,0,Czesław Miłosz,0,,,
+498,1980,1980-10-27,Peace,0,Adolfo Pérez Esquivel,0,,,
+499,1980,1980-10-14,Physics,1,James Cronin,0,University of Chicago,"Chicago, IL",USA
+500,1980,1980-10-10,Physiology or Medicine,1,Baruj Benacerraf,0,Harvard Medical School,"Boston, MA",USA
+501,1980,1980-10-10,Physiology or Medicine,1,Jean Dausset,0,"Université de Paris, Laboratoire Immuno-Hématologie",Paris,France
+502,1980,1980-10-10,Physiology or Medicine,1,George D. Snell,0,,,
+503,1980,1980-10-14,Physics,1,Val Fitch,0,Princeton University,"Princeton, NJ",USA
+504,1981,1981-10-19,Physics,1,Nicolaas Bloembergen,0,,,
+505,1981,1981-10-19,Chemistry,1,Roald Hoffmann,0,Cornell University,"Ithaca, NY",USA
+506,1981,1981-10-13,Economic Sciences,0,James Tobin,0,Yale University,"New Haven, CT",USA
+507,1981,1981-10-15,Literature,0,Elias Canetti,0,,,
+508,1981,1981-10-19,Chemistry,1,Kenichi Fukui,0,Kyoto University,Kyoto,Japan
+509,1981,1981-10-19,Physics,1,Arthur L. Schawlow,0,,,
+510,1981,1981-10-19,Physics,1,Kai M. Siegbahn,0,Uppsala University,Uppsala,Sweden
+511,1981,1981-10-09,Physiology or Medicine,1,Roger W. Sperry,0,,,
+512,1981,1981-10-09,Physiology or Medicine,1,Torsten N. Wiesel,0,Harvard Medical School,"Boston, MA",USA
+513,1981,1981-10-09,Physiology or Medicine,1,David H. Hubel,0,Harvard Medical School,"Boston, MA",USA
+514,1982,1982-10-13,Peace,1,Alfonso García Robles,0,,,
+515,1982,1982-10-18,Chemistry,0,Aaron Klug,0,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+516,1982,1982-10-20,Economic Sciences,0,George J. Stigler,0,,,
+517,1982,1982-10-21,Literature,0,Gabriel García Márquez,0,,,
+518,1982,1982-10-18,Physics,0,Kenneth G. Wilson,0,,,
+519,1982,1982-10-11,Physiology or Medicine,1,Sune K. Bergström,0,Karolinska Institutet,Stockholm,Sweden
+520,1982,1982-10-11,Physiology or Medicine,1,Bengt I. Samuelsson,0,,,
+521,1982,1982-10-11,Physiology or Medicine,1,John R. Vane,0,,,
+522,1982,1982-10-13,Peace,1,Alva Myrdal,0,,,
+523,1983,1983-10-17,Economic Sciences,0,Gerard Debreu,0,University of California,"Berkeley, CA",USA
+524,1983,1983-10-19,Chemistry,0,Henry Taube,0,Stanford University,"Stanford, CA",USA
+525,1983,1983-10-10,Physiology or Medicine,0,Barbara McClintock,0,,,
+526,1983,1983-10-27,Literature,0,William Golding,0,,,
+527,1983,1983-10-19,Physics,1,William A. Fowler,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+528,1983,1983-10-19,Physics,1,Subrahmanyan Chandrasekhar,0,University of Chicago,"Chicago, IL",USA
+529,1983,1983-10-05,Peace,0,Lech Wałęsa,0,,,
+530,1984,1984-10-17,Chemistry,0,Bruce Merrifield,0,Rockefeller University,"New York, NY",USA
+531,1984,1984-10-18,Economic Sciences,0,Richard Stone,0,,,
+532,1984,1984-11-27,Literature,0,Jaroslav Seifert,0,,,
+533,1984,1984-10-05,Peace,0,Desmond Tutu,0,,,
+534,1984,1984-10-17,Physics,1,Carlo Rubbia,0,CERN,Geneva,Switzerland
+535,1984,1984-10-17,Physics,1,Simon van der Meer,0,CERN,Geneva,Switzerland
+536,1984,1984-10-15,Physiology or Medicine,1,Niels K. Jerne,0,,,
+537,1984,1984-10-15,Physiology or Medicine,1,Georges J.F. Köhler,0,,,
+538,1984,1984-10-15,Physiology or Medicine,1,César Milstein,0,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+539,1985,1985-10-15,Economic Sciences,0,Franco Modigliani,0,,,
+540,1985,1985-10-16,Chemistry,1,Herbert A. Hauptman,0,The Medical Foundation of Buffalo,"Buffalo, NY",USA
+541,1985,1985-10-16,Physics,0,Klaus von Klitzing,0,,,
+542,1985,1985-10-16,Chemistry,1,Jerome Karle,0,US Naval Research Laboratory,"Washington, D.C.",USA
+543,1985,1985-10-14,Physiology or Medicine,1,Michael S. Brown,0,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",USA
+544,1985,1985-10-14,Physiology or Medicine,1,Joseph L. Goldstein,0,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",USA
+545,1985,1985-11-27,Literature,0,Claude Simon,0,,,
+546,1986,1986-10-16,Literature,0,Wole Soyinka,0,,,
+547,1986,1986-10-15,Chemistry,1,Dudley R. Herschbach,0,Harvard University,"Cambridge, MA",USA
+548,1986,1986-10-15,Chemistry,1,Yuan T. Lee,0,,,
+549,1986,1986-10-15,Chemistry,1,John C. Polanyi,0,University of Toronto,Toronto,Canada
+550,1986,1986-10-16,Economic Sciences,0,James M. Buchanan Jr.,0,,,
+551,1986,1986-10-14,Peace,0,Elie Wiesel,0,,,
+552,1986,1986-10-15,Physics,1,Gerd Binnig,0,IBM Zurich Research Laboratory,Rüschlikon,Switzerland
+553,1986,1986-10-15,Physics,1,Heinrich Rohrer,0,,,
+554,1986,1986-10-13,Physiology or Medicine,1,Stanley Cohen,0,Vanderbilt University School of Medicine,"Nashville, TN",USA
+555,1986,1986-10-13,Physiology or Medicine,1,Rita Levi-Montalcini,0,Institute of Cell Biology of the C.N.R.,Rome,Italy
+556,1986,1986-10-15,Physics,1,Ernst Ruska,0,,,
+557,1987,1987-10-14,Chemistry,1,Charles J. Pedersen,0,Du Pont,"Wilmington, DE",USA
+558,1987,1987-10-22,Literature,0,Joseph Brodsky,0,,,
+559,1987,1987-10-14,Chemistry,1,Jean-Marie Lehn,0,Université Louis Pasteur,Strasbourg,France
+560,1987,1987-10-21,Economic Sciences,0,Robert M. Solow,0,,,
+561,1987,1987-10-14,Physics,1,J. Georg Bednorz,0,IBM Zurich Research Laboratory,Rüschlikon,Switzerland
+562,1987,1987-10-13,Peace,0,Oscar Arias Sánchez,0,,,
+563,1987,1987-10-14,Physics,1,K. Alex Müller,0,IBM Zurich Research Laboratory,Rüschlikon,Switzerland
+564,1987,1987-10-12,Physiology or Medicine,0,Susumu Tonegawa,0,,,
+565,1987,1987-10-14,Chemistry,1,Donald J. Cram,0,University of California,"Los Angeles, CA",USA
+566,1988,1988-10-19,Chemistry,1,Johann Deisenhofer,0,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",USA
+567,1988,1988-10-19,Chemistry,1,Robert Huber,0,Max-Planck-Institut für Biochemie,Martinsried,Germany
+568,1988,1988-10-19,Chemistry,1,Hartmut Michel,0,Max-Planck-Institut für Biophysik,Frankfurt-on-the-Main,Germany
+569,1988,1988-10-18,Economic Sciences,0,Maurice Allais,0,,,
+570,1988,1988-10-17,Physiology or Medicine,1,George H. Hitchings,0,,,
+571,1988,1988-10-13,Literature,0,Naguib Mahfouz,0,,,
+572,1988,1988-10-19,Physics,1,Melvin Schwartz,0,,,
+573,1988,1988-10-19,Physics,1,Jack Steinberger,0,,,
+574,1988,1988-10-17,Physiology or Medicine,1,Sir James W. Black,0,,,
+575,1988,1988-10-17,Physiology or Medicine,1,Gertrude B. Elion,0,,,
+576,1988,1988-10-19,Physics,1,Leon M. Lederman,0,,,
+577,1989,1989-10-09,Literature,0,Camilo José Cela,0,,,
+578,1989,1989-10-12,Chemistry,1,Sidney Altman,0,Yale University,"New Haven, CT",USA
+579,1989,1989-10-12,Chemistry,1,Thomas R. Cech,0,University of Colorado,"Boulder, CO",USA
+580,1989,1989-10-11,Economic Sciences,0,Trygve Haavelmo,0,,,
+581,1989,1989-10-05,Peace,0,The 14th Dalai Lama,0,,,
+582,1989,1989-10-12,Physics,1,Norman F. Ramsey,0,,,
+583,1989,1989-10-12,Physics,1,Wolfgang Paul,0,,,
+584,1989,1989-10-09,Physiology or Medicine,1,J. Michael Bishop,0,University of California School of Medicine,"San Francisco, CA",USA
+585,1989,1989-10-09,Physiology or Medicine,1,Harold E. Varmus,0,University of California School of Medicine,"San Francisco, CA",USA
+586,1989,1989-10-12,Physics,1,Hans G. Dehmelt,0,,,
+587,1990,1990-10-16,Economic Sciences,1,William F. Sharpe,0,,,
+588,1990,1990-10-17,Chemistry,0,Elias James Corey,0,Harvard University,"Cambridge, MA",USA
+589,1990,1990-10-16,Economic Sciences,1,Harry M. Markowitz,0,,,
+590,1990,1990-10-15,Peace,0,Mikhail Gorbachev,0,,,
+591,1990,1990-10-11,Literature,0,Octavio Paz,0,,,
+592,1990,1990-10-17,Physics,1,Richard E. Taylor,0,,,
+593,1990,1990-10-17,Physics,1,Jerome I. Friedman,0,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA
+594,1990,1990-10-08,Physiology or Medicine,1,E. Donnall Thomas,0,Fred Hutchinson Cancer Research Center,"Seattle, WA",USA
+595,1990,1990-10-08,Physiology or Medicine,1,Joseph E. Murray,0,Brigham and Women's Hospital,"Boston, MA",USA
+596,1990,1990-10-17,Physics,1,Henry W. Kendall,0,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA
+597,1990,1990-10-16,Economic Sciences,1,Merton H. Miller,0,University of Chicago,"Chicago, IL",USA
+598,1991,1991-10-16,Chemistry,0,Richard R. Ernst,0,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland
+599,1991,1991-10-15,Economic Sciences,0,Ronald H. Coase,0,,,
+600,1991,1991-10-07,Physiology or Medicine,1,Bert Sakmann,0,Max-Planck-Institut für medizinische Forschung,Heidelberg,Germany
+601,1991,1991-10-03,Literature,0,Nadine Gordimer,0,,,
+602,1991,1991-10-16,Physics,0,Pierre-Gilles de Gennes,0,,,
+603,1991,1991-10-07,Physiology or Medicine,1,Erwin Neher,0,Max-Planck-Institut für Biophysikalische Chemie,Göttingen,Germany
+604,1991,1991-10-14,Peace,0,Aung San Suu Kyi,0,,,
+605,1992,1992-10-14,Chemistry,0,Rudolph A. Marcus,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+606,1992,1992-10-13,Economic Sciences,0,Gary Becker,0,,,
+607,1992,1992-10-08,Literature,0,Derek Walcott,0,,,
+608,1992,1992-10-16,Peace,0,Rigoberta Menchú Tum,0,,,
+609,1992,1992-10-14,Physics,0,Georges Charpak,0,,,
+610,1992,1992-10-12,Physiology or Medicine,1,Edmond H. Fischer,0,University of Washington,"Seattle, WA",USA
+611,1992,1992-10-12,Physiology or Medicine,1,Edwin G. Krebs,0,University of Washington,"Seattle, WA",USA
+612,1993,1993-10-12,Economic Sciences,1,Douglass C. North,0,Washington University,"St. Louis, MO",USA
+613,1993,1993-10-13,Chemistry,1,Kary B. Mullis,0,,,
+614,1993,1993-10-13,Chemistry,1,Michael Smith,0,University of British Columbia,Vancouver,Canada
+615,1993,1993-10-12,Economic Sciences,1,Robert W. Fogel,0,University of Chicago,"Chicago, IL",USA
+616,1993,1993-10-11,Physiology or Medicine,1,Richard J. Roberts,0,New England Biolabs,"Beverly, MA",USA
+617,1993,1993-10-07,Literature,0,Toni Morrison,0,,,
+618,1993,1993-10-13,Physics,1,Russell A. Hulse,0,Princeton University,"Princeton, NJ",USA
+619,1993,1993-10-13,Physics,1,Joseph H. Taylor Jr.,0,Princeton University,"Princeton, NJ",USA
+620,1993,1993-10-11,Physiology or Medicine,1,Phillip A. Sharp,0,"Massachusetts Institute of Technology (MIT), Center for Cancer Research","Cambridge, MA",USA
+621,1993,1993-10-15,Peace,1,Nelson Mandela,0,African National Congress,Johannesburg,South Africa
+622,1993,1993-10-15,Peace,1,F.W. de Klerk,0,,,
+623,1994,1994-10-12,Chemistry,0,George A. Olah,0,University of Southern California,"Los Angeles, CA",USA
+624,1994,1994-10-11,Economic Sciences,1,John C. Harsanyi,0,,,
+625,1994,1994-10-11,Economic Sciences,1,John F. Nash Jr.,0,,,
+626,1994,1994-10-11,Economic Sciences,1,Reinhard Selten,0,,,
+627,1994,1994-10-13,Literature,0,Kenzaburo Oe,0,,,
+628,1994,1994-10-14,Peace,1,Yasser Arafat,0,,,
+629,1994,1994-10-14,Peace,1,Shimon Peres,0,,,
+630,1994,1994-10-14,Peace,1,Yitzhak Rabin,0,,,
+631,1994,1994-10-12,Physics,1,Bertram N. Brockhouse,0,McMaster University,"Hamilton, Ontario",Canada
+632,1994,1994-10-12,Physics,1,Clifford G. Shull,0,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA
+633,1994,1994-10-10,Physiology or Medicine,1,Alfred G. Gilman,0,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",USA
+634,1994,1994-10-10,Physiology or Medicine,1,Martin Rodbell,0,National Institute of Environmental Health Sciences,"Research Triangle Park, NC",USA
+635,1995,1995-10-05,Literature,0,Seamus Heaney,0,,,
+636,1995,1995-10-11,Chemistry,1,Paul J. Crutzen,0,Max-Planck-Institut für Chemie,Mainz,Germany
+637,1995,1995-10-11,Chemistry,1,Mario J. Molina,0,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA
+638,1995,1995-10-11,Chemistry,1,F. Sherwood Rowland,0,University of California,"Irvine, CA",USA
+639,1995,1995-10-10,Economic Sciences,0,Robert E. Lucas Jr.,0,,,
+640,1995,1995-10-13,Peace,1,Joseph Rotblat,0,,,
+641,1995,1995-10-11,Physics,1,Frederick Reines,0,University of California,"Irvine, CA",USA
+642,1995,1995-10-09,Physiology or Medicine,1,Edward B. Lewis,0,,,
+643,1995,1995-10-09,Physiology or Medicine,1,Christiane Nüsslein-Volhard,0,,,
+644,1995,1995-10-09,Physiology or Medicine,1,Eric F. Wieschaus,0,,,
+645,1995,1995-10-11,Physics,1,Martin L. Perl,0,Stanford University,"Stanford, CA",USA
+646,1996,1996-10-08,Economic Sciences,1,William Vickrey,0,Columbia University,"New York, NY",USA
+647,1996,1996-10-11,Peace,1,Carlos Filipe Ximenes Belo,0,,,
+648,1996,1996-10-09,Chemistry,1,Sir Harold Kroto,0,University of Sussex,Brighton,United Kingdom
+649,1996,1996-10-09,Chemistry,1,Richard E. Smalley,0,Rice University,"Houston, TX",USA
+650,1996,1996-10-08,Economic Sciences,1,James A. Mirrlees,0,University of Cambridge,Cambridge,United Kingdom
+651,1996,1996-10-03,Literature,0,Wisława Szymborska,0,,,
+652,1996,1996-10-09,Physics,1,David M. Lee,0,Cornell University,"Ithaca, NY",USA
+653,1996,1996-10-11,Peace,1,José Ramos-Horta,0,,,
+654,1996,1996-10-09,Physics,1,Douglas D. Osheroff,0,,,
+655,1996,1996-10-09,Physics,1,Robert C. Richardson,0,,,
+656,1996,1996-10-07,Physiology or Medicine,1,Peter C. Doherty,0,St. Jude Children's Research Hospital,"Memphis, TN",USA
+657,1996,1996-10-07,Physiology or Medicine,1,Rolf M. Zinkernagel,0,"University of Zurich, Institute of Experimental Immunology",Zurich,Switzerland
+658,1996,1996-10-09,Chemistry,1,Robert F. Curl Jr.,0,Rice University,"Houston, TX",USA
+659,1997,1997-10-09,Literature,0,Dario Fo,0,,,
+660,1997,1997-10-15,Chemistry,1,Paul D. Boyer,0,University of California,"Los Angeles, CA",USA
+661,1997,1997-10-15,Chemistry,1,John E. Walker,0,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+662,1997,1997-10-15,Chemistry,1,Jens C. Skou,0,Aarhus University,Aarhus,Denmark
+663,1997,1997-10-14,Economic Sciences,1,Robert C. Merton,0,Harvard University,"Cambridge, MA",USA
+664,1997,1997-10-10,Peace,1,Jody Williams,0,,,
+665,1997,1997-10-15,Physics,1,Steven Chu,0,,,
+666,1997,1997-10-15,Physics,1,Claude Cohen-Tannoudji,0,Collège de France,Paris,France
+667,1997,1997-10-15,Physics,1,William D. Phillips,0,National Institute of Standards and Technology,"Gaithersburg, MD",USA
+668,1997,1997-10-06,Physiology or Medicine,0,Stanley B. Prusiner,0,,,
+669,1997,1997-10-14,Economic Sciences,1,Myron Scholes,0,Long Term Capital Management,"Greenwich, CT",USA
+670,1998,1998-10-08,Literature,0,José Saramago,0,,,
+671,1998,1998-10-16,Peace,1,David Trimble,0,,,
+672,1998,1998-10-13,Chemistry,1,John Pople,0,Northwestern University,"Evanston, IL",USA
+673,1998,1998-10-14,Economic Sciences,0,Amartya Sen,0,,,
+674,1998,1998-10-16,Peace,1,John Hume,0,,,
+675,1998,1998-10-13,Chemistry,1,Walter Kohn,0,University of California,"Santa Barbara, CA",USA
+676,1998,1998-10-13,Physics,1,Robert B. Laughlin,0,,,
+677,1998,1998-10-13,Physics,1,Daniel C. Tsui,0,,,
+678,1998,1998-10-12,Physiology or Medicine,1,Robert F. Furchgott,0,,,
+679,1998,1998-10-12,Physiology or Medicine,1,Ferid Murad,0,,,
+680,1998,1998-10-13,Physics,1,Horst L. Störmer,0,,,
+681,1998,1998-10-12,Physiology or Medicine,1,Louis J. Ignarro,0,University of California School of Medicine,"Los Angeles, CA",USA
+682,1999,1999-10-12,Chemistry,0,Ahmed Zewail,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+683,1999,1999-10-13,Economic Sciences,0,Robert Mundell,0,,,
+684,1999,1999-09-30,Literature,0,Günter Grass,0,,,
+685,1999,1999-10-12,Physics,1,Gerardus 't Hooft,0,Utrecht University,Utrecht,the Netherlands
+686,1999,1999-10-12,Physics,1,Martinus J.G. Veltman,0,,,
+687,1999,1999-10-11,Physiology or Medicine,0,Günter Blobel,0,,,
+688,2000,2000-10-10,Chemistry,1,Alan Heeger,0,University of California,"Santa Barbara, CA",USA
+689,2000,2000-10-10,Chemistry,1,Alan MacDiarmid,0,University of Pennsylvania,"Philadelphia, PA",USA
+690,2000,2000-10-10,Chemistry,1,Hideki Shirakawa,0,University of Tsukuba,Tsukuba,Japan
+691,2000,2000-10-13,Peace,0,Kim Dae-jung,0,,,
+692,2000,2000-10-11,Economic Sciences,1,Daniel L. McFadden,0,University of California,"Berkeley, CA",USA
+693,2000,2000-10-12,Literature,0,Gao Xingjian,0,,,
+694,2000,2000-10-09,Physiology or Medicine,1,Eric Kandel,0,Columbia University,"New York, NY",USA
+695,2000,2000-10-10,Physics,1,Zhores Alferov,0,,,
+696,2000,2000-10-10,Physics,1,Herbert Kroemer,0,,,
+697,2000,2000-10-10,Physics,1,Jack Kilby,0,,,
+698,2000,2000-10-09,Physiology or Medicine,1,Arvid Carlsson,0,Göteborg University,Gothenburg,Sweden
+699,2000,2000-10-09,Physiology or Medicine,1,Paul Greengard,0,,,
+700,2000,2000-10-11,Economic Sciences,1,James J. Heckman,0,University of Chicago,"Chicago, IL",USA
+701,2001,2001-10-11,Literature,0,V. S. Naipaul,0,,,
+702,2001,2001-10-10,Chemistry,1,William Knowles,0,,,
+703,2001,2001-10-10,Chemistry,1,Ryoji Noyori,0,Nagoya University,Nagoya,Japan
+704,2001,2001-10-10,Chemistry,1,K. Barry Sharpless,0,The Scripps Research Institute,"La Jolla, CA",USA
+705,2001,2001-10-10,Economic Sciences,1,George A. Akerlof,0,,,
+706,2001,2001-10-10,Economic Sciences,1,Joseph E. Stiglitz,0,Columbia University,"New York, NY",USA
+707,2001,2001-10-10,Economic Sciences,1,A. Michael Spence,0,Stanford University,"Stanford, CA",USA
+708,2001,2001-10-12,Peace,1,Kofi Annan,0,,,
+709,2001,2001-10-09,Physics,1,Wolfgang Ketterle,0,,,
+710,2001,2001-10-09,Physics,1,Carl Wieman,0,,,
+711,2001,2001-10-08,Physiology or Medicine,1,Leland Hartwell,0,,,
+712,2001,2001-10-08,Physiology or Medicine,1,Tim Hunt,0,,,
+713,2001,2001-10-08,Physiology or Medicine,1,Sir Paul Nurse,0,Imperial Cancer Research Fund,London,United Kingdom
+714,2001,2001-10-09,Physics,1,Eric Cornell,0,,,
+715,2002,2002-10-10,Literature,0,Imre Kertész,0,,,
+716,2002,2002-10-09,Chemistry,1,John B. Fenn,0,Virginia Commonwealth University,"Richmond, VA",USA
+717,2002,2002-10-09,Chemistry,1,Kurt Wüthrich,0,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland
+718,2002,2002-10-09,Economic Sciences,1,Daniel Kahneman,0,Princeton University,"Princeton, NJ",USA
+719,2002,2002-10-09,Economic Sciences,1,Vernon L. Smith,0,George Mason University,"Fairfax, VA",USA
+720,2002,2002-10-07,Physiology or Medicine,1,Sydney Brenner,0,,,
+721,2002,2002-10-09,Chemistry,1,Koichi Tanaka,0,Shimadzu Corp.,Kyoto,Japan
+722,2002,2002-10-08,Physics,1,Raymond Davis Jr.,0,,,
+723,2002,2002-10-08,Physics,1,Masatoshi Koshiba,0,,,
+724,2002,2002-10-08,Physics,1,Riccardo Giacconi,0,,,
+725,2002,2002-10-07,Physiology or Medicine,1,H. Robert Horvitz,0,,,
+726,2002,2002-10-07,Physiology or Medicine,1,John E. Sulston,0,,,
+727,2002,2002-10-11,Peace,0,Jimmy Carter,0,,,
+728,2003,2003-10-10,Peace,0,Shirin Ebadi,0,,,
+729,2003,2003-10-08,Chemistry,1,Peter Agre,0,Johns Hopkins University School of Medicine,"Baltimore, MD",USA
+730,2003,2003-10-08,Chemistry,1,Roderick MacKinnon,0,Rockefeller University,"New York, NY",USA
+731,2003,2003-10-08,Economic Sciences,1,Robert F. Engle III,0,New York University,"New York, NY",USA
+732,2003,2003-10-08,Economic Sciences,1,Clive W.J. Granger,0,University of California,"San Diego, CA",USA
+733,2003,2003-10-07,Physics,1,Alexei Abrikosov,0,,,
+734,2003,2003-10-07,Physics,1,Vitaly L. Ginzburg,0,,,
+735,2003,2003-10-07,Physics,1,Anthony J. Leggett,0,,,
+736,2003,2003-10-06,Physiology or Medicine,1,Paul C. Lauterbur,0,,,
+737,2003,2003-10-06,Physiology or Medicine,1,Sir Peter Mansfield,0,"University of Nottingham, School of Physics and Astronomy",Nottingham,United Kingdom
+738,2003,2003-10-02,Literature,0,J. M. Coetzee,0,,,
+739,2004,2004-10-06,Chemistry,1,Aaron Ciechanover,0,Technion - Israel Institute of Technology,Haifa,Israel
+740,2004,2004-10-11,Economic Sciences,1,Finn E. Kydland,0,Carnegie Mellon University,"Pittsburgh, PA",USA
+741,2004,2004-10-06,Chemistry,1,Irwin Rose,0,University of California,"Irvine, CA",USA
+742,2004,2004-10-07,Literature,0,Elfriede Jelinek,0,,,
+743,2004,2004-10-11,Economic Sciences,1,Edward C. Prescott,0,Arizona State University,"Tempe, AZ",USA
+744,2004,2004-10-06,Chemistry,1,Avram Hershko,0,Technion - Israel Institute of Technology,Haifa,Israel
+745,2004,2004-10-08,Peace,0,Wangari Maathai,0,,,
+746,2004,2004-10-05,Physics,1,David J. Gross,0,,,
+747,2004,2004-10-04,Physiology or Medicine,1,Linda B. Buck,0,Fred Hutchinson Cancer Research Center,"Seattle, WA",USA
+748,2004,2004-10-05,Physics,1,H. David Politzer,0,,,
+749,2004,2004-10-04,Physiology or Medicine,1,Richard Axel,0,Columbia University,"New York, NY",USA
+750,2004,2004-10-05,Physics,1,Frank Wilczek,0,,,
+751,2005,2005-10-10,Economic Sciences,1,Thomas C. Schelling,0,"University of Maryland, Department of Economics and School of Public Policy","College Park, MD",USA
+752,2005,2005-10-05,Chemistry,1,Robert H. Grubbs,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+753,2005,2005-10-05,Chemistry,1,Richard R. Schrock,0,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA
+754,2005,2005-10-10,Economic Sciences,1,Robert J. Aumann,0,"University of Jerusalem, Center for RationalityHebrew",Jerusalem,Israel
+755,2005,2005-10-03,Physiology or Medicine,1,J. Robin Warren,0,,,
+756,2005,2005-10-04,Physics,1,Theodor W. Hänsch,0,,,
+757,2005,2005-10-07,Peace,1,Mohamed ElBaradei,0,,,
+758,2005,2005-10-04,Physics,1,Roy J. Glauber,0,,,
+759,2005,2005-10-04,Physics,1,John L. Hall,0,"University of Colorado, JILA","Boulder, CO",USA
+760,2005,2005-10-03,Physiology or Medicine,1,Barry J. Marshall,0,"NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre",Nedlands,Australia
+761,2005,2005-10-13,Literature,0,Harold Pinter,0,,,
+762,2005,2005-10-05,Chemistry,1,Yves Chauvin,0,Institut Français du Pétrole,Rueil-Malmaison,France
+763,2006,2006-10-02,Physiology or Medicine,1,Andrew Z. Fire,0,Stanford University School of Medicine,"Stanford, CA",USA
+764,2006,2006-10-02,Physiology or Medicine,1,Craig C. Mello,0,University of Massachusetts Medical School,"Worcester, MA",USA
+765,2006,2006-10-04,Chemistry,0,Roger D. Kornberg,0,Stanford University,"Stanford, CA",USA
+766,2006,2006-10-09,Economic Sciences,0,Edmund S. Phelps,0,,,
+767,2006,2006-10-12,Literature,0,Orhan Pamuk,0,,,
+768,2006,2006-10-13,Peace,1,Muhammad Yunus,0,,,
+769,2006,2006-10-03,Physics,1,John C. Mather,0,NASA Goddard Space Flight Center,"Greenbelt, MD",USA
+770,2006,2006-10-03,Physics,1,George F. Smoot,0,University of California,"Berkeley, CA",USA
+771,2007,2007-10-15,Economic Sciences,1,Leonid Hurwicz,0,,,
+772,2007,2007-10-10,Chemistry,0,Gerhard Ertl,0,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Germany
+773,2007,2007-10-15,Economic Sciences,1,Eric S. Maskin,0,,,
+774,2007,2007-10-12,Peace,1,Al Gore,0,,,
+775,2007,2007-10-11,Literature,0,Doris Lessing,0,,,
+776,2007,2007-10-08,Physiology or Medicine,1,Oliver Smithies,0,,,
+777,2007,2007-10-09,Physics,1,Albert Fert,0,Universit&eacute; Paris-Sud,Orsay,France
+778,2007,2007-10-09,Physics,1,Peter Grünberg,0,Forschungszentrum J&uuml;lich,Jülich,Germany
+779,2007,2007-10-08,Physiology or Medicine,1,Sir Martin J. Evans,0,,,
+780,2007,2007-10-08,Physiology or Medicine,1,Mario R. Capecchi,0,,,
+781,2007,2007-10-15,Economic Sciences,1,Roger B. Myerson,0,University of Chicago,"Chicago, IL",USA
+782,2008,2008-10-10,Peace,0,Martti Ahtisaari,0,,,
+783,2008,2008-10-08,Chemistry,1,Osamu Shimomura,0,Marine Biological Laboratory (MBL),"Woods Hole, MA",USA
+784,2008,2008-10-08,Chemistry,1,Martin Chalfie,0,Columbia University,"New York, NY",USA
+785,2008,2008-10-08,Chemistry,1,Roger Y. Tsien,0,University of California,"San Diego, CA",USA
+786,2008,2008-10-13,Economic Sciences,0,Paul Krugman,0,,,
+787,2008,2008-10-09,Literature,0,Jean-Marie Gustave Le Clézio,0,,,
+788,2008,2008-10-07,Physics,1,Makoto Kobayashi,0,,,
+789,2008,2008-10-07,Physics,1,Toshihide Maskawa,0,,,
+790,2008,2008-10-06,Physiology or Medicine,1,Harald zur Hausen,0,,,
+791,2008,2008-10-06,Physiology or Medicine,1,Françoise Barré-Sinoussi,0,"Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur",Paris,France
+792,2008,2008-10-06,Physiology or Medicine,1,Luc Montagnier,0,,,
+793,2008,2008-10-07,Physics,1,Yoichiro Nambu,0,"Enrico Fermi Institute, University of Chicago","Chicago, IL",USA
+794,2009,2009-10-12,Economic Sciences,1,Oliver E. Williamson,0,University of California,"Berkeley, CA",USA
+795,2009,2009-10-07,Chemistry,1,Venkatraman Ramakrishnan,0,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+796,2009,2009-10-07,Chemistry,1,Thomas A. Steitz,0,Yale University,"New Haven, CT",USA
+797,2009,2009-10-07,Chemistry,1,Ada E. Yonath,0,Weizmann Institute of Science,Rehovot,Israel
+798,2009,2009-10-12,Economic Sciences,1,Elinor Ostrom,0,Indiana University,"Bloomington, IN",USA
+799,2009,2009-10-05,Physiology or Medicine,1,Jack W. Szostak,0,,,
+800,2009,2009-10-08,Literature,0,Herta Müller,0,,,
+801,2009,2009-10-06,Physics,1,Willard S. Boyle,0,,,
+802,2009,2009-10-06,Physics,1,George E. Smith,0,Bell Laboratories,"Murray Hill, NJ",USA
+803,2009,2009-10-05,Physiology or Medicine,1,Elizabeth H. Blackburn,0,,,
+804,2009,2009-10-05,Physiology or Medicine,1,Carol W. Greider,0,Johns Hopkins University School of Medicine,"Baltimore, MD",USA
+805,2009,2009-10-06,Physics,1,Charles K. Kao,0,,,
+806,2009,2009-10-09,Peace,0,Barack H. Obama,0,,,
+807,2010,2010-10-11,Economic Sciences,1,Christopher A. Pissarides,0,,,
+808,2010,2010-10-06,Chemistry,1,Richard F. Heck,0,University of Delaware,,USA
+809,2010,2010-10-11,Economic Sciences,1,Peter A. Diamond,0,,,
+810,2010,2010-10-06,Chemistry,1,Akira Suzuki,0,Hokkaido University,Sapporo,Japan
+811,2010,2010-10-11,Economic Sciences,1,Dale T. Mortensen,0,,,
+812,2010,2010-10-05,Physics,1,Konstantin Novoselov,0,University of Manchester,Manchester,United Kingdom
+813,2010,2010-10-07,Literature,0,Mario Vargas Llosa,0,,,
+814,2010,2010-10-05,Physics,1,Andre Geim,0,University of Manchester,Manchester,United Kingdom
+815,2010,2010-10-08,Peace,0,Liu Xiaobo,0,,,
+816,2010,2010-10-04,Physiology or Medicine,0,Robert G. Edwards,0,,,
+817,2010,2010-10-06,Chemistry,1,Ei-ichi Negishi,0,Purdue University,"West Lafayette, IN",USA
+818,2011,2011-10-07,Peace,1,Leymah Gbowee,0,,,
+819,2011,2011-10-10,Economic Sciences,1,Thomas J. Sargent,0,,,
+820,2011,2011-10-10,Economic Sciences,1,Christopher A. Sims,0,Princeton University,"Princeton, NJ",USA
+821,2011,2011-10-06,Literature,0,Tomas Tranströmer,0,,,
+822,2011,2011-10-07,Peace,1,Ellen Johnson Sirleaf,0,,,
+823,2011,2011-10-03,Physiology or Medicine,1,Jules A. Hoffmann,0,,,
+824,2011,2011-10-05,Chemistry,0,Dan Shechtman,0,Technion - Israel Institute of Technology,Haifa,Israel
+825,2011,2011-10-04,Physics,1,Saul Perlmutter,0,,,
+826,2011,2011-10-04,Physics,1,Brian P. Schmidt,0,,,
+827,2011,2011-10-04,Physics,1,Adam G. Riess,0,Johns Hopkins University,"Baltimore, MD",USA
+828,2011,2011-10-03,Physiology or Medicine,1,Bruce A. Beutler,0,,,
+829,2011,2011-10-03,Physiology or Medicine,1,Ralph M. Steinman,0,Rockefeller University,"New York, NY",USA
+830,2011,2011-10-07,Peace,1,Tawakkol Karman,0,,,
+831,2012,2012-10-15,Economic Sciences,1,Lloyd S. Shapley,0,University of California,"Los Angeles, CA",USA
+832,2012,2012-10-10,Chemistry,1,Robert J. Lefkowitz,0,Howard Hughes Medical Institute,,USA
+833,2012,2012-10-10,Chemistry,1,Brian Kobilka,0,Stanford University School of Medicine,"Stanford, CA",USA
+834,2012,2012-10-15,Economic Sciences,1,Alvin E. Roth,0,Harvard University,"Cambridge, MA",USA
+835,2012,2012-10-11,Literature,0,Mo Yan,0,,,
+836,2012,2012-10-09,Physics,1,David J. Wineland,0,National Institute of Standards and Technology,"Boulder, CO",USA
+837,2012,2012-10-08,Physiology or Medicine,1,Sir John B. Gurdon,0,Gurdon Institute,Cambridge,United Kingdom
+838,2012,2012-10-08,Physiology or Medicine,1,Shinya Yamanaka,0,Kyoto University,Kyoto,Japan
+839,2012,2012-10-09,Physics,1,Serge Haroche,0,Collège de France,Paris,France
+840,2013,2013-10-14,Economic Sciences,1,Lars Peter Hansen,0,University of Chicago,"Chicago, IL",USA
+841,2013,2013-10-14,Economic Sciences,1,Robert J. Shiller,0,,,
+842,2013,2013-10-09,Chemistry,1,Michael Levitt,0,Stanford University School of Medicine,"Stanford, CA",USA
+843,2013,2013-10-09,Chemistry,1,Arieh Warshel,0,University of Southern California,"Los Angeles, CA",USA
+844,2013,2013-10-14,Economic Sciences,1,Eugene F. Fama,0,University of Chicago,"Chicago, IL",USA
+845,2013,2013-10-09,Chemistry,1,Martin Karplus,0,Université de Strasbourg,Strasbourg,France
+846,2013,2013-10-08,Physics,1,François Englert,0,Université Libre de Bruxelles,Brussels,Belgium
+847,2013,2013-10-08,Physics,1,Peter Higgs,0,University of Edinburgh,Edinburgh,United Kingdom
+848,2013,2013-10-07,Physiology or Medicine,1,James E. Rothman,0,,,
+849,2013,2013-10-07,Physiology or Medicine,1,Randy W. Schekman,0,,,
+850,2013,2013-10-07,Physiology or Medicine,1,Thomas C. Südhof,0,,,
+851,2013,2013-10-10,Literature,0,Alice Munro,0,,,
+852,2014,2014-10-10,Peace,1,Malala Yousafzai,0,Malala Fund,Birmingham,UK
+853,2014,2014-10-08,Chemistry,1,Eric Betzig,0,"Janelia Research Campus, Howard Hughes Medical Institute","Ashburn, VA",USA
+854,2014,2014-10-08,Chemistry,1,Stefan W. Hell,0,Max Planck Institute for Biophysical Chemistry,Göttingen,Germany
+855,2014,2014-10-08,Chemistry,1,William E. Moerner,0,Stanford University,"Stanford, CA",USA
+856,2014,2014-10-13,Economic Sciences,0,Jean Tirole,0,,,
+857,2014,2014-10-09,Literature,0,Patrick Modiano,0,,,
+858,2014,2014-10-07,Physics,1,Isamu Akasaki,0,,,
+859,2014,2014-10-07,Physics,1,Hiroshi Amano,0,,,
+860,2014,2014-10-07,Physics,1,Shuji Nakamura,0,,,
+861,2014,2014-10-06,Physiology or Medicine,1,John O'Keefe,0,,,
+862,2014,2014-10-06,Physiology or Medicine,1,May-Britt Moser,0,Norwegian University of Science and Technology (NTNU),Trondheim,Norway
+863,2014,2014-10-06,Physiology or Medicine,1,Edvard I. Moser,0,,,
+864,2014,2014-10-10,Peace,1,Kailash Satyarthi,0,,,
+865,2015,2015-10-07,Chemistry,1,Aziz Sancar,0,University of North Carolina,"Chapel Hill, NC",USA
+866,2015,2015-10-07,Chemistry,1,Tomas Lindahl,0,Francis Crick Institute,Hertfordshire,United Kingdom
+867,2015,2015-10-07,Chemistry,1,Paul Modrich,0,Howard Hughes Medical Institute,"Durham, NC",USA
+868,2015,2015-10-08,Literature,0,Svetlana Alexievich,0,,,
+869,2015,2015-10-12,Economic Sciences,0,Angus Deaton,0,,,
+870,2015,2015-10-05,Physiology or Medicine,1,Tu Youyou,0,,,
+871,2015,2015-10-05,Physiology or Medicine,1,William C. Campbell,0,,,
+872,2015,2015-10-05,Physiology or Medicine,1,Satoshi Ōmura,0,,,
+873,2015,2015-10-06,Physics,1,Arthur B. McDonald,0,Queen's University,Kingston,Canada
+874,2015,2015-10-06,Physics,1,Takaaki Kajita,0,University of Tokyo,Kashiwa,Japan
+875,2016,2016-10-05,Chemistry,1,Jean-Pierre Sauvage,0,University of Strasbourg,Strasbourg,France
+876,2016,2016-10-05,Chemistry,1,Sir J. Fraser Stoddart,0,Northwestern University,"Evanston, IL",USA
+877,2016,2016-10-05,Chemistry,1,Bernard L. Feringa,0,University of Groningen,Groningen,the Netherlands
+878,2016,2016-10-10,Economic Sciences,1,Oliver Hart,0,Harvard University,"Cambridge, MA",USA
+879,2016,2016-10-10,Economic Sciences,1,Bengt Holmström,0,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA
+880,2016,2016-10-13,Literature,0,Bob Dylan,0,,,
+881,2016,2016-10-07,Peace,0,Juan Manuel Santos,0,,,
+882,2016,2016-10-04,Physics,1,David J. Thouless,0,,,
+883,2016,2016-10-04,Physics,1,F. Duncan M. Haldane,0,,,
+884,2016,2016-10-04,Physics,1,J. Michael Kosterlitz,0,,,
+885,2016,2016-10-03,Physiology or Medicine,0,Yoshinori Ohsumi,0,,,
+886,2017,2017-10-03,Physics,1,Rainer Weiss,0,,,
+887,2017,2017-10-04,Chemistry,1,Joachim Frank,0,Columbia University,"New York, NY",USA
+888,2017,2017-10-04,Chemistry,1,Richard Henderson,0,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+889,2017,2017-10-09,Economic Sciences,0,Richard H. Thaler,0,,,
+890,2017,2017-10-05,Literature,0,Kazuo Ishiguro,0,,,
+891,2017,2017-10-02,Physiology or Medicine,1,Michael W. Young,0,,,
+892,2017,2017-10-03,Physics,1,Barry C. Barish,0,,,
+893,2017,2017-10-03,Physics,1,Kip S. Thorne,0,,,
+894,2017,2017-10-02,Physiology or Medicine,1,Jeffrey C. Hall,0,,,
+895,2017,2017-10-02,Physiology or Medicine,1,Michael Rosbash,0,Brandeis University,"Waltham, MA",USA
+896,2017,2017-10-04,Chemistry,1,Jacques Dubochet,0,University of Lausanne,Lausanne,Switzerland
+897,2018,2018-10-01,Economic Sciences,1,Paul M. Romer,0,NYU Stern School of Business,"New York, NY",USA
+898,2018,2018-10-05,Peace,1,Denis Mukwege,0,,,
+899,2018,2018-10-03,Chemistry,1,Frances H. Arnold,0,California Institute of Technology (Caltech),"Pasadena, CA",USA
+900,2018,2018-10-03,Chemistry,1,George P. Smith,0,University of Missouri,Columbia,USA
+901,2018,2018-10-01,Economic Sciences,1,William D. Nordhaus,0,Yale University,"New Haven, CT",USA
+902,2018,2019-10-10,Literature,0,Olga Tokarczuk,0,,,
+903,2018,2018-10-01,Physiology or Medicine,1,James P. Allison,0,Parker Institute for Cancer Immunotherapy,"San Francisco, CA",USA
+904,2018,2018-10-05,Peace,1,Nadia Murad,0,,,
+905,2018,2018-10-02,Physics,1,Gérard Mourou,0,,,
+906,2018,2018-10-02,Physics,1,Donna Strickland,0,University of Waterloo,Waterloo,Canada
+907,2018,2018-10-01,Physiology or Medicine,1,Tasuku Honjo,0,,,
+908,2018,2018-10-02,Physics,1,Arthur Ashkin,0,,,
+909,2018,2018-10-03,Chemistry,1,Sir Gregory P. Winter,0,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+910,2019,2019-10-14,Economic Sciences,1,Michael Kremer,0,Harvard University,"Cambridge, MA",USA
+911,2019,2019-10-09,Chemistry,1,John B. Goodenough,0,University of Texas,"Austin, TX",USA
+912,2019,2019-10-09,Chemistry,1,M. Stanley Whittingham,0,"Binghamton University, State University of New York","New York, NY",USA
+913,2019,2019-10-09,Chemistry,1,Akira Yoshino,0,Asahi Kasei Corporation,Tokyo,Japan
+914,2019,2019-10-14,Economic Sciences,1,Abhijit Banerjee,0,,,
+915,2019,2019-10-14,Economic Sciences,1,Esther Duflo,0,,,
+916,2019,2019-10-10,Literature,0,Peter Handke,0,,,
+917,2019,2019-10-11,Peace,0,Abiy Ahmed Ali,0,,,
+918,2019,2019-10-08,Physics,1,Michel Mayor,0,,,
+919,2019,2019-10-08,Physics,1,Didier Queloz,0,,,
+920,2019,2019-10-07,Physiology or Medicine,1,William G. Kaelin Jr,0,,,
+921,2019,2019-10-07,Physiology or Medicine,1,Sir Peter J. Ratcliffe,0,,,
+922,2019,2019-10-07,Physiology or Medicine,1,Gregg L. Semenza,0,,,
+923,2019,2019-10-08,Physics,1,James Peebles,0,,,
+924,2020,2020-10-12,Economic Sciences,1,Robert B. Wilson,0,Stanford University,"Stanford, CA",USA
+925,2020,2020-10-07,Chemistry,1,Emmanuelle Charpentier,0,Max Planck Unit for the Science of Pathogens,Berlin,Germany
+926,2020,2020-10-08,Literature,0,Louise Glück,0,,,
+927,2020,2020-10-12,Economic Sciences,1,Paul R. Milgrom,0,Stanford University,"Stanford, CA",USA
+928,2020,2020-10-05,Physiology or Medicine,1,Harvey J. Alter,0,National Institutes of Health,"Bethesda, MD",USA
+929,2020,2020-10-07,Chemistry,1,Jennifer A. Doudna,0,University of California,"Berkeley, CA",USA
+930,2020,2020-10-06,Physics,1,Andrea Ghez,0,,,
+931,2020,2020-10-05,Physiology or Medicine,1,Charles M. Rice,0,,,
+932,2020,2020-10-05,Physiology or Medicine,1,Michael Houghton,0,,,
+933,2020,2020-10-06,Physics,1,Reinhard Genzel,0,,,
+934,2020,2020-10-06,Physics,1,Roger Penrose,0,University of Oxford,Oxford,United Kingdom
+935,2021,2021-10-06,Chemistry,1,Benjamin List,0,Max-Planck-Institut für Kohlenforschung,Mülheim an der Ruhr,Germany
+936,2021,2021-10-06,Chemistry,1,David W.C. MacMillan,0,Princeton University,"Princeton, NJ",USA
+937,2021,2021-10-11,Economic Sciences,1,David Card,0,University of California,"Berkeley, CA",USA
+938,2021,2021-10-11,Economic Sciences,1,Joshua D. Angrist,0,,,
+939,2021,2021-10-11,Economic Sciences,1,Guido W. Imbens,0,Stanford University,"Stanford, CA",USA
+940,2021,2021-10-04,Physiology or Medicine,1,Ardem Patapoutian,0,Scripps Research,"La Jolla, CA",USA
+941,2021,2021-10-07,Literature,0,Abdulrazak Gurnah,0,,,
+942,2021,2021-10-08,Peace,1,Dmitry Muratov,0,,,
+943,2021,2021-10-05,Physics,1,Syukuro Manabe,0,,,
+944,2021,2021-10-05,Physics,1,Klaus Hasselmann,0,,,
+945,2021,2021-10-05,Physics,1,Giorgio Parisi,0,,,
+946,2021,2021-10-04,Physiology or Medicine,1,David Julius,0,University of California,"San Francisco, CA",USA
+947,2021,2021-10-08,Peace,1,Maria Ressa,0,,,
+948,2022,2011-10-10,Economic Sciences,1,Douglas Diamond,0,,,
+949,2022,2022-10-05,Chemistry,1,Carolyn Bertozzi,0,Stanford University,"Stanford, CA",USA
+950,2022,2022-10-05,Chemistry,1,Morten Meldal,0,University of Copenhagen,Copenhagen,Denmark
+951,2022,2022-10-05,Chemistry,1,K. Barry Sharpless,1,Scripps Research,"La Jolla, CA",USA
+952,2022,2011-10-10,Economic Sciences,1,Ben Bernanke,0,,,
+953,2022,2011-10-10,Economic Sciences,1,Philip Dybvig,0,Washington University,"St. Louis, MO",USA
+954,2022,2022-10-06,Literature,0,Annie Ernaux,0,,,
+955,2022,2022-10-04,Physics,1,Alain Aspect,0,,,
+956,2022,2022-10-04,Physics,1,John Clauser,0,,,
+957,2022,2022-10-04,Physics,1,Anton Zeilinger,0,,,
+958,2022,2022-10-03,Physiology or Medicine,0,Svante Pääbo,0,,,
+959,2022,2022-10-07,Peace,1,Ales Bialiatski,0,,,
+960,2023,2023-10-09,Economic Sciences,0,Claudia Goldin,0,,,
+961,2023,2023-10-04,Chemistry,1,Moungi Bawendi,0,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA
+962,2023,2023-10-04,Chemistry,1,Louis Brus,0,Columbia University,"New York, NY",USA
+963,2023,2023-10-06,Peace,0,Narges Mohammadi,0,,,
+964,2023,2023-10-05,Literature,0,Jon Fosse,0,,,
+965,2023,2023-10-03,Physics,1,Anne L’Huillier,0,,,
+966,2023,2023-10-03,Physics,1,Pierre Agostini,0,,,
+967,2023,2023-10-02,Physiology or Medicine,1,Drew Weissman,0,"Penn Institute for RNA Innovations, University of Pennsylvania","Philadelphia, PA",USA
+968,2023,2023-10-02,Physiology or Medicine,1,Katalin Karikó,0,Szeged University,Szeged,Hungary
+969,2023,2023-10-03,Physics,1,Ferenc Krausz,0,,,
+970,2023,2023-10-04,Chemistry,1,Aleksey Yekimov ,0,Nanocrystals Technology Inc.,"New York, NY",USA

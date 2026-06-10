@@ -1,0 +1,96 @@
+{
+  "tables": [
+    {
+      "name": "nobel_prizes_1901_2023_awardees",
+      "keys": [
+        "id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "dtype": "integer"
+        },
+        {
+          "name": "award_year",
+          "dtype": "integer"
+        },
+        {
+          "name": "date_awarded",
+          "dtype": "string"
+        },
+        {
+          "name": "category",
+          "dtype": "string"
+        },
+        {
+          "name": "is_shared",
+          "dtype": "integer"
+        },
+        {
+          "name": "name",
+          "dtype": "string"
+        },
+        {
+          "name": "is_repeat_winner",
+          "dtype": "integer"
+        },
+        {
+          "name": "affiliation_name",
+          "dtype": "string"
+        },
+        {
+          "name": "affiliation_city",
+          "dtype": "string"
+        },
+        {
+          "name": "affiliation_country",
+          "dtype": "string"
+        }
+      ]
+    },
+    {
+      "name": "nobel_prizes_1901_2023_recipients",
+      "keys": [
+        "name"
+      ],
+      "columns": [
+        {
+          "name": "name",
+          "dtype": "string"
+        },
+        {
+          "name": "full_name",
+          "dtype": "string"
+        },
+        {
+          "name": "sex",
+          "dtype": "string"
+        },
+        {
+          "name": "birth_date",
+          "dtype": "string"
+        },
+        {
+          "name": "birth_city",
+          "dtype": "string"
+        },
+        {
+          "name": "birth_country",
+          "dtype": "string"
+        },
+        {
+          "name": "death_date",
+          "dtype": "string"
+        },
+        {
+          "name": "death_city",
+          "dtype": "string"
+        },
+        {
+          "name": "death_country",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

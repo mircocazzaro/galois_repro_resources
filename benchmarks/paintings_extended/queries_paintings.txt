@@ -1,0 +1,419 @@
+--query1
+For museums, take the name together with the city, but only in those cases where the country is set to USA.
+
+--query2
+For museums, take the name together with the city, but only in those cases where the country is set to France.
+
+--query3
+For museums, take the name together with the city, but only in those cases where the country is set to UK.
+
+--query4
+For museums, take the name together with the city, but only in those cases where the country is set to Netherlands.
+
+--query5
+For museums, take the name together with the city, but only in those cases where the country is set to Spain.
+
+--query6
+For museums, take the name together with the city, but only in those cases where the country is set to Russia.
+
+--query7
+For museums, take the name together with the city, but only in those cases where the country is set to Switzerland.
+
+--query8
+For museums, take the name together with the city, but only in those cases where the country is set to Australia.
+
+--query9
+For museums, take the name together with the city, but only in those cases where the country is set to Brazil.
+
+--query10
+For museums, take the name together with the city, but only in those cases where the country is set to Italy.
+
+--query11
+For artists, return the full name whenever their nationality is French and their birth year falls between 1800 and 1899.
+
+--query12
+For artists, return the full name whenever their nationality is American and their birth year falls between 1800 and 1899.
+
+--query13
+For artists, return the full name whenever their nationality is Dutch and their birth year falls between 1600 and 1699.
+
+--query14
+For artists, return the full name whenever their nationality is English and their birth year falls between 1700 and 1799.
+
+--query15
+For artists, return the full name whenever their nationality is Italian and their birth year falls between 1400 and 1599.
+
+--query16
+For artists, return the full name whenever their nationality is German and their birth year falls between 1800 and 1899.
+
+--query17
+For artists, return the full name whenever their nationality is Russian and their birth year falls between 1800 and 1899.
+
+--query18
+For artists, return the full name whenever their nationality is Spanish and their birth year falls between 1500 and 1699.
+
+--query19
+For artists, return the full name whenever their nationality is Flemish and their birth year falls between 1500 and 1699.
+
+--query20
+For artists, return the full name whenever their nationality is Austrian and their birth year falls between 1800 and 1899.
+
+--query21
+For artists, fetch the full name plus nationality, limited to those whose style is Baroque and whose nationality is Dutch.
+
+--query22
+For artists, fetch the full name plus nationality, limited to those whose style is Impressionist and whose nationality is French.
+
+--query23
+For artists, fetch the full name plus nationality, limited to those whose style is Impressionist and whose nationality is American.
+
+--query24
+For artists, fetch the full name plus nationality, limited to those whose style is Hudson River School and whose nationality is American.
+
+--query25
+For artists, fetch the full name plus nationality, limited to those whose style is Realist and whose nationality is American.
+
+--query26
+For artists, fetch the full name plus nationality, limited to those whose style is Marine Art and whose nationality is English.
+
+--query27
+For artists, fetch the full name plus nationality, limited to those whose style is Colonial and whose nationality is American.
+
+--query28
+For artists, fetch the full name plus nationality, limited to those whose style is Expressionist and whose nationality is German.
+
+--query29
+For artists, fetch the full name plus nationality, limited to those whose style is Post-Impressionist and whose nationality is French.
+
+--query30
+For artists, fetch the full name plus nationality, limited to those whose style is Neoclassical and whose nationality is French.
+
+--query31
+For museums, select the name and the state, but only where the country is USA and the state happens to be CA.
+
+--query32
+For museums, select the name and the state, but only where the country is USA and the state happens to be DC.
+
+--query33
+For museums, select the name and the state, but only where the country is USA and the state happens to be NY.
+
+--query34
+For museums, select the name and the state, but only where the country is USA and the state happens to be OH.
+
+--query35
+For museums, select the name and the state, but only where the country is USA and the state happens to be TX.
+
+--query36
+For museums, select the name and the state, but only where the country is USA and the state happens to be MO.
+
+--query37
+For museums, select the name and the state, but only where the country is USA and the state happens to be PA.
+
+--query38
+For museums, select the name and the state, but only where the country is USA and the state happens to be IL.
+
+--query39
+For museums, select the name and the state, but only where the country is USA and the state happens to be MA.
+
+--query40
+For museums, select the name and the state, but only where the country is USA and the state happens to be VA.
+
+--query41
+For museums, return the name together with the city where the country is USA and the city is specifically New York.
+
+--query42
+For museums, return the name together with the city where the country is USA and the city is specifically Washington.
+
+--query43
+For museums, return the name together with the city where the country is USA and the city is specifically Los Angeles.
+
+--query44
+For museums, return the name together with the city where the country is USA and the city is specifically Philadelphia.
+
+--query45
+For museums, return the name together with the city where the country is USA and the city is specifically Boston.
+
+--query46
+For museums, return the name together with the city where the country is France and the city is specifically Paris.
+
+--query47
+For museums, return the name together with the city where the country is Spain and the city is specifically Madrid.
+
+--query48
+For museums, return the name together with the city where the country is UK and the city is specifically London.
+
+--query49
+For museums, return the name together with the city where the country is Netherlands and the city is specifically Amsterdam.
+
+--query50
+For museums, return the name together with the city where the country is Brazil and the city is specifically São Paulo.
+
+--query51
+For artists, list the full name whenever the birth year is earlier than 1700 and the style is marked as Baroque.
+
+--query52
+For artists, list the full name whenever the birth year is earlier than 1750 and the style is marked as Rococo.
+
+--query53
+For artists, list the full name whenever the birth year is earlier than 1800 and the style is marked as Neoclassical.
+
+--query54
+For artists, list the full name whenever the birth year is earlier than 1600 and the style is marked as Renaissance.
+
+--query55
+For artists, list the full name whenever the birth year is earlier than 1800 and the style is marked as Romantic.
+
+--query56
+For artists, list the full name whenever the birth year is earlier than 1850 and the style is marked as Realist.
+
+--query57
+For artists, list the full name whenever the birth year is earlier than 1850 and the style is marked as Impressionist.
+
+--query58
+For artists, list the full name whenever the birth year is earlier than 1900 and the style is marked as Expressionist.
+
+--query59
+For artists, list the full name whenever the birth year is earlier than 1850 and the style is marked as Marine Art.
+
+--query60
+For artists, list the full name whenever the birth year is earlier than 1800 and the style is marked as Portraitist.
+
+--query61
+For artists with Spanish nationality, return the full name when the recorded year of death is later than 1900.
+
+--query62
+For artists with French nationality, return the full name when the recorded year of death is later than 1900.
+
+--query63
+For artists with American nationality, return the full name when the recorded year of death is later than 1900.
+
+--query64
+For artists with Dutch nationality, return the full name when the recorded year of death is later than 1900.
+
+--query65
+For artists with English nationality, return the full name when the recorded year of death is later than 1900.
+
+--query66
+For artists with Italian nationality, return the full name when the recorded year of death is later than 1800.
+
+--query67
+For artists with German nationality, return the full name when the recorded year of death is later than 1900.
+
+--query68
+For artists with Russian nationality, return the full name when the recorded year of death is later than 1900.
+
+--query69
+For artists with Austrian nationality, return the full name when the recorded year of death is later than 1900.
+
+--query70
+For artists with Swiss nationality, return the full name when the recorded year of death is later than 1900.
+
+--query71
+For works, give the name whenever the style is Impressionism and the museum identifier is 35.
+
+--query72
+For works, give the name whenever the style is Impressionism and the museum identifier is 51.
+
+--query73
+For works, give the name whenever the style is Baroque and the museum identifier is 43.
+
+--query74
+For works, give the name whenever the style is Impressionism and the museum identifier is 49.
+
+--query75
+For works, give the name whenever the style is Baroque and the museum identifier is 47.
+
+--query76
+For works, give the name whenever the style is Impressionism and the museum identifier is 46.
+
+--query77
+For works, give the name whenever the style is Impressionism and the museum identifier is 67.
+
+--query78
+For works, give the name whenever the style is Baroque and the museum identifier is 35.
+
+--query79
+For works, give the name whenever the style is American Art and the museum identifier is 35.
+
+--query80
+For works, give the name whenever the style is Romanticism and the museum identifier is 35.
+
+--query81
+For works that are tied to an artist, take the work’s name whenever the linked artist has Renoir as the last name.
+
+--query82
+For works that are tied to an artist, take the work’s name whenever the linked artist has Monet as the last name.
+
+--query83
+For works that are tied to an artist, take the work’s name whenever the linked artist has Van Gogh as the last name.
+
+--query84
+For works that are tied to an artist, take the work’s name whenever the linked artist has Utrillo as the last name.
+
+--query85
+For works that are tied to an artist, take the work’s name whenever the linked artist has Marquet as the last name.
+
+--query86
+For works that are tied to an artist, take the work’s name whenever the linked artist has Lebasque as the last name.
+
+--query87
+For works that are tied to an artist, take the work’s name whenever the linked artist has Pissarro as the last name.
+
+--query88
+For works that are tied to an artist, take the work’s name whenever the linked artist has Valtat as the last name.
+
+--query89
+For works that are tied to an artist, take the work’s name whenever the linked artist has Luce as the last name.
+
+--query90
+For works that are tied to an artist, take the work’s name whenever the linked artist has Le Sidaner as the last name.
+
+--query91
+For works joined with artists and museums, return the work name together with the museum name where the museum is in USA and the artist nationality is French.
+
+--query92
+For works joined with artists and museums, return the work name together with the museum name where the museum is in USA and the artist nationality is American.
+
+--query93
+For works joined with artists and museums, return the work name together with the museum name where the museum is in Netherlands and the artist nationality is Dutch.
+
+--query94
+For works joined with artists and museums, return the work name together with the museum name where the museum is in France and the artist nationality is French.
+
+--query95
+For works joined with artists and museums, return the work name together with the museum name where the museum is in USA and the artist nationality is Dutch.
+
+--query96
+For works joined with artists and museums, return the work name together with the museum name where the museum is in UK and the artist nationality is French.
+
+--query97
+For works joined with artists and museums, return the work name together with the museum name where the museum is in USA and the artist nationality is English.
+
+--query98
+For works joined with artists and museums, return the work name together with the museum name where the museum is in United Kingdom and the artist nationality is English.
+
+--query99
+For works joined with artists and museums, return the work name together with the museum name where the museum is in USA and the artist nationality is Italian.
+
+--query100
+For works joined with artists and museums, return the work name together with the museum name where the museum is in Russia and the artist nationality is French.
+
+--query101
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Landscape Art and the work style is American Landscape.
+
+--query102
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Rivers/Lakes and the work style is Impressionism.
+
+--query103
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Seascapes and the work style is Impressionism.
+
+--query104
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Nude and the work style is Impressionism.
+
+--query105
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Flowers and the work style is Post-Impressionism.
+
+--query106
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Winter and the work style is Impressionism.
+
+--query107
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Portraits and the work style is Neo-Classicism.
+
+--query108
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Nude and the work style is Post-Impressionism.
+
+--query109
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Christianity and the work style is Renaissance.
+
+--query110
+For works joined with subjects, retrieve the work name together with the subject whenever the subject is Horses and the work style is Realism.
+
+--query111
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Impressionism and the sale price is 285.
+
+--query112
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Impressionism and the sale price is 385.
+
+--query113
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Impressionism and the sale price is 355.
+
+--query114
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Impressionism and the sale price is 475.
+
+--query115
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Impressionism and the sale price is 215.
+
+--query116
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Impressionism and the sale price is 305.
+
+--query117
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Impressionism and the sale price is 655.
+
+--query118
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Post-Impressionism and the sale price is 265.
+
+--query119
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Post-Impressionism and the sale price is 335.
+
+--query120
+For works joined with product sizes, return the work name together with the sale price and regular price where the work style is Post-Impressionism and the sale price is 455.
+
+--query121
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is Impressionism and the museum country is USA.
+
+--query122
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is Baroque and the museum country is USA.
+
+--query123
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is Realism and the museum country is USA.
+
+--query124
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is Baroque and the museum country is Netherlands.
+
+--query125
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is Impressionism and the museum country is France.
+
+--query126
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is American Art and the museum country is USA.
+
+--query127
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is Rococo and the museum country is USA.
+
+--query128
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is Baroque and the museum country is UK.
+
+--query129
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is Romanticism and the museum country is USA.
+
+--query130
+For works joined with image links and museums, return the work name together with the small thumbnail URL where the work style is Post-Impressionism and the museum country is USA.
+
+--query131
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is French and the subject is Nude.
+
+--query132
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is American and the subject is Landscape Art.
+
+--query133
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is American and the subject is Portraits.
+
+--query134
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is French and the subject is Flowers.
+
+--query135
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is French and the subject is Rivers/Lakes.
+
+--query136
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is American and the subject is Abstract/Modern Art.
+
+--query137
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is French and the subject is Portraits.
+
+--query138
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is French and the subject is Still-Life.
+
+--query139
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is Dutch and the subject is Portraits.
+
+--query140
+For artists joined with works and subjects, retrieve the artist full name together with the work name whenever the artist nationality is French and the subject is Seascapes.

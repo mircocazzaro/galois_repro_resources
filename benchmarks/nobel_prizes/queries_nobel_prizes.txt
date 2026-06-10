@@ -1,0 +1,149 @@
+--query1
+In which years and categories did Albert Einstein win the Nobel Prize?
+
+--query2
+In which years and categories did Niels Bohr win the Nobel Prize?
+
+--query3
+In which years and categories did Marie Curie win the Nobel Prize?
+
+--query4
+In which years and categories did Sir Alexander Fleming win the Nobel Prize?
+
+--query5
+In which years and categories did Barack H. Obama win the Nobel Prize?
+
+--query6
+In which years and categories did Peter Higgs win the Nobel Prize?
+
+--query7
+In which years and categories did Kip S. Thorne win the Nobel Prize?
+
+--query8
+In which years and categories did Malala Yousafzai win the Nobel Prize?
+
+--query9
+In which years and categories did Ernest Hemingway win the Nobel Prize?
+
+--query10
+In which years and categories did Linus Pauling win the Nobel Prize?
+
+--query11
+Who were the Nobel Prize winners in 2023 and what were their categories and birth countries?
+
+--query12
+Who were the Nobel Prize winners in 2013 and what were their categories and birth countries?
+
+--query13
+Who were the Nobel Prize winners in 2000 and what were their categories and birth countries?
+
+--query14
+Who were the Nobel Prize winners in 1993 and what were their categories and birth countries?
+
+--query15
+Who were the Nobel Prize winners in 1973 and what were their categories and birth countries?
+
+--query16
+Who were the Nobel Prize winners in 1964 and what were their categories and birth countries?
+
+--query17
+Who were the Nobel Prize winners in 1956 and what were their categories and birth countries?
+
+--query18
+Who were the Nobel Prize winners in 1932 and what were their categories and birth countries?
+
+--query19
+Who were the Nobel Prize winners in 1914 and what were their categories and birth countries?
+
+--query20
+Who were the Nobel Prize winners in 1901 and what were their categories and birth countries?
+
+--query21
+How many Nobel Prize winners were born in Italy?
+
+--query22
+How many Nobel Prize winners were born in USA?
+
+--query23
+How many Nobel Prize winners were born in United Kingdom?
+
+--query24
+How many Nobel Prize winners were born in Germany?
+
+--query25
+How many Nobel Prize winners were born in France?
+
+--query26
+How many Nobel Prize winners were born in Sweden?
+
+--query27
+How many Nobel Prize winners were born in Poland?
+
+--query28
+How many Nobel Prize winners were born in Russia?
+
+--query29
+How many Nobel Prize winners were born in the Netherlands?
+
+--query30
+How many Nobel Prize winners were born in Japan?
+
+--query31
+In which years and categories did Rita Levi-Montalcini win the Nobel Prize? What was their birth country?
+
+--query32
+In which years and categories did John Bardeen win the Nobel Prize? What was their birth country?
+
+--query33
+In which years and categories did Frederick Sanger win the Nobel Prize? What was their birth country?
+
+--query34
+In which years and categories did Tu Youyou win the Nobel Prize? What was their birth country?
+
+--query35
+In which years and categories did Liu Xiaobo win the Nobel Prize? What was their birth country?
+
+--query36
+In which years and categories did Toni Morrison win the Nobel Prize? What was their birth country?
+
+--query37
+In which years and categories did Richard P. Feynman win the Nobel Prize? What was their birth country?
+
+--query38
+In which years and categories did Joseph E. Stiglitz win the Nobel Prize? What was their birth country?
+
+--query39
+In which years and categories did Bob Dylan win the Nobel Prize? What was their birth country?
+
+--query40
+In which years and categories did Mother Teresa win the Nobel Prize? What was their birth country?
+
+--query41
+How many Nobel Prizes were awarded each year between 1940 and 1945?
+
+--query42
+How many Nobel Prizes were awarded each year between 1914 1918?
+
+--query43
+How many Nobel Prizes were awarded each year between 2019 and 2023?
+
+--query44
+How many Nobel Prizes were awarded each year between 1920 and 1930?
+
+--query45
+How many Nobel Prizes were awarded each year between 1930 and 1940?
+
+--query46
+How many Nobel Prizes were awarded each year between 1950 and 1960?
+
+--query47
+How many Nobel Prizes were awarded each year between 1970 and 1980?
+
+--query48
+How many Nobel Prizes were awarded each year between 1980 and 1990?
+
+--query49
+How many Nobel Prizes were awarded each year between 1990 and 2000?
+
+--query50
+How many Nobel Prizes were awarded each year between 2000 and 2010?

@@ -1,0 +1,93 @@
+{
+  "tables": [
+    {
+      "name": "artist",
+      "keys": ["full_name"],
+      "columns": [
+        { "name": "artist_id", "dtype": "integer" },
+        { "name": "full_name", "dtype": "string" },
+        { "name": "first_name", "dtype": "string" },
+        { "name": "middle_names", "dtype": "string" },
+        { "name": "last_name", "dtype": "string" },
+        { "name": "nationality", "dtype": "string" },
+        { "name": "style", "dtype": "string" },
+        { "name": "birth", "dtype": "integer" },
+        { "name": "death", "dtype": "integer" }
+      ]
+    },
+    {
+      "name": "canvas_size",
+      "keys": ["label"],
+      "columns": [
+        { "name": "size_id", "dtype": "integer" },
+        { "name": "width", "dtype": "integer" },
+        { "name": "height", "dtype": "number" },
+        { "name": "label", "dtype": "string" }
+      ]
+    },
+    {
+      "name": "image_link",
+      "keys": ["work_id", "url"],
+      "columns": [
+        { "name": "work_id", "dtype": "integer" },
+        { "name": "url", "dtype": "string" },
+        { "name": "thumbnail_small_url", "dtype": "string" },
+        { "name": "thumbnail_large_url", "dtype": "string" }
+      ]
+    },
+    {
+      "name": "museum",
+      "keys": ["name"],
+      "columns": [
+        { "name": "museum_id", "dtype": "integer" },
+        { "name": "name", "dtype": "string" },
+        { "name": "address", "dtype": "string" },
+        { "name": "city", "dtype": "string" },
+        { "name": "state", "dtype": "string" },
+        { "name": "postal", "dtype": "string" },
+        { "name": "country", "dtype": "string" },
+        { "name": "phone", "dtype": "string" },
+        { "name": "url", "dtype": "string" }
+      ]
+    },
+    {
+      "name": "museum_hours",
+      "keys": ["museum_id", "day"],
+      "columns": [
+        { "name": "museum_id", "dtype": "integer" },
+        { "name": "day", "dtype": "string" },
+        { "name": "open", "dtype": "string" },
+        { "name": "close", "dtype": "string" }
+      ]
+    },
+    {
+      "name": "product_size",
+      "keys": ["work_id", "size_id"],
+      "columns": [
+        { "name": "work_id", "dtype": "integer" },
+        { "name": "size_id", "dtype": "string" },
+        { "name": "sale_price", "dtype": "integer" },
+        { "name": "regular_price", "dtype": "integer" }
+      ]
+    },
+    {
+      "name": "subject",
+      "keys": ["subject"],
+      "columns": [
+        { "name": "work_id", "dtype": "integer" },
+        { "name": "subject", "dtype": "string" }
+      ]
+    },
+    {
+      "name": "work",
+      "keys": ["name"],
+      "columns": [
+        { "name": "work_id", "dtype": "integer" },
+        { "name": "name", "dtype": "string" },
+        { "name": "artist_id", "dtype": "integer" },
+        { "name": "style", "dtype": "string" },
+        { "name": "museum_id", "dtype": "number" }
+      ]
+    }
+  ]
+}

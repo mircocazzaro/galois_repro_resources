@@ -1,0 +1,971 @@
+name,full_name,sex,birth_date,birth_city,birth_country,death_date,death_city,death_country
+Jacobus H. van 't Hoff,Jacobus Henricus van 't Hoff,male,1852-08-30,Rotterdam,the Netherlands,1911-03-01,Berlin,Germany
+Sully Prudhomme,Sully Prudhomme,male,1839-03-16,Paris,France,1907-09-07,Châtenay,France
+Henry Dunant,Jean Henry Dunant,male,1828-05-08,Geneva,Switzerland,1910-10-30,Heiden,Switzerland
+Frédéric Passy,Frédéric Passy,male,1822-05-20,Paris,France,1912-06-12,Paris,France
+Wilhelm Conrad Röntgen,Wilhelm Conrad Röntgen,male,1845-03-27,Remscheid,Germany,1923-02-10,Munich,Germany
+Emil von Behring,Emil Adolf von Behring,male,1854-03-15,Lawice,Poland,1917-03-31,Marburg,Germany
+Emil Fischer,Hermann Emil Fischer,male,1852-10-09,Euskirchen,Germany,1919-07-15,Berlin,Germany
+Theodor Mommsen,Christian Matthias Theodor Mommsen,male,1817-11-30,Garding,Germany,1903-11-01,Charlottenburg,Germany
+Élie Ducommun,Élie Ducommun,male,1833-02-19,Geneva,Switzerland,1906-12-07,Bern,Switzerland
+Albert Gobat,Charles Albert Gobat,male,1843-05-21,Tramelan,Switzerland,1914-03-16,Bern,Switzerland
+Hendrik A. Lorentz,Hendrik Antoon Lorentz,male,1853-07-18,Arnhem,the Netherlands,1928-02-04,,the Netherlands
+Pieter Zeeman,Pieter Zeeman,male,1865-05-25,Zonnemaire,the Netherlands,1943-10-09,Amsterdam,the Netherlands
+Ronald Ross,Ronald Ross,male,1857-05-13,Almora,India,1932-09-16,Putney Heath,United Kingdom
+Henri Becquerel,Antoine Henri Becquerel,male,1852-12-15,Paris,France,1908-08-25,,France
+Bjørnstjerne Bjørnson,Bjørnstjerne Martinus Bjørnson,male,1832-12-08,Kvikne,Norway,1910-04-26,Paris,France
+Randal Cremer,William Randal Cremer,male,1828-03-18,Fareham,United Kingdom,1908-07-22,London,United Kingdom
+Niels Ryberg Finsen,Niels Ryberg Finsen,male,1860-12-15,Thorshavn,Faroe Islands (Denmark),1904-09-24,Copenhagen,Denmark
+Pierre Curie,Pierre Curie,male,1859-05-15,Paris,France,1906-04-19,Paris,France
+Marie Curie,"Marie Curie, née Skłodowska",female,1867-11-07,Warsaw,Poland,1934-07-04,Sallanches,France
+Svante Arrhenius,Svante August Arrhenius,male,1859-02-19,Vik,Sweden,1927-10-02,Stockholm,Sweden
+Sir William Ramsay,Sir William Ramsay,male,1852-10-02,Glasgow,Scotland,1916-07-23,High Wycombe,United Kingdom
+Frédéric Mistral,Frédéric Mistral,male,1830-09-08,Maillane,France,1914-03-25,Maillane,France
+José Echegaray,José Echegaray y Eizaguirre,male,1832-04-19,Madrid,Spain,1916-09-04,Madrid,Spain
+Lord Rayleigh,Lord Rayleigh (John William Strutt),male,1842-11-12,"Langford Grove, Maldon, Essex",United Kingdom,1919-06-30,,United Kingdom
+Ivan Pavlov,Ivan Petrovich Pavlov,male,1849-09-14,Ryazan,Russia,1936-02-27,Leningrad,Russia
+Henryk Sienkiewicz,Henryk Sienkiewicz,male,1846-05-05,Wola Okrzejska,Poland,1916-11-15,Vevey,Switzerland
+Philipp Lenard,Philipp Eduard Anton von Lenard,male,1862-06-07,Bratislava,Slovakia,1947-05-20,Messelhausen,Germany
+Adolf von Baeyer,Johann Friedrich Wilhelm Adolf von Baeyer,male,1835-10-31,Berlin,Germany,1917-08-20,Starnberg,Germany
+Robert Koch,Robert Koch,male,1843-12-11,Clausthal-Zellerfeld,Germany,1910-05-27,Baden-Baden,Germany
+Bertha von Suttner,"Baroness Bertha Sophie Felicita von Suttner, née Countess Kinsky von Chinic und Tettau",female,1843-06-09,Prague,Czech Republic,1914-06-21,Vienna,Austria
+Henri Moissan,Henri Moissan,male,1852-09-28,Paris,France,1907-02-20,Paris,France
+Giosuè Carducci,Giosuè Carducci,male,1835-07-27,Val di Castello,Italy,1907-02-16,Bologna,Italy
+Theodore Roosevelt,Theodore Roosevelt Jr.,male,1858-10-27,"New York, NY",USA,1919-01-06,"Oyster Bay, NY",USA
+J.J. Thomson,Joseph John Thomson,male,1856-12-18,Cheetham Hill,United Kingdom,1940-08-30,Cambridge,United Kingdom
+Camillo Golgi,Camillo Golgi,male,1843-07-07,Corteno,Italy,1926-01-21,Pavia,Italy
+Santiago Ramón y Cajal,Santiago Ramón y Cajal,male,1852-05-01,Petilla de Aragón,Spain,1934-10-17,Madrid,Spain
+Eduard Buchner,Eduard Buchner,male,1860-05-20,Munich,Germany,1917-08-13,Focsani,Romania
+Rudyard Kipling,Rudyard Kipling,male,1865-12-30,Mumbai,India,1936-01-18,London,United Kingdom
+Ernesto Teodoro Moneta,Ernesto Teodoro Moneta,male,1833-09-20,Milan,Italy,1918-02-10,Milan,Italy
+Louis Renault,Louis Renault,male,1843-05-21,Autun,France,1918-02-08,Barbizon,France
+Albert A. Michelson,Albert Abraham Michelson,male,1852-12-19,Strzelno,Poland,1931-05-09,"Pasadena, CA",USA
+Alphonse Laveran,Charles Louis Alphonse Laveran,male,1845-06-18,Paris,France,1922-05-18,Paris,France
+Rudolf Eucken,Rudolf Christoph Eucken,male,1846-01-05,Aurich,Germany,1926-09-14,Jena,Germany
+Fredrik Bajer,Fredrik Bajer,male,1837-04-21,Næstved,Denmark,1922-01-22,Copenhagen,Denmark
+Klas Pontus Arnoldson,Klas Pontus Arnoldson,male,1844-10-27,Gothenburg,Sweden,1916-02-20,Stockholm,Sweden
+Ilya Mechnikov,Ilya Ilyich Mechnikov,male,1845-05-15,Kharkiv,Ukraine,1916-07-15,Paris,France
+Gabriel Lippmann,Gabriel Lippmann,male,1845-08-16,Hollerich,Luxembourg,1921-07-13,,
+Paul Ehrlich,Paul Ehrlich,male,1854-03-14,Strzelin,Poland,1915-08-20,Bad Homburg vor der Höhe,Germany
+Ernest Rutherford,Ernest Rutherford,male,1871-08-30,Nelson,New Zealand,1937-10-19,Cambridge,United Kingdom
+Selma Lagerlöf,Selma Ottilia Lovisa Lagerlöf,female,1858-11-20,Mårbacka,Sweden,1940-03-16,Mårbacka,Sweden
+Wilhelm Ostwald,Wilhelm Ostwald,male,1853-09-02,Riga,Latvia,1932-04-04,Leipzig,Germany
+Theodor Kocher,Emil Theodor Kocher,male,1841-08-25,Bern,Switzerland,1917-07-27,Bern,Switzerland
+Auguste Beernaert,Auguste Marie François Beernaert,male,1829-07-26,Ostend,Belgium,1912-10-06,Lucerne,Switzerland
+Ferdinand Braun,Karl Ferdinand Braun,male,1850-06-06,Fulda,Germany,1918-04-20,"Brooklyn, NY",USA
+Guglielmo Marconi,Guglielmo Marconi,male,1874-04-25,Bologna,Italy,1937-07-20,Rome,Italy
+Paul Henri d'Estournelles de Constant,"Paul Henri Benjamin Balluet d'Estournelles de Constant, Baron de Constant de Rebecque",male,1852-11-22,La Flèche,France,1924-05-15,Paris,France
+Otto Wallach,Otto Wallach,male,1847-03-27,Kaliningrad,Russia,1931-02-26,Göttingen,Germany
+Paul Heyse,Paul Johann Ludwig Heyse,male,1830-03-15,Berlin,Germany,1914-04-02,Munich,Germany
+Johannes Diderik van der Waals,Johannes Diderik van der Waals,male,1837-11-23,Leiden,the Netherlands,1923-03-08,Amsterdam,the Netherlands
+Albrecht Kossel,Albrecht Kossel,male,1853-09-16,Rostock,Germany,1927-07-05,Heidelberg,Germany
+Marie Curie,"Marie Curie, née Skłodowska",female,1867-11-07,Warsaw,Poland,1934-07-04,Sallanches,France
+Maurice Maeterlinck,Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck,male,1862-08-29,Ghent,Belgium,1949-05-06,Nice,France
+Tobias Asser,Tobias Michael Carel Asser,male,1838-04-28,Amsterdam,the Netherlands,1913-07-29,the Hague,the Netherlands
+Alfred Fried,Alfred Hermann Fried,male,1864-11-11,Vienna,Austria,1921-05-04,Vienna,Austria
+Wilhelm Wien,Wilhelm Wien,male,1864-01-13,Parusnoye,Russia,1928-08-30,Munich,Germany
+Allvar Gullstrand,Allvar Gullstrand,male,1862-06-05,Landskrona,Sweden,1930-07-28,Stockholm,Sweden
+Victor Grignard,Victor Grignard,male,1871-05-06,Cherbourg,France,1935-12-13,Lyon,France
+Paul Sabatier,Paul Sabatier,male,1854-11-05,Carcassonne,France,1941-08-14,Toulouse,France
+Gerhart Hauptmann,Gerhart Johann Robert Hauptmann,male,1862-11-15,Bad Salzbrunn,Poland,1946-06-06,Jagniatków,Poland
+Elihu Root,Elihu Root,male,1845-02-15,"Clinton, NY",USA,1937-02-07,"New York, NY",USA
+Gustaf Dalén,Nils Gustaf Dalén,male,1869-11-30,Stenstorp,Sweden,1937-12-09,Stockholm,Sweden
+Alexis Carrel,Alexis Carrel,male,1873-06-28,Sainte-Foy-lès-Lyon,France,1944-11-05,Paris,France
+Rabindranath Tagore,Rabindranath Tagore,male,1861-05-07,Calcutta,India,1941-08-07,Calcutta,India
+Alfred Werner,Alfred Werner,male,1866-12-12,Mulhouse,France,1919-11-15,Zurich,Switzerland
+Henri La Fontaine,Henri La Fontaine,male,1854-04-22,Brussels,Belgium,1943-05-14,Brussels,Belgium
+Charles Richet,Charles Robert Richet,male,1850-08-26,Paris,France,1935-12-04,Paris,France
+Heike Kamerlingh Onnes,Heike Kamerlingh Onnes,male,1853-09-21,Groningen,the Netherlands,1926-02-21,Leiden,the Netherlands
+Theodore W. Richards,Theodore William Richards,male,1868-01-31,"Germantown, PA",USA,1928-04-02,"Cambridge, MA",USA
+Max von Laue,Max von Laue,male,1879-10-09,Pfaffendorf,Germany,1960-04-23,Berlin,Germany
+Robert Bárány,Robert Bárány,male,1876-04-22,Vienna,Austria,1936-04-08,Uppsala,Sweden
+Richard Willstätter,Richard Martin Willstätter,male,1872-08-13,Karlsruhe,Germany,1942-08-03,Locarno,Switzerland
+Romain Rolland,Romain Rolland,male,1866-01-29,Clamecy,France,1944-12-30,Vézelay,France
+William Bragg,Sir William Henry Bragg,male,1862-07-02,Wigton,United Kingdom,1942-03-12,London,United Kingdom
+Lawrence Bragg,William Lawrence Bragg,male,1890-03-31,Adelaide,Australia,1971-07-01,Ipswich,United Kingdom
+Verner von Heidenstam,Carl Gustaf Verner von Heidenstam,male,1859-07-06,Olshammar,Sweden,1940-05-20,Övralid,Sweden
+Henrik Pontoppidan,Henrik Pontoppidan,male,1857-07-24,Fredericia,Denmark,1943-08-21,Ordrup,Denmark
+Charles Glover Barkla,Charles Glover Barkla,male,1877-06-07,Widnes,United Kingdom,1944-10-23,Edinburgh,Scotland
+Karl Gjellerup,Karl Adolph Gjellerup,male,1857-06-02,Roholte,Denmark,1919-10-11,Klotzsche,Germany
+Fritz Haber,Fritz Haber,male,1868-12-09,Wroclaw,Poland,1934-01-29,Basel,Switzerland
+Max Planck,Max Karl Ernst Ludwig Planck,male,1858-04-23,Kiel,Germany,1947-10-04,Göttingen,Germany
+Carl Spitteler,Carl Friedrich Georg Spitteler,male,1845-04-24,Liestal,Switzerland,1924-12-29,Lucerne,Switzerland
+Woodrow Wilson,Thomas Woodrow Wilson,male,1856-12-28,"Staunton, VA",USA,1924-02-03,"Washington, D.C.",USA
+Johannes Stark,Johannes Stark,male,1874-04-15,Schickenhof,Germany,1957-06-21,Traunstein,Germany
+Jules Bordet,Jules Bordet,male,1870-06-13,Soignies,Belgium,1961-04-06,Brussels,Belgium
+Walther Nernst,Walther Hermann Nernst,male,1864-06-25,Wąbrzeźno,Poland,1941-11-18,Niwica,Poland
+August Krogh,Schack August Steenberg Krogh,male,1874-11-15,Grenå,Denmark,1949-09-13,Copenhagen,Denmark
+Knut Hamsun,Knut Pedersen Hamsun,male,1859-08-04,Lom,Norway,1952-02-19,Grimstad,Norway
+Charles Edouard Guillaume,Charles Edouard Guillaume,male,1861-02-15,Fleurier,Switzerland,1938-06-13,Sèvres,France
+Léon Bourgeois,Léon Victor Auguste Bourgeois,male,1851-05-21,Paris,France,1925-09-29,Épernay,France
+Frederick Soddy,Frederick Soddy,male,1877-09-02,Eastbourne,United Kingdom,1956-09-22,Brighton,United Kingdom
+Anatole France,Anatole France,male,1844-04-16,Paris,France,1924-10-12,Saint-Cyr-sur-Loire,France
+Hjalmar Branting,Karl Hjalmar Branting,male,1860-11-23,Stockholm,Sweden,1925-02-24,Stockholm,Sweden
+Christian Lange,Christian Lous Lange,male,1869-09-17,Stavanger,Norway,1938-12-11,Oslo,Norway
+Albert Einstein,Albert Einstein,male,1879-03-14,Ulm,Germany,1955-04-18,"Princeton, NJ",USA
+Jacinto Benavente,Jacinto Benavente,male,1866-08-12,Madrid,Spain,1954-07-14,Madrid,Spain
+Fridtjof Nansen,Fridtjof Nansen,male,1861-10-10,Oslo,Norway,1930-05-13,Oslo,Norway
+Francis W. Aston,Francis William Aston,male,1877-09-01,Harborne,United Kingdom,1945-11-20,Cambridge,United Kingdom
+Archibald V. Hill,Archibald Vivian Hill,male,1886-09-26,Bristol,United Kingdom,1977-06-03,Cambridge,United Kingdom
+Otto Meyerhof,Otto Fritz Meyerhof,male,1884-04-12,Hanover,Germany,1951-10-06,"Philadelphia, PA",USA
+Niels Bohr,Niels Henrik David Bohr,male,1885-10-07,Copenhagen,Denmark,1962-11-18,Copenhagen,Denmark
+Fritz Pregl,Fritz Pregl,male,1869-09-03,Ljubljana,Slovenia,1930-12-13,Graz,Austria
+William Butler Yeats,William Butler Yeats,male,1865-06-13,Dublin,Ireland,1939-01-28,Roquebrune-Cap-Martin,France
+Robert A. Millikan,Robert Andrews Millikan,male,1868-03-22,"Morrison, IL",USA,1953-12-19,"San Marino, CA",USA
+Frederick G. Banting,Frederick Grant Banting,male,1891-11-14,Alliston,Canada,1941-02-21,Newfoundland,Canada
+John Macleod,John James Rickard Macleod,male,1876-09-06,Cluny,Scotland,1935-03-16,Aberdeen,Scotland
+Władysław Reymont,Władysław Stanisław Reymont,male,1867-05-07,Kobiele Wielkie,Poland,1925-12-05,Warsaw,Poland
+Manne Siegbahn,Karl Manne Georg Siegbahn,male,1886-12-03,Örebro,Sweden,1978-09-26,Stockholm,Sweden
+Willem Einthoven,Willem Einthoven,male,1860-05-21,Semarang,Indonesia,1927-09-29,Leiden,the Netherlands
+Sir Austen Chamberlain,Sir Austen Chamberlain,male,1863-10-16,Birmingham,United Kingdom,1937-03-16,London,United Kingdom
+George Bernard Shaw,George Bernard Shaw,male,1856-07-26,Dublin,Ireland,1950-11-02,Ayot St. Lawrence,United Kingdom
+Richard Zsigmondy,Richard Adolf Zsigmondy,male,1865-04-01,Vienna,Austria,1929-09-24,Göttingen,Germany
+Charles G. Dawes,Charles Gates Dawes,male,1865-08-27,"Marietta, OH",USA,1951-04-23,"Evanston, IL",USA
+Gustav Hertz,Gustav Ludwig Hertz,male,1887-07-22,Hamburg,Germany,1975-10-30,Berlin,Germany
+James Franck,James Franck,male,1882-08-26,Hamburg,Germany,1964-05-21,Göttingen,Germany
+The Svedberg,The (Theodor) Svedberg,male,1884-08-30,Fleräng,Sweden,1971-02-25,Örebro,Sweden
+Grazia Deledda,Grazia Deledda,female,1871-09-27,"Nuoro, Sardinia",Italy,1936-08-15,Rome,Italy
+Aristide Briand,Aristide Briand,male,1862-03-28,Nantes,France,1932-03-07,Paris,France
+Gustav Stresemann,Gustav Stresemann,male,1878-05-10,Berlin,Germany,1929-10-03,Berlin,Germany
+Jean Baptiste Perrin,Jean Baptiste Perrin,male,1870-09-30,Lille,France,1942-04-17,"New York, NY",USA
+Johannes Fibiger,Johannes Andreas Grib Fibiger,male,1867-04-23,Silkeborg,Denmark,1928-01-30,Copenhagen,Denmark
+Heinrich Wieland,Heinrich Otto Wieland,male,1877-06-04,Pforzheim,Germany,1957-08-05,Munich,Germany
+Henri Bergson,Henri Bergson,male,1859-10-18,Paris,France,1941-01-04,Paris,France
+Julius Wagner-Jauregg,Julius Wagner-Jauregg,male,1857-03-07,Wels,Austria,1940-09-27,Vienna,Austria
+Ferdinand Buisson,Ferdinand Buisson,male,1841-12-20,Paris,France,1932-02-16,Thieuloy-Saint-Antoine,France
+Arthur H. Compton,Arthur Holly Compton,male,1892-09-10,"Wooster, OH",USA,1962-03-15,"Berkeley, CA",USA
+C.T.R. Wilson,Charles Thomson Rees Wilson,male,1869-02-14,Glencorse,Scotland,1959-11-15,Carlops,Scotland
+Ludwig Quidde,Ludwig Quidde,male,1858-03-23,Bremen,Germany,1941-03-04,Geneva,Switzerland
+Adolf Windaus,Adolf Otto Reinhold Windaus,male,1876-12-25,Berlin,Germany,1959-06-09,Göttingen,Germany
+Sigrid Undset,Sigrid Undset,female,1882-05-20,Kalundborg,Denmark,1949-06-10,Lillehammer,Norway
+Owen Willans Richardson,Owen Willans Richardson,male,1879-04-26,Dewsbury,United Kingdom,1959-02-15,Alton,United Kingdom
+Charles Nicolle,Charles Jules Henri Nicolle,male,1866-09-21,Rouen,France,1936-02-28,Tunis,Tunisia
+Arthur Harden,Arthur Harden,male,1865-10-12,Manchester,United Kingdom,1940-06-17,Bourne,United Kingdom
+Hans von Euler-Chelpin,Hans Karl August Simon von Euler-Chelpin,male,1873-02-15,Augsburg,Germany,1964-11-06,Stockholm,Sweden
+Thomas Mann,Thomas Mann,male,1875-06-06,Lübeck,Germany,1955-08-12,Zurich,Switzerland
+Frank B. Kellogg,Frank Billings Kellogg,male,1856-12-22,"Potsdam, NY",USA,1937-12-21,"St. Paul, MN",USA
+Louis de Broglie,Prince Louis-Victor Pierre Raymond de Broglie,male,1892-08-15,Dieppe,France,1987-03-19,Paris,France
+Christiaan Eijkman,Christiaan Eijkman,male,1858-08-11,Nijkerk,the Netherlands,1930-11-05,Utrecht,the Netherlands
+Sir Frederick Hopkins,Sir Frederick Gowland Hopkins,male,1861-06-20,Eastbourne,United Kingdom,1947-05-16,Cambridge,United Kingdom
+Sinclair Lewis,Sinclair Lewis,male,1885-02-07,"Sauk Centre, MN",USA,1951-01-10,Rome,Italy
+Sir Chandrasekhara Venkata Raman,Sir Chandrasekhara Venkata Raman,male,1888-11-07,Tiruchirappalli,India,1970-11-21,Bangalore,India
+Hans Fischer,Hans Fischer,male,1881-07-27,Hoechst,Germany,1945-03-31,Munich,Germany
+Karl Landsteiner,Karl Landsteiner,male,1868-06-14,Vienna,Austria,1943-06-26,"New York, NY",USA
+Nathan Söderblom,Lars Olof Jonathan (Nathan) Söderblom,male,1866-01-15,Trönö,Sweden,1931-07-12,Uppsala,Sweden
+Carl Bosch,Carl Bosch,male,1874-08-27,Cologne,Germany,1940-04-26,Heidelberg,Germany
+Friedrich Bergius,Friedrich Bergius,male,1884-10-11,"Goldschmieden, near Breslau",Poland,1949-03-30,Buenos Aires,Argentina
+Erik Axel Karlfeldt,Erik Axel Karlfeldt,male,1864-07-20,Karlbo,Sweden,1931-04-08,Stockholm,Sweden
+Jane Addams,Jane Addams,female,1860-09-06,"Cedarville, IL",USA,1935-05-21,"Chicago, IL",USA
+Nicholas Murray Butler,Nicholas Murray Butler,male,1862-04-02,"Elizabeth, NJ",USA,1947-12-07,"New York, NY",USA
+Otto Warburg,Otto Heinrich Warburg,male,1883-10-08,Freiburg im Breisgau,Germany,1970-08-01,West Berlin,Germany
+Irving Langmuir,Irving Langmuir,male,1881-01-31,"Brooklyn, NY",USA,1957-08-16,"Falmouth, MA",USA
+John Galsworthy,John Galsworthy,male,1867-08-14,Kingston Hill,United Kingdom,1933-01-31,London,United Kingdom
+Werner Heisenberg,Werner Karl Heisenberg,male,1901-12-05,Würzburg,Germany,1976-02-01,Munich,Germany
+Sir Charles Sherrington,Sir Charles Scott Sherrington,male,1857-11-27,London,United Kingdom,1952-03-04,Eastbourne,United Kingdom
+Edgar Adrian,Edgar Douglas Adrian,male,1889-11-30,London,United Kingdom,1977-08-08,Cambridge,United Kingdom
+Sir Norman Angell,Sir Norman Angell (Ralph Lane),male,1872-12-26,Holbeach,United Kingdom,1967-10-07,Croydon,United Kingdom
+Ivan Bunin,Ivan Alekseyevich Bunin,male,1870-10-22,Voronezh,Russia,1953-11-08,Paris,France
+Erwin Schrödinger,Erwin Schrödinger,male,1887-08-12,Vienna,Austria,1961-01-04,Vienna,Austria
+Thomas H. Morgan,Thomas Hunt Morgan,male,1866-09-25,"Lexington, KY",USA,1945-12-04,"Pasadena, CA",USA
+Paul A.M. Dirac,Paul Adrien Maurice Dirac,male,1902-08-08,Bristol,United Kingdom,1984-10-20,"Tallahassee, FL",USA
+Harold C. Urey,Harold Clayton Urey,male,1893-04-29,"Walkerton, IN",USA,1981-01-05,"La Jolla, CA",USA
+Luigi Pirandello,Luigi Pirandello,male,1867-06-28,"Agrigento, Sicily",Italy,1936-12-10,Rome,Italy
+Arthur Henderson,Arthur Henderson,male,1863-09-13,Glasgow,Scotland,1935-10-20,London,United Kingdom
+George H. Whipple,George Hoyt Whipple,male,1878-08-28,"Ashland, NH",USA,1976-02-01,"Rochester, NY",USA
+George R. Minot,George Richards Minot,male,1885-12-02,"Boston, MA",USA,1950-02-25,"Brookline, MA",USA
+William P. Murphy,William Parry Murphy,male,1892-02-06,"Stoughton, WI",USA,1987-10-09,"Brookline, MA",USA
+Frédéric Joliot,Frédéric Joliot,male,1900-03-19,Paris,France,1958-08-14,Paris,France
+Irène Joliot-Curie,Irène Joliot-Curie,female,1897-09-12,Paris,France,1956-03-17,Paris,France
+Carl von Ossietzky,Carl von Ossietzky,male,1889-10-03,Hamburg,Germany,1938-05-04,Berlin,Germany
+James Chadwick,James Chadwick,male,1891-10-20,Manchester,United Kingdom,1974-07-24,Cambridge,United Kingdom
+Hans Spemann,Hans Spemann,male,1869-06-27,Stuttgart,Germany,1941-09-12,Freiburg im Breisgau,Germany
+Peter Debye,Petrus (Peter) Josephus Wilhelmus Debye,male,1884-03-24,Maastricht,the Netherlands,1966-11-02,"Ithaca, NY",USA
+Carlos Saavedra Lamas,Carlos Saavedra Lamas,male,1878-11-01,Buenos Aires,Argentina,1959-05-05,Buenos Aires,Argentina
+Eugene O'Neill,Eugene Gladstone O'Neill,male,1888-10-16,"New York, NY",USA,1953-11-27,"Boston, MA",USA
+Victor F. Hess,Victor Franz Hess,male,1883-06-24,Peggau,Austria,1964-12-17,"Mount Vernon, NY",USA
+Sir Henry Dale,Sir Henry Hallett Dale,male,1875-06-09,London,United Kingdom,1968-07-23,Cambridge,United Kingdom
+Carl D. Anderson,Carl David Anderson,male,1905-09-03,"New York, NY",USA,1991-01-11,"San Marino, CA",USA
+Otto Loewi,Otto Loewi,male,1873-06-03,Frankfurt-on-the-Main,Germany,1961-12-25,"New York, NY",USA
+Norman Haworth,Walter Norman Haworth,male,1883-03-19,Chorley,United Kingdom,1950-03-19,Birmingham,United Kingdom
+Paul Karrer,Paul Karrer,male,1889-04-21,Moscow,Russia,1971-06-18,Zurich,Switzerland
+Roger Martin du Gard,Roger Martin du Gard,male,1881-03-23,Neuilly-sur-Seine,France,1958-08-22,Bellême,France
+"Robert Cecil, Viscount Cecil of Chelwood","Edgar Algernon Robert Gascoyne-Cecil, 1st Viscount Cecil of Chelwood",male,1864-09-14,London,United Kingdom,1958-11-24,Tunbridge Wells,United Kingdom
+Clinton Davisson,Clinton Joseph Davisson,male,1881-10-22,"Bloomington, IL",USA,1958-02-01,"Charlottesville, VA",USA
+George Paget Thomson,George Paget Thomson,male,1892-05-03,Cambridge,United Kingdom,1975-09-10,Cambridge,United Kingdom
+Albert Szent-Györgyi,Albert von Szent-Györgyi Nagyrápolt,male,1893-09-16,Budapest,Hungary,1986-10-22,"Woods Hole, MA",USA
+Richard Kuhn,Richard Kuhn,male,1900-12-03,Vienna,Austria,1967-07-31,Heidelberg,Germany
+Pearl Buck,Pearl Buck,female,1892-06-26,"Hillsboro, WV",USA,1973-03-06,"Danby, VT",USA
+Enrico Fermi,Enrico Fermi,male,1901-09-29,Rome,Italy,1954-11-28,"Chicago, IL",USA
+Corneille Heymans,Corneille Jean François Heymans,male,1892-03-28,Ghent,Belgium,1968-07-18,Knokke,Belgium
+Ernest Lawrence,Ernest Orlando Lawrence,male,1901-08-08,"Canton, SD",USA,1958-08-27,"Palo Alto, CA",USA
+Adolf Butenandt,Adolf Friedrich Johann Butenandt,male,1903-03-24,Bremerhaven-Lehe,Germany,1995-01-18,Munich,Germany
+Leopold Ruzicka,Leopold Ruzicka,male,1887-09-13,Vukovar,Croatia,1976-09-26,Zurich,Switzerland
+Gerhard Domagk,Gerhard Domagk,male,1895-10-30,Lagow,Poland,1964-04-24,Burgberg,Germany
+Frans Eemil Sillanpää,Frans Eemil Sillanpää,male,1888-09-16,Hämeenkyrö,Finland,1964-06-03,Helsinki,Finland
+George de Hevesy,George de Hevesy,male,1885-08-01,Budapest,Hungary,1966-07-05,Freiburg im Breisgau,Germany
+Otto Stern,Otto Stern,male,1888-02-17,Zory,Poland,1969-08-17,"Berkeley, CA",USA
+Henrik Dam,Henrik Carl Peter Dam,male,1895-02-21,Copenhagen,Denmark,1976-04-17,Copenhagen,Denmark
+Edward A. Doisy,Edward Adelbert Doisy,male,1893-11-13,"Hume, IL",USA,1986-10-23,"St. Louis, MO",USA
+Otto Hahn,Otto Hahn,male,1879-03-08,Frankfurt-on-the-Main,Germany,1968-07-28,Göttingen,Germany
+Johannes V. Jensen,Johannes Vilhelm Jensen,male,1873-01-20,Farsø,Denmark,1950-11-25,Copenhagen,Denmark
+Isidor Isaac Rabi,Isidor Isaac Rabi,male,1898-07-29,Rymanow,Poland,1988-01-11,"New York, NY",USA
+Joseph Erlanger,Joseph Erlanger,male,1874-01-05,"San Francisco, CA",USA,1965-12-05,"St. Louis, MO",USA
+Herbert S. Gasser,Herbert Spencer Gasser,male,1888-07-05,"Platteville, WI",USA,1963-05-11,"New York, NY",USA
+Artturi Virtanen,Artturi Ilmari Virtanen,male,1895-01-15,Helsinki,Finland,1973-11-11,Helsinki,Finland
+Gabriela Mistral,Gabriela Mistral,female,1889-04-07,Vicuña,Chile,1957-01-10,"Hempstead, NY",USA
+Wolfgang Pauli,Wolfgang Pauli,male,1900-04-25,Vienna,Austria,1958-12-15,Zurich,Switzerland
+Sir Howard Florey,Sir Howard Walter Florey,male,1898-09-24,Adelaide,Australia,1968-02-21,Oxford,United Kingdom
+Sir Alexander Fleming,Sir Alexander Fleming,male,1881-08-06,Lochfield,Scotland,1955-03-11,London,United Kingdom
+Ernst B. Chain,Ernst Boris Chain,male,1906-06-19,Berlin,Germany,1979-08-12,Mulrany,Ireland
+Cordell Hull,Cordell Hull,male,1871-10-02,"Olympus, TN",USA,1955-07-23,"Bethesda, MD",USA
+James B. Sumner,James Batcheller Sumner,male,1887-11-19,"Canton, MA",USA,1955-08-12,"Buffalo, NY",USA
+John H. Northrop,John Howard Northrop,male,1891-07-05,"Yonkers, NY",USA,1987-05-27,"Wickenberg, AZ",USA
+Wendell M. Stanley,Wendell Meredith Stanley,male,1904-08-16,"Ridgeville, IN",USA,1971-06-15,Salamanca,Spain
+Hermann Hesse,Hermann Hesse,male,1877-07-02,Calw,Germany,1962-08-09,Montagnola,Switzerland
+Emily Greene Balch,Emily Greene Balch,female,1867-01-08,"Boston, MA",USA,1961-01-09,"Cambridge, MA",USA
+John R. Mott,John Raleigh Mott,male,1865-05-25,"Livingston Manor, NY",USA,1955-01-31,,USA
+Percy W. Bridgman,Percy Williams Bridgman,male,1882-04-21,"Cambridge, MA",USA,1961-08-20,"Randolph, NH",USA
+Hermann J. Muller,Hermann Joseph Muller,male,1890-12-21,"New York, NY",USA,1967-04-05,"Indianapolis, IN",USA
+Edward V. Appleton,Sir Edward Victor Appleton,male,1892-09-06,Bradford,United Kingdom,1965-04-21,Edinburgh,Scotland
+Sir Robert Robinson,Sir Robert Robinson,male,1886-09-13,"Rufford, near Chesterfield",United Kingdom,1975-02-08,Great Missenden,United Kingdom
+André Gide,André Paul Guillaume Gide,male,1869-11-22,Paris,France,1951-02-19,Paris,France
+Gerty Cori,"Gerty Theresa Cori, née Radnitz",female,1896-08-15,Prague,Czech Republic,1957-10-26,"St. Louis, MO",USA
+Bernardo Houssay,Bernardo Alberto Houssay,male,1887-04-10,Buenos Aires,Argentina,1971-09-21,Buenos Aires,Argentina
+Carl Cori,Carl Ferdinand Cori,male,1896-12-05,Prague,Czech Republic,1984-10-20,"Cambridge, MA",USA
+Arne Tiselius,Arne Wilhelm Kaurin Tiselius,male,1902-08-10,Stockholm,Sweden,1971-10-29,Uppsala,Sweden
+T.S. Eliot,Thomas Stearns Eliot,male,1888-09-26,"St. Louis, MO",USA,1965-01-04,London,United Kingdom
+Patrick M.S. Blackett,Patrick Maynard Stuart Blackett,male,1897-11-18,London,United Kingdom,1974-07-13,London,United Kingdom
+Paul Müller,Paul Hermann Müller,male,1899-01-12,Olten,Switzerland,1965-10-12,Basel,Switzerland
+William F. Giauque,William Francis Giauque,male,1895-05-12,Niagara Falls,Canada,1982-03-28,"Berkeley, CA",USA
+William Faulkner,William Faulkner,male,1897-09-25,"New Albany, MS",USA,1962-07-06,"Byhalia, MS",USA
+Lord Boyd Orr,"John Boyd Orr, Baron Boyd-Orr of Brechin Mearn",male,1880-09-23,Kilmaurs,Scotland,1971-06-25,Edzell,Scotland
+Hideki Yukawa,Hideki Yukawa,male,1907-01-23,Tokyo,Japan,1981-09-08,Kyoto,Japan
+Walter Hess,Walter Rudolf Hess,male,1881-03-17,Frauenfeld,Switzerland,1973-08-12,Ascona,Switzerland
+Egas Moniz,António Caetano de Abreu Freire Egas Moniz,male,1874-11-29,Avanca,Portugal,1955-12-13,Lisbon,Portugal
+Kurt Alder,Kurt Alder,male,1902-07-10,Chorzów,Poland,1958-06-20,Cologne,Germany
+Otto Diels,Otto Paul Hermann Diels,male,1876-01-23,Hamburg,Germany,1954-03-07,Kiel,Germany
+Bertrand Russell,Earl (Bertrand Arthur William) Russell,male,1872-05-18,Trelleck,United Kingdom,1970-02-02,Penrhyndeudraeth,United Kingdom
+Ralph Bunche,Ralph Bunche,male,1904-08-07,"Detroit, MI",USA,1971-12-09,"New York, NY",USA
+Cecil Powell,Cecil Frank Powell,male,1903-12-05,Tonbridge,United Kingdom,1969-08-09,,Italy
+Edward C. Kendall,Edward Calvin Kendall,male,1886-03-08,"South Norwalk, CT",USA,1972-05-04,"Princeton, NJ",USA
+Philip S. Hench,Philip Showalter Hench,male,1896-02-28,"Pittsburgh, PA",USA,1965-03-30,Ocho Rios,Jamaica
+Tadeus Reichstein,Tadeus Reichstein,male,1897-07-20,Wloclawek,Poland,1996-08-01,Basel,Switzerland
+Edwin M. McMillan,Edwin Mattison McMillan,male,1907-09-18,"Redondo Beach, CA",USA,1991-09-07,"El Cerrito, CA",USA
+Glenn T. Seaborg,Glenn Theodore Seaborg,male,1912-04-19,"Ishpeming, MI",USA,1999-02-25,"Lafayette, CA",USA
+Pär Lagerkvist,Pär Fabian Lagerkvist,male,1891-05-23,Växjö,Sweden,1974-07-11,Stockholm,Sweden
+Léon Jouhaux,Léon Jouhaux,male,1879-07-01,Paris,France,1954-04-28,Paris,France
+John Cockcroft,Sir John Douglas Cockcroft,male,1897-05-27,Todmorden,United Kingdom,1967-09-18,Cambridge,United Kingdom
+Ernest T.S. Walton,Ernest Thomas Sinton Walton,male,1903-10-06,Dungarvan,Ireland,1995-06-25,Belfast,Northern Ireland
+Max Theiler,Max Theiler,male,1899-01-30,Pretoria,South Africa,1972-08-11,"New Haven, CT",USA
+Archer J.P. Martin,Archer John Porter Martin,male,1910-03-01,London,United Kingdom,2002-07-28,Llangarron,United Kingdom
+Richard L.M. Synge,Richard Laurence Millington Synge,male,1914-10-28,Liverpool,United Kingdom,1994-08-18,Norwich,United Kingdom
+E. M. Purcell,Edward Mills Purcell,male,1912-08-30,"Taylorville, IL",USA,1997-03-07,"Cambridge, MA",USA
+François Mauriac,François Mauriac,male,1885-10-11,Bordeaux,France,1970-09-01,Paris,France
+Felix Bloch,Felix Bloch,male,1905-10-23,Zurich,Switzerland,1983-09-10,Zurich,Switzerland
+Albert Schweitzer,Albert Schweitzer,male,1875-01-14,Kaysersberg,France,1965-09-04,Lambaréné,Gabon
+Selman A. Waksman,Selman Abraham Waksman,male,1888-07-22,Nova Pryluka,Ukraine,1973-08-16,"Hyannis, MA",USA
+Hermann Staudinger,Hermann Staudinger,male,1881-03-23,Worms,Germany,1965-09-08,Freiburg im Breisgau,Germany
+Winston Churchill,Sir Winston Leonard Spencer Churchill,male,1874-11-30,Woodstock,United Kingdom,1965-01-24,London,United Kingdom
+George C. Marshall,George Catlett Marshall,male,1880-12-31,"Uniontown, PA",USA,1959-10-16,"Washington, D.C.",USA
+Frits Zernike,Frits Zernike,male,1888-07-16,Amsterdam,the Netherlands,1966-03-10,Groningen,the Netherlands
+Hans Krebs,Hans Adolf Krebs,male,1900-08-25,Hildesheim,Germany,1981-11-22,Oxford,United Kingdom
+Fritz Lipmann,Fritz Albert Lipmann,male,1899-06-12,Kaliningrad,Russia,1986-07-24,"Poughkeepsie, NY",USA
+Linus Pauling,Linus Carl Pauling,male,1901-02-28,"Portland, OR",USA,1994-08-19,"Big Sur, CA",USA
+Ernest Hemingway,Ernest Miller Hemingway,male,1899-07-21,"Oak Park, IL",USA,1961-07-02,"Ketchum, ID",USA
+Max Born,Max Born,male,1882-12-11,Wroclaw,Poland,1970-01-05,Göttingen,Germany
+Walther Bothe,Walther Bothe,male,1891-01-08,Oranienburg,Germany,1957-02-08,Heidelberg,Germany
+John F. Enders,John Franklin Enders,male,1897-02-10,"West Hartford, CT",USA,1985-09-08,"Waterford, CT",USA
+Thomas H. Weller,Thomas Huckle Weller,male,1915-06-15,"Ann Arbor, MI",USA,2008-08-23,"Needham, MA",USA
+Frederick C. Robbins,Frederick Chapman Robbins,male,1916-08-25,"Auburn, AL",USA,2003-08-04,"Cleveland, OH",USA
+Willis E. Lamb,Willis Eugene Lamb,male,1913-07-12,"Los Angeles, CA",USA,2008-05-15,"Tucson, AZ",USA
+Halldór Laxness,Halldór Kiljan Laxness,male,1902-04-23,Reykjavik,Iceland,1998-02-08,Reykjavik,Iceland
+Hugo Theorell,Axel Hugo Theodor Theorell,male,1903-07-06,Linköping,Sweden,1982-08-15,Stockholm,Sweden
+Polykarp Kusch,Polykarp Kusch,male,1911-01-26,Blankenburg,Germany,1993-03-20,"Dallas, TX",USA
+Vincent du Vigneaud,Vincent du Vigneaud,male,1901-05-18,"Chicago, IL",USA,1978-12-11,"White Plains, NY",USA
+Sir Cyril Hinshelwood,Sir Cyril Norman Hinshelwood,male,1897-05-19,London,United Kingdom,1967-10-09,London,United Kingdom
+Nikolay Semenov,Nikolay Nikolaevich Semenov,male,1896-04-03,Saratov,Russia,1986-09-25,Moscow,Russia
+Juan Ramón Jiménez,Juan Ramón Jiménez,male,1881-12-24,Moguer,Spain,1958-05-29,San Juan,Puerto Rico
+William B. Shockley,William Bradford Shockley,male,1910-02-13,London,United Kingdom,1989-08-12,"Palo Alto, CA",USA
+John Bardeen,John Bardeen,male,1908-05-23,"Madison, WI",USA,1991-01-30,"Boston, MA",USA
+Walter H. Brattain,Walter Houser Brattain,male,1902-02-10,Amoy,China,1987-10-13,"Seattle, WA",USA
+André F. Cournand,André Frédéric Cournand,male,1895-09-24,Paris,France,1988-02-19,"Great Barrington, MA",USA
+Werner Forssmann,Werner Forssmann,male,1904-08-29,Berlin,Germany,1979-06-01,Schopfheim,Germany
+Dickinson W. Richards,Dickinson W. Richards,male,1895-10-30,"Orange, NJ",USA,1973-02-23,"Lakeville, CT",USA
+Lester Bowles Pearson,Lester Bowles Pearson,male,1897-04-23,Toronto,Canada,1972-12-27,Ottawa,Canada
+Lord Todd,Lord (Alexander R.) Todd,male,1907-10-02,Glasgow,Scotland,1997-01-10,Cambridge,United Kingdom
+Albert Camus,Albert Camus,male,1913-11-07,Mondovi,Algeria,1960-01-04,Sens,France
+Tsung-Dao Lee,Tsung-Dao (T.D.) Lee,male,1926-11-24,Shanghai,China,2024-08-04,"San Francisco, CA",USA
+Daniel Bovet,Daniel Bovet,male,1907-03-23,Neuchâtel,Switzerland,1992-04-08,Rome,Italy
+Chen Ning Yang,Chen Ning Yang,male,1922-09-22,"Hofei, Anhwei",China,2025-10-18,Beijing,China
+Frederick Sanger,Frederick Sanger,male,1918-08-13,Rendcombe,United Kingdom,2013-11-19,Cambridge,United Kingdom
+Boris Pasternak,Boris Leonidovich Pasternak,male,1890-02-10,Moscow,Russia,1960-05-30,Peredelkino,Russia
+Georges Pire,Georges Pire,male,1910-02-10,Dinant,Belgium,1969-01-30,Leuven,Belgium
+Pavel A. Cherenkov,Pavel Alekseyevich Cherenkov,male,1904-07-28,Novaya Chigla,Russia,1990-01-06,,Russia
+Il´ja M. Frank,Il´ja Mikhailovich Frank,male,1908-10-23,St. Petersburg,Russia,1990-06-22,Moscow,Russia
+Igor Y. Tamm,Igor Yevgenyevich Tamm,male,1895-07-08,Vladivostok,Russia,1971-04-12,Moscow,Russia
+George Beadle,George Wells Beadle,male,1903-10-22,"Wahoo, NE",USA,1989-06-09,"Pomona, CA",USA
+Edward Tatum,Edward Lawrie Tatum,male,1909-12-14,"Boulder, CO",USA,1975-11-05,"New York, NY",USA
+Joshua Lederberg,Joshua Lederberg,male,1925-05-23,"Montclair, NJ",USA,2008-02-02,"New York, NY",USA
+Salvatore Quasimodo,Salvatore Quasimodo,male,1901-08-20,Modica,Italy,1968-06-14,Naples,Italy
+Emilio Segrè,Emilio Gino Segrè,male,1905-02-01,Tivoli,Italy,1989-04-22,"Lafayette, CA",USA
+Philip Noel-Baker,Philip J. Noel-Baker,male,1889-11-01,London,United Kingdom,1982-10-08,London,United Kingdom
+Severo Ochoa,Severo Ochoa,male,1905-09-24,Luarca,Spain,1993-11-01,Madrid,Spain
+Owen Chamberlain,Owen Chamberlain,male,1920-07-10,"San Francisco, CA",USA,2006-02-28,"Berkeley, CA",USA
+Arthur Kornberg,Arthur Kornberg,male,1918-03-03,"Brooklyn, NY",USA,2007-10-26,"Stanford, CA",USA
+Jaroslav Heyrovsky,Jaroslav Heyrovsky,male,1890-12-20,Prague,Czech Republic,1967-03-27,Prague,Czech Republic
+Willard F. Libby,Willard Frank Libby,male,1908-12-17,"Grand Valley, CO",USA,1980-09-08,"Los Angeles, CA",USA
+Saint-John Perse,Saint-John Perse,male,1887-05-31,Pointe-à-Pitre,"Guadeloupe, France",1975-09-20,Presqu'île-de-Giens,France
+Albert Lutuli,Albert John Lutuli,male,,Bulawayo,Zimbabwe,1967-07-21,Stanger,South Africa
+Donald A. Glaser,Donald Arthur Glaser,male,1926-09-21,"Cleveland, OH",USA,2013-02-28,"Berkeley, CA",USA
+Sir Frank Macfarlane Burnet,Sir Frank Macfarlane Burnet,male,1899-09-03,Traralgon,Australia,1985-08-31,Melbourne,Australia
+Peter Medawar,Peter Brian Medawar,male,1915-02-28,Rio de Janeiro,Brazil,1987-10-02,London,United Kingdom
+Dag Hammarskjöld,Dag Hjalmar Agne Carl Hammarskjöld,male,1905-07-29,Jönköping,Sweden,1961-09-18,Ndola,Zambia
+Ivo Andrić,Ivo Andrić,male,1892-10-10,Dolac,Bosnia and Herzegovina,1975-03-13,Belgrade,Serbia
+Melvin Calvin,Melvin Calvin,male,1911-04-08,"St. Paul, MN",USA,1997-01-08,"Berkeley, CA",USA
+Robert Hofstadter,Robert Hofstadter,male,1915-02-05,"New York, NY",USA,1990-11-17,"Stanford, CA",USA
+Georg von Békésy,Georg von Békésy,male,1899-06-03,Budapest,Hungary,1972-06-13,"Honolulu, HI",USA
+Rudolf Mössbauer,Rudolf Ludwig Mössbauer,male,1929-01-31,Munich,Germany,2011-09-14,,
+Max F. Perutz,Max Ferdinand Perutz,male,1914-05-19,Vienna,Austria,2002-02-06,Cambridge,United Kingdom
+John C. Kendrew,John Cowdery Kendrew,male,1917-03-24,Oxford,United Kingdom,1997-08-23,Cambridge,United Kingdom
+John Steinbeck,John Steinbeck,male,1902-02-27,"Salinas, CA",USA,1968-12-20,"New York, NY",USA
+Linus Pauling,Linus Carl Pauling,male,1901-02-28,"Portland, OR",USA,1994-08-19,"Big Sur, CA",USA
+Lev Landau,Lev Davidovich Landau,male,1908-01-22,Baku,Azerbaijan,1968-04-01,Moscow,Russia
+Francis Crick,Francis Harry Compton Crick,male,1916-06-08,Northampton,United Kingdom,2004-07-28,"San Diego, CA",USA
+James Watson,James Dewey Watson,male,1928-04-06,"Chicago, IL",USA,,,
+Maurice Wilkins,Maurice Hugh Frederick Wilkins,male,1916-12-15,Pongaroa,New Zealand,2004-10-05,London,United Kingdom
+Eugene Wigner,Eugene Paul Wigner,male,1902-11-17,Budapest,Hungary,1995-01-01,"Princeton, NJ",USA
+Karl Ziegler,Karl Ziegler,male,1898-11-26,Helsa,Germany,1973-08-12,Mülheim,Germany
+Giulio Natta,Giulio Natta,male,1903-02-26,Imperia,Italy,1979-05-02,Bergamo,Italy
+J. Hans D. Jensen,J. Hans D. Jensen,male,1907-06-25,Hamburg,Germany,1973-02-11,Heidelberg,Germany
+Giorgos Seferis,Giorgos Seferis,male,1900-03-13,Izmir,Turkey,1971-09-20,Athens,Greece
+Sir John Eccles,Sir John Carew Eccles,male,1903-01-27,Melbourne,Australia,1997-05-02,Contra,Switzerland
+Alan Hodgkin,Alan Lloyd Hodgkin,male,1914-02-05,Banbury,United Kingdom,1998-12-20,Cambridge,United Kingdom
+Andrew Huxley,Andrew Fielding Huxley,male,1917-11-22,Hampstead,United Kingdom,2012-05-30,Grantchester,United Kingdom
+Maria Goeppert Mayer,Maria Goeppert Mayer,female,1906-06-28,Katowice,Poland,1972-02-20,"San Diego, CA",USA
+Dorothy Crowfoot Hodgkin,Dorothy Crowfoot Hodgkin,female,1910-05-12,Cairo,Egypt,1994-07-29,Shipston-on-Stour,United Kingdom
+Jean-Paul Sartre,Jean-Paul Sartre,male,1905-06-21,Paris,France,1980-04-15,Paris,France
+Martin Luther King Jr.,Martin Luther King Jr.,male,1929-01-15,"Atlanta, GA",USA,1968-04-04,"Memphis, TN",USA
+Charles H. Townes,Charles Hard Townes,male,1915-07-28,"Greenville, SC",USA,2015-01-27,"Berkeley, CA",USA
+Nicolay G. Basov,Nicolay Gennadiyevich Basov,male,1922-12-14,Usman,Russia,2001-07-01,Moscow,Russia
+Aleksandr M. Prokhorov,Aleksandr Mikhailovich Prokhorov,male,1916-07-11,Atherton,Australia,2002-01-08,Moscow,Russia
+Konrad Bloch,Konrad Bloch,male,1912-01-21,Nysa,Poland,2000-10-15,"Burlington, MA",USA
+Feodor Lynen,Feodor Lynen,male,1911-04-06,Munich,Germany,1979-08-06,Munich,Germany
+Julian Schwinger,Julian Schwinger,male,1918-02-12,"New York, NY",USA,1994-07-16,"Los Angeles, CA",USA
+Robert B. Woodward,Robert Burns Woodward,male,1917-04-10,"Boston, MA",USA,1979-07-08,"Cambridge, MA",USA
+Mikhail Sholokhov,Mikhail Aleksandrovich Sholokhov,male,1905-05-24,Veshenskaya,Russia,1984-02-21,Veshenskaya,Russia
+Sin-Itiro Tomonaga,Sin-Itiro Tomonaga,male,1906-03-31,Kyoto,Japan,1979-07-08,Tokyo,Japan
+François Jacob,François Jacob,male,1920-06-17,Nancy,France,2013-04-19,Paris,France
+André Lwoff,André Lwoff,male,1902-05-08,Ainay-le-Château,France,1994-09-30,Paris,France
+Jacques Monod,Jacques Monod,male,1910-02-09,Paris,France,1976-05-31,Cannes,France
+Richard P. Feynman,Richard P. Feynman,male,1918-05-11,"New York, NY",USA,1988-02-15,"Los Angeles, CA",USA
+Robert S. Mulliken,Robert S. Mulliken,male,1896-06-07,"Newburyport, MA",USA,1986-10-31,"Arlington, VA",USA
+Shmuel Agnon,Shmuel Yosef Agnon,male,1888-07-17,Buchach,Ukraine,1970-02-17,Rehovot,Israel
+Nelly Sachs,Nelly Sachs,female,1891-12-10,Berlin,Germany,1970-05-12,Stockholm,Sweden
+Alfred Kastler,Alfred Kastler,male,1902-05-03,Guebwiller,France,1984-01-07,Bandol,France
+Peyton Rous,Peyton Rous,male,1879-10-05,"Baltimore, MD",USA,1970-02-16,"New York, NY",USA
+Charles B. Huggins,Charles Brenton Huggins,male,1901-09-22,"Halifax, Nova Scotia",Canada,1997-01-12,"Chicago, IL",USA
+Manfred Eigen,Manfred Eigen,male,1927-05-09,Bochum,Germany,2019-02-06,Göttingen,Germany
+Ronald G.W. Norrish,Ronald George Wreyford Norrish,,,,,,,
+George Porter,George Porter,male,1920-12-06,Stainforth,United Kingdom,2002-08-31,Canterbury,United Kingdom
+Miguel Angel Asturias,Miguel Angel Asturias,male,1899-10-19,Guatemala City,Guatemala,1974-06-09,Madrid,Spain
+Hans Bethe,Hans Albrecht Bethe,,,,,,,
+Ragnar Granit,Ragnar Granit,,,,,,,
+Keffer Hartline,Haldan Keffer Hartline,,,,,,,
+George Wald,George Wald,,,,,,,
+Lars Onsager,Lars Onsager,male,1903-11-27,Oslo,Norway,1976-10-05,"Coral Gables, FL",USA
+Yasunari Kawabata,Yasunari Kawabata,male,1899-06-11,Osaka,Japan,1972-04-16,Zushi,Japan
+René Cassin,René Cassin,,,,,,,
+Luis Alvarez,Luis Walter Alvarez,,,,,,,
+Robert W. Holley,Robert W. Holley,,,,,,,
+H. Gobind Khorana,Har Gobind Khorana,,,,,,,
+Marshall W. Nirenberg,Marshall W. Nirenberg,,,,,,,
+Ragnar Frisch,Ragnar Frisch,male,1895-03-03,Oslo,Norway,1973-01-31,Oslo,Norway
+Derek Barton,Derek H. R. Barton,male,1918-09-08,Gravesend,United Kingdom,1998-03-16,"College Station, TX",USA
+Odd Hassel,Odd Hassel,male,1897-05-17,Oslo,Norway,1981-05-11,Oslo,Norway
+Jan Tinbergen,Jan Tinbergen,male,1903-04-12,the Hague,the Netherlands,1994-06-09,the Hague,the Netherlands
+Samuel Beckett,Samuel Beckett,male,1906-04-13,Dublin,Ireland,1989-12-22,Paris,France
+Murray Gell-Mann,Murray Gell-Mann,,,,,,,
+Alfred D. Hershey,Alfred D. Hershey,,,,,,,
+Salvador E. Luria,Salvador E. Luria,,,,,,,
+Max Delbrück,Max Delbrück,,,,,,,
+Luis Leloir,Luis F. Leloir,male,1906-09-06,Paris,France,1987-12-02,Buenos Aires,Argentina
+Paul A. Samuelson,Paul A. Samuelson,,,,,,,
+Aleksandr Solzhenitsyn,Aleksandr Isayevich Solzhenitsyn,male,1918-12-11,Kislovodsk,Russia,2008-08-03,Troitse-Lykovo,Russia
+Norman Borlaug,Norman Ernest Borlaug,male,1914-03-25,"Cresco, IA",USA,2009-09-12,"Dallas, TX",USA
+Hannes Alfvén,Hannes Olof Gösta Alfvén,male,1908-05-30,Norrköping,Sweden,1995-04-02,Djursholm,Sweden
+Louis Néel,Louis Eugène Félix Néel,male,1904-11-22,Lyon,France,2000-11-17,Brive-Corrèze,France
+Sir Bernard Katz,Sir Bernard Katz,,,,,,,
+Ulf von Euler,Ulf von Euler,,,,,,,
+Julius Axelrod,Julius Axelrod,male,1912-05-30,"New York, NY",USA,2004-12-29,"Rockville, MD",USA
+Simon Kuznets,Simon Kuznets,male,1901-04-30,Pinsk,Belarus,1985-07-08,"Cambridge, MA",USA
+Gerhard Herzberg,Gerhard Herzberg,male,1904-12-25,Hamburg,Germany,1999-03-03,Ottawa,Canada
+Pablo Neruda,Pablo Neruda,male,1904-07-12,Parral,Chile,1973-09-23,Santiago,Chile
+Willy Brandt,Willy Brandt,,,,,,,
+"Earl W. Sutherland, Jr.","Earl W. Sutherland, Jr.",,,,,,,
+Dennis Gabor,Dennis Gabor,,,,,,,
+Kenneth J. Arrow,Kenneth J. Arrow,male,1921-08-23,"New York, NY",USA,2017-02-21,"Palo Alto, CA",USA
+Christian Anfinsen,Christian B. Anfinsen,male,1916-03-26,"Monessen, PA",USA,1995-05-14,"Randallstown, MD",USA
+Stanford Moore,Stanford Moore,male,1913-09-04,"Chicago, IL",USA,1982-08-23,"New York, NY",USA
+John R. Hicks,John R. Hicks,male,1904-04-08,Warwick,United Kingdom,1989-05-20,Blockley,United Kingdom
+Leon N. Cooper,Leon Neil Cooper,,,,,,,
+William H. Stein,William H. Stein,male,1911-06-25,"New York, NY",USA,1980-02-02,"New York, NY",USA
+John Bardeen,John Bardeen,male,1908-05-23,"Madison, WI",USA,1991-01-30,"Boston, MA",USA
+Robert Schrieffer,John Robert Schrieffer,male,1931-05-31,"Oak Park, IL",USA,2019-07-27,"Tallahassee, FL",USA
+Gerald M. Edelman,Gerald M. Edelman,male,1929-07-01,"New York, NY",USA,2014-05-17,"La Jolla, CA",USA
+Rodney R. Porter,Rodney R. Porter,male,1917-10-08,Newton-le-Willows,United Kingdom,1985-09-06,Winchester,United Kingdom
+Heinrich Böll,Heinrich Böll,male,1917-12-21,Cologne,Germany,1985-07-16,Bornheim-Merten,Germany
+Henry Kissinger,Henry Alfred Kissinger,,,,,,,
+Le Duc Tho ,Le Duc Tho ,male,1911-10-14,Nam Ha province,Vietnam,1990-10-13,Hanoi,Vietnam
+Ernst Otto Fischer,Ernst Otto Fischer,male,1918-11-10,Munich,Germany,2007-07-23,Munich,Germany
+Geoffrey Wilkinson,Geoffrey Wilkinson,male,1921-07-14,Todmorden,United Kingdom,1996-09-26,London,United Kingdom
+Patrick White,Patrick White,male,1912-05-28,London,United Kingdom,1990-09-30,Sydney,Australia
+Wassily Leontief,Wassily Wassilyevich Leontief,,,,,,,
+Konrad Lorenz,Konrad Lorenz,,,,,,,
+Brian D. Josephson,Brian David Josephson,male,1940-01-04,Cardiff,United Kingdom,,,
+Karl von Frisch,Karl von Frisch,,,,,,,
+Nikolaas Tinbergen,Nikolaas Tinbergen,,,,,,,
+Ivar Giaever,Ivar Giaever,,,,,,,
+Leo Esaki,Leo Esaki,,,,,,,
+Seán MacBride,Seán MacBride,male,1904-01-26,Paris,France,1988-01-15,Dublin,Ireland
+Friedrich von Hayek,Friedrich August von Hayek,male,1899-05-08,Vienna,Austria,1992-03-23,Freiburg,Germany
+Harry Martinson,Harry Martinson,male,1904-05-06,Jämshög,Sweden,1978-02-11,Stockholm,Sweden
+Paul J. Flory,Paul J. Flory,male,1910-06-19,"Sterling, IL",USA,1985-09-08,"Big Sur, CA",USA
+Eyvind Johnson,Eyvind Johnson,male,1900-07-29,Svartbjörnsbyn,Sweden,1976-08-25,Stockholm,Sweden
+Gunnar Myrdal,Gunnar Myrdal,male,1898-12-06,Skattungbyn,Sweden,1987-05-17,Stockholm,Sweden
+George E. Palade,George E. Palade,,,,,,,
+Antony Hewish,Antony Hewish,male,1924-05-11,Fowey,United Kingdom,2021-09-13,,
+Eisaku Satō,Eisaku Satō,male,1901-03-27,Tabuse,Japan,1975-06-03,Tokyo,Japan
+Martin Ryle,Sir Martin Ryle,male,1918-09-27,Brighton,United Kingdom,1984-10-14,Cambridge,United Kingdom
+Albert Claude,Albert Claude,male,1898-08-24,Longlier,Belgium,1983-05-22,Brussels,Belgium
+Christian de Duve,Christian de Duve,male,1917-10-02,Thames Ditton,United Kingdom,2013-05-04,Nethen,Belgium
+Vladimir Prelog,Vladimir Prelog,male,1906-07-23,Sarajevo,Bosnia and Herzegovina,1998-01-07,Zurich,Switzerland
+John Cornforth,John Warcup Cornforth,male,1917-09-07,Sydney,Australia,2013-12-08,,
+Eugenio Montale,Eugenio Montale,male,1896-10-12,Genoa,Italy,1981-09-12,Milan,Italy
+Tjalling C. Koopmans,Tjalling C. Koopmans,male,1910-08-28,'s Graveland,the Netherlands,1985-02-26,"New Haven, CT",USA
+Howard M. Temin,Howard Martin Temin,male,1934-12-10,"Philadelphia, PA",USA,1994-02-09,"Madison, WI",USA
+Leonid Vitaliyevich Kantorovich,Leonid Vitaliyevich Kantorovich,male,1912-01-19,St. Petersburg,Russia,1986-04-07,Moscow,Russia
+Aage N. Bohr,Aage Niels Bohr,male,1922-06-19,Copenhagen,Denmark,2009-09-08,Copenhagen,Denmark
+Andrei Sakharov,Andrei Dmitrievich Sakharov,,,,,,,
+Renato Dulbecco,Renato Dulbecco,,,,,,,
+David Baltimore,David Baltimore,,,,,,,
+James Rainwater,Leo James Rainwater,,,,,,,
+Ben R. Mottelson,Ben Roy Mottelson,,,,,,,
+William Lipscomb,William N. Lipscomb,male,1919-12-09,"Cleveland, OH",USA,2011-04-14,"Cambridge, MA",USA
+Milton Friedman,Milton Friedman,,,,,,,
+Saul Bellow,Saul Bellow,male,1915-06-10,Montreal,Canada,2005-04-05,"Brookline, MA",USA
+Burton Richter,Burton Richter,male,1931-03-22,"Brooklyn, NY",USA,2018-07-18,"Stanford, CA",USA
+Samuel C.C. Ting,Samuel Chao Chung Ting,male,1936-01-27,"Ann Arbor, MI",USA,,,
+Baruch S. Blumberg,Baruch S. Blumberg,male,1925-07-28,"New York, NY",USA,2011-04-05,"Moffett Field, CA",USA
+D. Carleton Gajdusek,D. Carleton Gajdusek,male,1923-09-09,"Yonkers, NY",USA,2008-12-12,Tromsø,Norway
+Betty Williams,Elizabeth Williams,female,1943-05-22,Belfast,Northern Ireland,2020-03-17,Belfast,Northern Ireland
+Mairead Corrigan,Mairead Corrigan,female,1944-01-27,Belfast,Northern Ireland,,,
+Philip W. Anderson,Philip Warren Anderson,,,,,,,
+Ilya Prigogine,Ilya Romanovich Prigogine,male,1917-01-25,Moscow,Russia,2003-05-28,Brussels,Belgium
+Bertil Ohlin,Bertil Ohlin,male,1899-04-23,Klippan,Sweden,1979-08-03,Vålådalen,Sweden
+James E. Meade,James E. Meade,male,1907-06-23,Swanage,United Kingdom,1995-12-22,Cambridge,United Kingdom
+Vicente Aleixandre,Vicente Aleixandre,male,1898-04-26,Sevilla,Spain,1984-12-14,Madrid,Spain
+John H. Van Vleck,John Hasbrouck Van Vleck,,,,,,,
+Roger Guillemin,Roger Guillemin,male,1924-01-11,Dijon,France,2024-02-21,"Del Mar, CA",USA
+Andrew V. Schally,Andrew V. Schally,,,,,,,
+Rosalyn Yalow,Rosalyn Yalow,female,1921-07-19,"New York, NY",USA,2011-05-30,"New York, NY",USA
+Sir Nevill F. Mott,Sir Nevill Francis Mott,,,,,,,
+Peter Mitchell,Peter D. Mitchell,male,1920-09-29,Mitcham,United Kingdom,1992-04-10,Bodmin,United Kingdom
+Herbert Simon,Herbert A. Simon,male,1916-06-15,"Milwaukee, WI",USA,2001-02-09,"Pittsburgh, PA",USA
+Isaac Bashevis Singer,Isaac Bashevis Singer,male,1904-07-14,Leoncin,Poland,1991-07-24,"Surfside, FL",USA
+Anwar al-Sadat,Mohamed Anwar al-Sadat,male,1918-12-25,Mit Abu al-Kawm,Egypt,1981-10-06,Cairo,Egypt
+Hamilton O. Smith,Hamilton O. Smith,,,,,,,
+Menachem Begin,Menachem Begin,male,1913-08-16,Brest Litovsk,Belarus,1992-03-09,Tel Aviv,Israel
+Arno Penzias,Arno Allan Penzias,male,1933-04-26,Munich,Germany,2024-01-22,"San Francisco, CA",USA
+Robert Woodrow Wilson,Robert Woodrow Wilson,male,1936-01-10,"Houston, TX",USA,,,
+Werner Arber,Werner Arber,male,1929-06-03,Gränichen,Switzerland,,,
+Daniel Nathans,Daniel Nathans,,,,,,,
+Pyotr Kapitsa,Pyotr Leonidovich Kapitsa,,,,,,,
+Odysseus Elytis,Odysseus Elytis,,,,,,,
+Herbert C. Brown,Herbert C. Brown,male,1912-05-22,London,United Kingdom,2004-12-19,"Lafayette, IN",USA
+Georg Wittig,Georg Wittig,male,1897-06-16,Berlin,Germany,1987-08-26,Heidelberg,Germany
+Theodore W. Schultz,Theodore W. Schultz,male,1902-04-30,"Arlington, SD",USA,1998-02-26,"Evanston, IL",USA
+Sir Arthur Lewis,Sir Arthur Lewis,male,1915-01-23,Castries,Saint Lucia,1991-06-15,Bridgetown,Barbados
+Mother Teresa,Mother Teresa,female,1910-08-26,Skopje,North Macedonia,1997-09-05,Calcutta,India
+Abdus Salam,Abdus Salam,male,1926-01-29,Jhang Maghiāna,Pakistan,1996-11-21,Oxford,United Kingdom
+Steven Weinberg,Steven Weinberg,,,,,,,
+Allan M. Cormack,Allan M. Cormack,male,1924-02-23,Johannesburg,South Africa,1998-05-07,"Winchester, MA",USA
+Godfrey N. Hounsfield,Godfrey N. Hounsfield,male,1919-08-28,Newark,United Kingdom,2004-08-12,Kingston upon Thames,United Kingdom
+Sheldon Glashow,Sheldon Lee Glashow,,,,,,,
+Lawrence R. Klein,Lawrence R. Klein,,,,,,,
+Paul Berg,Paul Berg,male,1926-06-30,"New York, NY",USA,2023-02-15,"Stanford, CA",USA
+Walter Gilbert,Walter Gilbert,male,1932-03-21,"Boston, MA",USA,,,
+Frederick Sanger,Frederick Sanger,male,1918-08-13,Rendcombe,United Kingdom,2013-11-19,Cambridge,United Kingdom
+Czesław Miłosz,Czesław Miłosz,male,1911-06-30,Śeteniai,Lithuania,2004-08-14,Kraków,Poland
+Adolfo Pérez Esquivel,Adolfo Pérez Esquivel,,,,,,,
+James Cronin,James Watson Cronin,male,1931-09-29,"Chicago, IL",USA,2016-08-25,"St. Paul, MN",USA
+Baruj Benacerraf,Baruj Benacerraf,male,1920-10-29,Caracas,Venezuela,2011-08-02,"Boston, MA",USA
+Jean Dausset,Jean Dausset,male,1916-10-19,Toulouse,France,2009-06-06,"Palma, Majorca",Spain
+George D. Snell,George D. Snell,,,,,,,
+Val Fitch,Val Logsdon Fitch,male,1923-03-10,"Merriman, NE",USA,2015-02-05,"Princeton, NJ",USA
+Nicolaas Bloembergen,Nicolaas Bloembergen,,,,,,,
+Roald Hoffmann,Roald Hoffmann,male,1937-07-18,Zloczov,Ukraine,,,
+James Tobin,James Tobin,male,1918-03-05,"Champaign, IL",USA,2002-03-11,"New Haven, CT",USA
+Elias Canetti,Elias Canetti,male,1905-07-25,Ruse,Bulgaria,1994-08-14,Zurich,Switzerland
+Kenichi Fukui,Kenichi Fukui,male,1918-10-04,Nara,Japan,1998-01-09,Kyoto,Japan
+Arthur L. Schawlow,Arthur Leonard Schawlow,,,,,,,
+Kai M. Siegbahn,Kai M. Siegbahn,male,1918-04-20,Lund,Sweden,2007-07-20,Ängelholm,Sweden
+Roger W. Sperry,Roger W. Sperry,,,,,,,
+Torsten N. Wiesel,Torsten N. Wiesel,male,1924-06-03,Uppsala,Sweden,,,
+David H. Hubel,David H. Hubel,male,1926-02-27,"Windsor, ON",Canada,2013-09-22,"Lincoln, MA",USA
+Alfonso García Robles,Alfonso García Robles,male,1911-03-20,Zamora,Mexico,1991-09-02,Mexico City,Mexico
+Aaron Klug,Aaron Klug,male,1926-08-11,Zelvas,Lithuania,2018-11-20,,
+George J. Stigler,George J. Stigler,,,,,,,
+Gabriel García Márquez,Gabriel García Márquez,male,1927-03-06,Aracataca,Colombia,2014-04-17,Mexico City,Mexico
+Kenneth G. Wilson,Kenneth G. Wilson,,,,,,,
+Sune K. Bergström,Sune K. Bergström,male,1916-01-10,Stockholm,Sweden,2004-08-15,Stockholm,Sweden
+Bengt I. Samuelsson,Bengt I. Samuelsson,,,,,,,
+John R. Vane,John R. Vane,,,,,,,
+Alva Myrdal,Alva Myrdal,female,1902-01-31,Uppsala,Sweden,1986-02-01,Stockholm,Sweden
+Gerard Debreu,Gerard Debreu,male,1921-07-04,Calais,France,2004-12-31,Paris,France
+Henry Taube,Henry Taube,male,1915-11-30,Neudorf,Canada,2005-11-16,"Stanford, CA",USA
+Barbara McClintock,Barbara McClintock,,,,,,,
+William Golding,William Golding,,,,,,,
+William A. Fowler,William Alfred Fowler,male,1911-08-09,"Pittsburgh, PA",USA,1995-03-14,"Pasadena, CA",USA
+Subrahmanyan Chandrasekhar,Subrahmanyan Chandrasekhar,male,1910-10-19,Lahore,Pakistan,1995-08-21,"Chicago, IL",USA
+Lech Wałęsa,Lech Wałęsa,,,,,,,
+Bruce Merrifield,Robert Bruce Merrifield,male,1921-07-15,"Fort Worth, TX",USA,2006-05-14,"Cresskill, NJ",USA
+Richard Stone,Richard Stone,,,,,,,
+Jaroslav Seifert,Jaroslav Seifert,male,1901-09-23,Prague,Czech Republic,1986-01-10,Prague,Czech Republic
+Desmond Tutu,Desmond Mpilo Tutu,,,,,,,
+Carlo Rubbia,Carlo Rubbia,male,1934-03-31,Gorizia,Italy,,,
+Simon van der Meer,Simon van der Meer,male,1925-11-24,the Hague,the Netherlands,2011-03-04,Geneva,Switzerland
+Niels K. Jerne,Niels K. Jerne,,,,,,,
+Georges J.F. Köhler,Georges J.F. Köhler,,,,,,,
+César Milstein,César Milstein,male,1927-10-08,Bahia Blanca,Argentina,2002-03-24,Cambridge,United Kingdom
+Franco Modigliani,Franco Modigliani,,,,,,,
+Herbert A. Hauptman,Herbert A. Hauptman,male,1917-02-14,"New York, NY",USA,2011-10-23,"Buffalo, NY",USA
+Klaus von Klitzing,Klaus von Klitzing,,,,,,,
+Jerome Karle,Jerome Karle,male,1918-06-18,"New York, NY",USA,2013-06-06,"Annandale, VA",USA
+Michael S. Brown,Michael S. Brown,male,1941-04-13,"New York, NY",USA,,,
+Joseph L. Goldstein,Joseph L. Goldstein,male,1940-04-18,"Sumter, SC",USA,,,
+Claude Simon,Claude Simon,male,1913-10-10,Antananarivo,Madagascar,2005-07-06,Paris,France
+Wole Soyinka,Wole Soyinka,male,1934-07-13,Abeokuta,Nigeria,,,
+Dudley R. Herschbach,Dudley R. Herschbach,male,1932-06-18,"San José, CA",USA,,,
+Yuan T. Lee,Yuan T. Lee,,,,,,,
+John C. Polanyi,John C. Polanyi,male,1929-01-23,Berlin,Germany,,,
+James M. Buchanan Jr.,James M. Buchanan Jr.,,,,,,,
+Elie Wiesel,Elie Wiesel,,,,,,,
+Gerd Binnig,Gerd Binnig,male,1947-07-20,Frankfurt-on-the-Main,Germany,,,
+Heinrich Rohrer,Heinrich Rohrer,,,,,,,
+Stanley Cohen,Stanley Cohen,male,1922-11-17,"Brooklyn, NY",USA,2020-02-05,"Nashville, TN",USA
+Rita Levi-Montalcini,Rita Levi-Montalcini,female,1909-04-22,Turin,Italy,2012-12-30,Rome,Italy
+Ernst Ruska,Ernst Ruska,,,,,,,
+Charles J. Pedersen,Charles J. Pedersen,male,1904-10-03,Pusan,South Korea,1989-10-26,"Salem, NJ",USA
+Joseph Brodsky,Joseph Brodsky,male,1940-05-24,St. Petersburg,Russia,1996-01-28,"New York, NY",USA
+Jean-Marie Lehn,Jean-Marie Lehn,male,1939-09-30,Rosheim,France,,,
+Robert M. Solow,Robert M. Solow,,,,,,,
+J. Georg Bednorz,J. Georg Bednorz,male,1950-05-16,Neuenkirchen,Germany,,,
+Oscar Arias Sánchez,Oscar Arias Sánchez,,,,,,,
+K. Alex Müller,K. Alexander Müller,male,1927-04-20,Basel,Switzerland,2023-01-09,Zurich,Switzerland
+Susumu Tonegawa,Susumu Tonegawa,,,,,,,
+Donald J. Cram,Donald J. Cram,male,1919-04-22,"Chester, VT",USA,2001-06-17,"Palm Desert, CA",USA
+Johann Deisenhofer,Johann Deisenhofer,male,1943-09-30,Zusamaltheim,Germany,,,
+Robert Huber,Robert Huber,male,1937-02-20,Munich,Germany,,,
+Hartmut Michel,Hartmut Michel,male,1948-07-18,Ludwigsburg,Germany,,,
+Maurice Allais,Maurice Allais,,,,,,,
+George H. Hitchings,George H. Hitchings,,,,,,,
+Naguib Mahfouz,Naguib Mahfouz,male,1911-12-11,Cairo,Egypt,2006-08-30,Cairo,Egypt
+Melvin Schwartz,Melvin Schwartz,,,,,,,
+Jack Steinberger,Jack Steinberger,,,,,,,
+Sir James W. Black,Sir James W. Black,,,,,,,
+Gertrude B. Elion,Gertrude B. Elion,,,,,,,
+Leon M. Lederman,Leon M. Lederman,,,,,,,
+Camilo José Cela,Camilo José Cela,male,1916-05-11,Iria Flavia,Spain,2002-01-17,Madrid,Spain
+Sidney Altman,Sidney Altman,male,1939-05-07,Montreal,Canada,2022-04-05,"Rockleigh, NJ",USA
+Thomas R. Cech,Thomas R. Cech,male,1947-12-08,"Chicago, IL",USA,,,
+Trygve Haavelmo,Trygve Haavelmo,,,,,,,
+The 14th Dalai Lama,The 14th Dalai Lama (Tenzin Gyatso),,,,,,,
+Norman F. Ramsey,Norman F. Ramsey,,,,,,,
+Wolfgang Paul,Wolfgang Paul,,,,,,,
+J. Michael Bishop,J. Michael Bishop,male,1936-02-22,"York, PA",USA,,,
+Harold E. Varmus,Harold E. Varmus,male,1939-12-18,"Oceanside, NY",USA,,,
+Hans G. Dehmelt,Hans G. Dehmelt,,,,,,,
+William F. Sharpe,William F. Sharpe,,,,,,,
+Elias James Corey,Elias James Corey,male,1928-07-12,"Methuen, MA",USA,,,
+Harry M. Markowitz,Harry M. Markowitz,,,,,,,
+Mikhail Gorbachev,Mikhail Sergeyevich Gorbachev,male,1931-03-02,Privolnoye,Russia,2022-08-30,Moscow,Russia
+Octavio Paz,Octavio Paz,male,1914-03-31,Mexico City,Mexico,1998-04-19,Mexico City,Mexico
+Richard E. Taylor,Richard E. Taylor,,,,,,,
+Jerome I. Friedman,Jerome I. Friedman,male,1930-03-28,"Chicago, IL",USA,,,
+E. Donnall Thomas,E. Donnall Thomas,male,1920-03-15,"Mart, TX",USA,2012-10-20,"Seattle, WA",USA
+Joseph E. Murray,Joseph E. Murray,male,1919-04-01,"Milford, MA",USA,2012-11-26,"Boston, MA",USA
+Henry W. Kendall,Henry W. Kendall,male,1926-12-09,"Boston, MA",USA,1999-02-15,"Wakulla Springs State Park, FL",USA
+Merton H. Miller,Merton H. Miller,male,1923-05-16,"Boston, MA",USA,2000-06-03,"Chicago, IL",USA
+Richard R. Ernst,Richard R. Ernst,male,1933-08-14,Winterthur,Switzerland,2021-06-04,Winterthur,Switzerland
+Ronald H. Coase,Ronald H. Coase,,,,,,,
+Bert Sakmann,Bert Sakmann,male,1942-06-12,Stuttgart,Germany,,,
+Nadine Gordimer,Nadine Gordimer,female,1923-11-20,Springs,South Africa,2014-07-13,Johannesburg,South Africa
+Pierre-Gilles de Gennes,Pierre-Gilles de Gennes,,,,,,,
+Erwin Neher,Erwin Neher,male,1944-03-20,Landsberg,Germany,,,
+Aung San Suu Kyi,Aung San Suu Kyi,,,,,,,
+Rudolph A. Marcus,Rudolph A. Marcus,male,1923-07-21,Montreal,Canada,,,
+Gary Becker,Gary S. Becker,,,,,,,
+Derek Walcott,Derek Walcott,male,1930-01-23,Castries,Saint Lucia,2017-03-17,Gros-Islet,Saint Lucia
+Rigoberta Menchú Tum,Rigoberta Menchú Tum,,,,,,,
+Georges Charpak,Georges Charpak,,,,,,,
+Edmond H. Fischer,Edmond H. Fischer,male,1920-04-06,Shanghai,China,2021-08-27,"Seattle, WA",USA
+Edwin G. Krebs,Edwin G. Krebs,male,1918-06-06,"Lansing, IA",USA,2009-12-21,"Seattle, WA",USA
+Douglass C. North,Douglass C. North,male,1920-11-05,"Cambridge, MA",USA,2015-11-23,"Benzonia, MI",USA
+Kary B. Mullis,Kary B. Mullis,male,1944-12-28,"Lenoir, NC",USA,2019-08-07,"Newport Beach, CA",USA
+Michael Smith,Michael Smith,male,1932-04-26,Blackpool,United Kingdom,2000-10-04,Vancouver,Canada
+Robert W. Fogel,Robert W. Fogel,male,1927-07-01,"New York, NY",USA,2013-06-11,"Oak Lawn, IL",USA
+Richard J. Roberts,Richard J. Roberts,male,1943-09-06,Derby,United Kingdom,,,
+Toni Morrison,Toni Morrison,female,1931-02-18,"Lorain, OH",USA,2019-08-05,"New York, NY",USA
+Russell A. Hulse,Russell A. Hulse,male,1950-11-28,"New York, NY",USA,,,
+Joseph H. Taylor Jr.,Joseph H. Taylor Jr.,male,1941-03-29,"Philadelphia, PA",USA,,,
+Phillip A. Sharp,Phillip A. Sharp,male,1944-06-06,"Falmouth, KY",USA,,,
+Nelson Mandela,Nelson Rolihlahla Mandela,male,1918-07-18,Mvezo,South Africa,2013-12-05,Johannesburg,South Africa
+F.W. de Klerk,Frederik Willem de Klerk,male,1936-03-18,Johannesburg,South Africa,2021-11-11,Cape Town,South Africa
+George A. Olah,George A. Olah,male,1927-05-22,Budapest,Hungary,2017-03-08,"Los Angeles, CA",USA
+John C. Harsanyi,John C. Harsanyi,,,,,,,
+John F. Nash Jr.,John F. Nash Jr.,,,,,,,
+Reinhard Selten,Reinhard Selten,,,,,,,
+Kenzaburo Oe,Kenzaburo Oe,male,1935-01-31,Uchiko,Japan,2023-03-03,Tokyo,Japan
+Yasser Arafat,Yasser Arafat,,,,,,,
+Shimon Peres,Shimon Peres,,,,,,,
+Yitzhak Rabin,Yitzhak Rabin,,,,,,,
+Bertram N. Brockhouse,Bertram N. Brockhouse,male,1918-07-15,"Lethbridge, Alberta",Canada,2003-10-13,"Hamilton, Ontario",Canada
+Clifford G. Shull,Clifford G. Shull,male,1915-09-23,"Pittsburgh, PA",USA,2001-03-31,"Medford, MA",USA
+Alfred G. Gilman,Alfred G. Gilman,male,1941-07-01,"New Haven, CT",USA,2015-12-23,"Dallas, TX",USA
+Martin Rodbell,Martin Rodbell,male,1925-12-01,"Baltimore, MD",USA,1998-12-07,"Chapel Hill, NC",USA
+Seamus Heaney,Seamus Heaney,male,1939-04-13,Casteldàwson,Northern Ireland,2013-08-30,Dublin,Ireland
+Paul J. Crutzen,Paul J. Crutzen,male,1933-12-03,Amsterdam,the Netherlands,2021-01-28,Mainz,Germany
+Mario J. Molina,Mario J. Molina,male,1943-03-19,Mexico City,Mexico,2020-10-07,Mexico City,Mexico
+F. Sherwood Rowland,F. Sherwood Rowland,male,1927-06-28,"Delaware, OH",USA,2012-03-10,"Corona del Mar, CA",USA
+Robert E. Lucas Jr.,Robert E. Lucas Jr.,,,,,,,
+Joseph Rotblat,Joseph Rotblat,male,1908-11-04,Warsaw,Poland,2005-08-31,London,United Kingdom
+Frederick Reines,Frederick Reines,male,1918-03-16,"Paterson, NJ",USA,1998-08-26,"Orange, CA",USA
+Edward B. Lewis,Edward B. Lewis,,,,,,,
+Christiane Nüsslein-Volhard,Christiane Nüsslein-Volhard,,,,,,,
+Eric F. Wieschaus,Eric F. Wieschaus,,,,,,,
+Martin L. Perl,Martin L. Perl,male,1927-06-24,"New York, NY",USA,2014-09-30,"Palo Alto, CA",USA
+William Vickrey,William Vickrey,male,1914-06-21,"Victoria, BC",Canada,1996-10-11,"Harrison, NY",USA
+Carlos Filipe Ximenes Belo,Carlos Filipe Ximenes Belo,male,1948-02-03,Wailacama,East Timor,,,
+Sir Harold Kroto,Sir Harold W. Kroto,male,1939-10-07,"Wisbech, Cambridgeshire ",United Kingdom,2016-04-30,"Lewes, East Sussex",United Kingdom
+Richard E. Smalley,Richard E. Smalley,male,1943-06-06,"Akron, OH",USA,2005-10-28,"Houston, TX",USA
+James A. Mirrlees,James A. Mirrlees,male,1936-07-05,Minnigaff,Scotland,2018-08-29,Cambridge,United Kingdom
+Wisława Szymborska,Wisława Szymborska,female,1923-07-02,Kórnik,Poland,2012-02-01,Kraków,Poland
+David M. Lee,David M. Lee,male,1931-01-20,"Rye, NY",USA,,,
+José Ramos-Horta,José Ramos-Horta,male,1949-12-26,Dili,East Timor,,,
+Douglas D. Osheroff,Douglas D. Osheroff,,,,,,,
+Robert C. Richardson,Robert C. Richardson,,,,,,,
+Peter C. Doherty,Peter C. Doherty,male,1940-10-15,Brisbane,Australia,,,
+Rolf M. Zinkernagel,Rolf M. Zinkernagel,male,1944-01-06,Basel,Switzerland,,,
+Robert F. Curl Jr.,Robert F. Curl Jr.,male,1933-08-23,"Alice, TX",USA,2022-07-03,"Houston, TX",USA
+Dario Fo,Dario Fo,male,1926-03-24,Leggiuno-Sangiano,Italy,2016-10-13,Milan,Italy
+Paul D. Boyer,Paul D. Boyer,male,1918-07-31,"Provo, UT",USA,2018-06-02,"Los Angeles, CA",USA
+John E. Walker,John E. Walker,male,1941-01-07,Halifax,United Kingdom,,,
+Jens C. Skou,Jens C. Skou,male,1918-10-08,Lemvig,Denmark,2018-05-28,Aarhus,Denmark
+Robert C. Merton,Robert C. Merton,male,1944-07-31,"New York, NY",USA,,,
+Jody Williams,Jody Williams,female,1950-10-09,"Rutland, VT",USA,,,
+Steven Chu,Steven Chu,,,,,,,
+Claude Cohen-Tannoudji,Claude Cohen-Tannoudji,male,1933-04-01,Constantine,Algeria,,,
+William D. Phillips,William D. Phillips,male,1948-11-05,"Wilkes-Barre, PA",USA,,,
+Stanley B. Prusiner,Stanley B. Prusiner,,,,,,,
+Myron Scholes,Myron S. Scholes,male,1941-07-01,"Timmins, ON",Canada,,,
+José Saramago,José Saramago,male,1922-11-16,Azinhaga,Portugal,2010-06-18,Lanzarote,Spain
+David Trimble,David Trimble,male,1944-10-15,Belfast,Northern Ireland,2022-07-25,Belfast,Northern Ireland
+John Pople,John A. Pople,male,1925-10-31,Burnham-on-Sea,United Kingdom,2004-03-15,"Chicago, IL",USA
+Amartya Sen,Amartya Sen,,,,,,,
+John Hume,John Hume,male,1937-01-18,Londonderry,Northern Ireland,2020-08-03,Londonderry,Northern Ireland
+Walter Kohn,Walter Kohn,male,1923-03-09,Vienna,Austria,2016-04-19,"Santa Barbara, CA",USA
+Robert B. Laughlin,Robert B. Laughlin,,,,,,,
+Daniel C. Tsui,Daniel C. Tsui,,,,,,,
+Robert F. Furchgott,Robert F. Furchgott,,,,,,,
+Ferid Murad,Ferid Murad,,,,,,,
+Horst L. Störmer,Horst L. Störmer,,,,,,,
+Louis J. Ignarro,Louis J. Ignarro,male,1941-05-31,"Brooklyn, NY",USA,,,
+Ahmed Zewail,Ahmed H. Zewail,male,1946-02-26,Damanhur,Egypt,2016-08-02,"Pasadena, CA",USA
+Robert Mundell,Robert A. Mundell,,,,,,,
+Günter Grass,Günter Grass,male,1927-10-16,Gdansk,Poland,2015-04-13,Lübeck,Germany
+Gerardus 't Hooft,Gerardus 't Hooft,male,1946-07-05,Den Helder,the Netherlands,,,
+Martinus J.G. Veltman,Martinus J.G. Veltman,male,1931-06-27,Waalwijk,the Netherlands,2021-01-04,Bilthoven,the Netherlands
+Günter Blobel,Günter Blobel,,,,,,,
+Alan Heeger,Alan J. Heeger,male,1936-01-22,"Sioux City, IA",USA,,,
+Alan MacDiarmid,Alan G. MacDiarmid,male,1927-04-14,Masterton,New Zealand,2007-02-07,"Drexel Hill, PA",USA
+Hideki Shirakawa,Hideki Shirakawa,male,1936-08-20,Tokyo,Japan,,,
+Kim Dae-jung,Kim Dae-jung,,,,,,,
+Daniel L. McFadden,Daniel L. McFadden,male,1937-07-29,"Raleigh, NC",USA,,,
+Gao Xingjian,Gao Xingjian,male,1940-01-04,Ganzhou,China,,,
+Eric Kandel,Eric R. Kandel,male,1929-11-07,Vienna,Austria,,,
+Zhores Alferov,Zhores I. Alferov,,,,,,,
+Herbert Kroemer,Herbert Kroemer,,,,,,,
+Jack Kilby,Jack S. Kilby,,,,,,,
+Arvid Carlsson,Arvid Carlsson,male,1923-01-25,Uppsala,Sweden,2018-06-29,Gothenburg,Sweden
+Paul Greengard,Paul Greengard,,,,,,,
+James J. Heckman,James J. Heckman,male,1944-04-19,"Chicago, IL",USA,,,
+V. S. Naipaul,Sir Vidiadhar Surajprasad Naipaul,male,1932-08-17,Chaguanas,Trinidad and Tobago,2018-08-11,London,United Kingdom
+William Knowles,William S. Knowles,male,1917-06-01,"Taunton, MA",USA,2012-06-13,"Chesterfield, MO",USA
+Ryoji Noyori,Ryoji Noyori,male,1938-09-03,Kobe,Japan,,,
+K. Barry Sharpless,K. Barry Sharpless,male,1941-04-28,"Philadelphia, PA",USA,,,
+George A. Akerlof,George A. Akerlof,,,,,,,
+Joseph E. Stiglitz,Joseph E. Stiglitz,male,1943-02-09,"Gary, IN",USA,,,
+A. Michael Spence,A. Michael Spence,male,,"Montclair, NJ",USA,,,
+Kofi Annan,Kofi Atta Annan,male,1938-04-08,Kumasi,Ghana,2018-08-18,Bern,Switzerland
+Wolfgang Ketterle,Wolfgang Ketterle,,,,,,,
+Carl Wieman,Carl E. Wieman,,,,,,,
+Leland Hartwell,Leland H. Hartwell,,,,,,,
+Tim Hunt,Tim Hunt,,,,,,,
+Sir Paul Nurse,Sir Paul M. Nurse,male,1949-01-25,Norwich,United Kingdom,,,
+Eric Cornell,Eric A. Cornell,,,,,,,
+Imre Kertész,Imre Kertész,male,1929-11-09,Budapest,Hungary,2016-03-31,Budapest,Hungary
+John B. Fenn,John B. Fenn,male,1917-06-15,"New York, NY",USA,2010-12-10,"Richmond, VA",USA
+Kurt Wüthrich,Kurt Wüthrich,male,1938-10-04,Aarberg,Switzerland,,,
+Daniel Kahneman,Daniel Kahneman,male,1934-03-05,Tel Aviv,Israel,2024-03-27,,
+Vernon L. Smith,Vernon L. Smith,male,1927-01-01,"Wichita, KS",USA,,,
+Sydney Brenner,Sydney Brenner,,,,,,,
+Koichi Tanaka,Koichi Tanaka,male,1959-08-03,Toyama City,Japan,,,
+Raymond Davis Jr.,Raymond Davis Jr.,,,,,,,
+Masatoshi Koshiba,Masatoshi Koshiba,,,,,,,
+Riccardo Giacconi,Riccardo Giacconi,,,,,,,
+H. Robert Horvitz,H. Robert Horvitz,,,,,,,
+John E. Sulston,John E. Sulston,,,,,,,
+Jimmy Carter,James Earl Carter,,,,,,,
+Shirin Ebadi,Shirin Ebadi,,,,,,,
+Peter Agre,Peter Agre,male,1949-01-30,"Northfield, MN",USA,,,
+Roderick MacKinnon,Roderick MacKinnon,male,1956-02-19,"Burlington, MA",USA,,,
+Robert F. Engle III,Robert F. Engle III,male,1942-11-10,"Syracuse, NY",USA,,,
+Clive W.J. Granger,Clive W.J. Granger,male,1934-09-04,Swansea,United Kingdom,2009-05-27,"San Diego, CA",USA
+Alexei Abrikosov,Alexei Alexeyevich Abrikosov,,,,,,,
+Vitaly L. Ginzburg,Vitaly Lazarevich Ginzburg,,,,,,,
+Anthony J. Leggett,Anthony J. Leggett,,,,,,,
+Paul C. Lauterbur,Paul C. Lauterbur,,,,,,,
+Sir Peter Mansfield,Sir Peter Mansfield,male,1933-10-09,London,United Kingdom,2017-02-08,,
+J. M. Coetzee,John M. Coetzee,male,1940-02-09,Cape Town,South Africa,,,
+Aaron Ciechanover,Aaron Ciechanover,male,1947-10-01,Haifa,Israel,,,
+Finn E. Kydland,Finn E. Kydland,male,1943-12-01,Gjesdal,Norway,,,
+Irwin Rose,Irwin Rose,male,1926-07-16,"Brooklyn, NY",USA,2015-06-03,"Deerfield, MA",USA
+Elfriede Jelinek,Elfriede Jelinek,female,1946-10-20,Mürzzuschlag,Austria,,,
+Edward C. Prescott,Edward C. Prescott,male,1940-12-26,"Glens Falls, NY",USA,2022-11-06,"Paradise Valley, AZ",USA
+Avram Hershko,Avram Hershko,male,1937-12-31,Karcag,Hungary,,,
+Wangari Maathai,Wangari Muta Maathai,,,,,,,
+David J. Gross,David J. Gross,,,,,,,
+Linda B. Buck,Linda B. Buck,female,1947-01-29,"Seattle, WA",USA,,,
+H. David Politzer,H. David Politzer,,,,,,,
+Richard Axel,Richard Axel,male,1946-07-02,"New York, NY",USA,,,
+Frank Wilczek,Frank Wilczek,,,,,,,
+Thomas C. Schelling,Thomas C. Schelling,male,1921-04-14,"Oakland, CA",USA,2016-12-13,"Bethesda, MD",USA
+Robert H. Grubbs,Robert H. Grubbs,male,1942-02-27,"Possum Trot, KY",USA,2021-12-19,"Duarte, CA",USA
+Richard R. Schrock,Richard R. Schrock,male,1945-01-04,"Berne, IN",USA,,,
+Robert J. Aumann,Robert J. Aumann,male,1930-06-08,Frankfurt-on-the-Main,Germany,,,
+J. Robin Warren,J. Robin Warren,,,,,,,
+Theodor W. Hänsch,Theodor W. Hänsch,,,,,,,
+Mohamed ElBaradei,Mohamed ElBaradei,male,1942-06-17,Cairo,Egypt,,,
+Roy J. Glauber,Roy J. Glauber,,,,,,,
+John L. Hall,John L. Hall,male,1934-08-21,"Denver, CO",USA,,,
+Barry J. Marshall,Barry J. Marshall,male,1951-09-30,Kalgoorlie,Australia,,,
+Harold Pinter,Harold Pinter,male,1930-10-10,London,United Kingdom,2008-12-24,London,United Kingdom
+Yves Chauvin,Yves Chauvin,male,1930-10-10,Menin,Belgium,2015-01-27,Tours,France
+Andrew Z. Fire,Andrew Z. Fire,male,1959-04-27,"Stanford, CA",USA,,,
+Craig C. Mello,Craig C. Mello,male,1960-10-18,"New Haven, CT",USA,,,
+Roger D. Kornberg,Roger D. Kornberg,male,1947-04-24,"St. Louis, MO",USA,,,
+Edmund S. Phelps,Edmund S. Phelps,,,,,,,
+Orhan Pamuk,Orhan Pamuk,male,1952-06-07,Istanbul,Turkey,,,
+Muhammad Yunus,Muhammad Yunus,male,1940-06-28,Chittagong,Bangladesh,,,
+John C. Mather,John C. Mather,male,1946-08-07,"Roanoke, VA",USA,,,
+George F. Smoot,George F. Smoot,male,1945-02-20,"Yukon, FL",USA,2025-09-18,Paris,France
+Leonid Hurwicz,Leonid Hurwicz,,,,,,,
+Gerhard Ertl,Gerhard Ertl,male,1936-10-10,Bad Cannstatt,Germany,,,
+Eric S. Maskin,Eric S. Maskin,,,,,,,
+Al Gore,Albert Arnold (Al) Gore  Jr.,male,1948-03-31,"Washington, D.C.",USA,,,
+Doris Lessing,Doris Lessing,,,,,,,
+Oliver Smithies,Oliver Smithies,,,,,,,
+Albert Fert,Albert Fert,male,1938-03-07,Carcassonne,France,,,
+Peter Grünberg,Peter Grünberg,male,1939-05-18,Plzen,Czech Republic,2018-04-09,Jülich,Germany
+Sir Martin J. Evans,Sir Martin J. Evans,,,,,,,
+Mario R. Capecchi,Mario R. Capecchi,,,,,,,
+Roger B. Myerson,Roger B. Myerson,male,1951-03-29,"Boston, MA",USA,,,
+Martti Ahtisaari,Martti Ahtisaari,,,,,,,
+Osamu Shimomura,Osamu Shimomura,male,1928-08-27,Kyoto,Japan,2018-10-19,Nagasaki,Japan
+Martin Chalfie,Martin Chalfie,male,1947-01-15,"Chicago, IL",USA,,,
+Roger Y. Tsien,Roger Y. Tsien,male,1952-02-01,"New York, NY",USA,2016-08-24,"Eugene, OR",USA
+Paul Krugman,Paul Krugman,,,,,,,
+Jean-Marie Gustave Le Clézio,Jean-Marie Gustave Le Clézio,male,1940-04-13,Nice,France,,,
+Makoto Kobayashi,Makoto Kobayashi,,,,,,,
+Toshihide Maskawa,Toshihide Maskawa,,,,,,,
+Harald zur Hausen,Harald zur Hausen,,,,,,,
+Françoise Barré-Sinoussi,Françoise Barré-Sinoussi,female,1947-07-30,Paris,France,,,
+Luc Montagnier,Luc Montagnier,,,,,,,
+Yoichiro Nambu,Yoichiro Nambu,male,1921-01-18,Tokyo,Japan,2015-07-05,Osaka,Japan
+Oliver E. Williamson,Oliver E. Williamson,male,1932-09-27,"Superior, WI",USA,,,
+Venkatraman Ramakrishnan,Venkatraman Ramakrishnan,male,,"Chidambaram, Tamil Nadu",India,,,
+Thomas A. Steitz,Thomas A. Steitz,male,1940-08-23,"Milwaukee, WI",USA,2018-08-23,"Branford, CT",USA
+Ada E. Yonath,Ada E. Yonath,female,1939-06-22,Jerusalem,Israel,,,
+Elinor Ostrom,Elinor Ostrom,female,1933-08-07,"Los Angeles, CA",USA,2012-06-12,"Bloomington, IN",USA
+Jack W. Szostak,Jack W. Szostak,,,,,,,
+Herta Müller,Herta Müller,female,1953-08-17,"Nitzkydorf, Banat",Romania,,,
+Willard S. Boyle,Willard S. Boyle,,,,,,,
+George E. Smith,George E. Smith,male,1930-05-10,"White Plains, NY",USA,2025-05-28,"Barnegat Township, NJ",USA
+Elizabeth H. Blackburn,Elizabeth H. Blackburn,,,,,,,
+Carol W. Greider,Carol W. Greider,female,1961-04-15,"San Diego, CA",USA,,,
+Charles K. Kao,Charles Kuen Kao,,,,,,,
+Barack H. Obama,Barack Hussein Obama,male,1961-08-04,"Honolulu, HI",USA,,,
+Christopher A. Pissarides,Christopher A. Pissarides,,,,,,,
+Richard F. Heck,Richard F. Heck,male,1931-08-15,"Springfield, MA",USA,2015-10-09,Manila,Philippines
+Peter A. Diamond,Peter A. Diamond,,,,,,,
+Akira Suzuki,Akira Suzuki,male,1930-09-12,Mukawa,Japan,,,
+Dale T. Mortensen,Dale T. Mortensen,,,,,,,
+Konstantin Novoselov,Konstantin Novoselov,male,1974-08-23,Nizhny Tagil,Russia,,,
+Mario Vargas Llosa,Mario Vargas Llosa,male,1936-03-28,Arequipa,Peru,2025-04-13,Lima,Peru
+Andre Geim,Andre Geim,male,1958-10-21,Sochi,Russia,,,
+Liu Xiaobo,Liu Xiaobo,,,,,,,
+Robert G. Edwards,Robert G. Edwards,,,,,,,
+Ei-ichi Negishi,Ei-ichi Negishi,male,1935-07-14,Changchun,China,2021-06-06,"Indianapolis, IN",USA
+Leymah Gbowee,Leymah Gbowee,,,,,,,
+Thomas J. Sargent,Thomas J. Sargent,,,,,,,
+Christopher A. Sims,Christopher A. Sims,male,1942-10-21,"Washington, D.C.",USA,,,
+Tomas Tranströmer,Tomas Tranströmer,male,1931-04-15,Stockholm,Sweden,2015-03-26,Stockholm,Sweden
+Ellen Johnson Sirleaf,Ellen Johnson Sirleaf,,,,,,,
+Jules A. Hoffmann,Jules A. Hoffmann,,,,,,,
+Dan Shechtman,Dan Shechtman,male,1941-01-24,Tel Aviv,Israel,,,
+Saul Perlmutter,Saul Perlmutter,,,,,,,
+Brian P. Schmidt,Brian P. Schmidt,,,,,,,
+Adam G. Riess,Adam G. Riess,male,1969-12-16,"Washington, D.C.",USA,,,
+Bruce A. Beutler,Bruce A. Beutler,,,,,,,
+Ralph M. Steinman,Ralph M. Steinman,male,1943-01-14,Montreal,Canada,2011-09-30,"New York, NY",USA
+Tawakkol Karman,Tawakkol Karman,,,,,,,
+Lloyd S. Shapley,Lloyd S. Shapley,male,1923-06-02,"Cambridge, MA",USA,2016-03-12,"Tucson, AZ",USA
+Robert J. Lefkowitz,Robert J. Lefkowitz,male,1943-04-15,"New York, NY",USA,,,
+Brian Kobilka,Brian K. Kobilka,male,1955-05-30,"Little Falls, MN",USA,,,
+Alvin E. Roth,Alvin E. Roth,male,1951-12-18,"New York, NY",USA,,,
+Mo Yan,Mo Yan,male,1956-03-25,Gaomi,China,,,
+David J. Wineland,David J. Wineland,male,1944-02-24,"Milwaukee, WI",USA,,,
+Sir John B. Gurdon,Sir John B. Gurdon,male,1933-10-02,Dippenhall,United Kingdom,2025-10-07,,
+Shinya Yamanaka,Shinya Yamanaka,male,1962-09-04,Osaka,Japan,,,
+Serge Haroche,Serge Haroche,male,1944-09-11,Casablanca,Morocco,,,
+Lars Peter Hansen,Lars Peter Hansen,male,1952-10-26,"Urbana, IL",USA,,,
+Robert J. Shiller,Robert J. Shiller,,,,,,,
+Michael Levitt,Michael Levitt,male,1947-05-09,Pretoria,South Africa,,,
+Arieh Warshel,Arieh Warshel,male,1940-11-20,Kibbutz Sde-Nahum,Israel,,,
+Eugene F. Fama,Eugene F. Fama,male,1939-02-14,"Boston, MA",USA,,,
+Martin Karplus,Martin Karplus,male,1930-03-15,Vienna,Austria,2024-12-28,"Cambridge, MA",USA
+François Englert,François Englert,male,1932-11-06,Etterbeek,Belgium,,,
+Peter Higgs,Peter W. Higgs,male,1929-05-29,Newcastle upon Tyne,United Kingdom,2024-04-08,Edinburgh,Scotland
+James E. Rothman,James E. Rothman,,,,,,,
+Randy W. Schekman,Randy W. Schekman,,,,,,,
+Thomas C. Südhof,Thomas C. Südhof,,,,,,,
+Alice Munro,Alice Munro,female,1931-07-10,Wingham,Canada,2024-05-13,Port Hope,Canada
+Malala Yousafzai,Malala Yousafzai,female,1997-07-12,Mingora,Pakistan,,,
+Eric Betzig,Eric Betzig,male,1960-01-13,"Ann Arbor, MI",USA,,,
+Stefan W. Hell,Stefan W. Hell,male,1962-12-23,Arad,Romania,,,
+William E. Moerner,William E. Moerner,male,1953-06-24,"Pleasanton, CA",USA,,,
+Jean Tirole,Jean Tirole,,,,,,,
+Patrick Modiano,Patrick Modiano,male,1945-07-30,Paris,France,,,
+Isamu Akasaki,Isamu Akasaki,,,,,,,
+Hiroshi Amano,Hiroshi Amano,,,,,,,
+Shuji Nakamura,Shuji Nakamura,,,,,,,
+John O'Keefe,John O'Keefe,,,,,,,
+May-Britt Moser,May-Britt Moser,female,1963-01-04,Fosnavåg,Norway,,,
+Edvard I. Moser,Edvard I. Moser,,,,,,,
+Kailash Satyarthi,Kailash Satyarthi,male,1954-01-11,Vidisha,India,,,
+Aziz Sancar,Aziz Sancar,male,1946-09-08,Savur,Turkey,,,
+Tomas Lindahl,Tomas Lindahl,male,1938-01-28,Stockholm,Sweden,,,
+Paul Modrich,Paul Modrich,male,1946-06-13,"Raton, NM",USA,,,
+Svetlana Alexievich,Svetlana Alexievich,female,1948-05-31,Ivano-Frankivsk,Ukraine,,,
+Angus Deaton,Angus Deaton,,,,,,,
+Tu Youyou,Tu Youyou,,,,,,,
+William C. Campbell,William C. Campbell,,,,,,,
+Satoshi Ōmura,Satoshi Ōmura,,,,,,,
+Arthur B. McDonald,Arthur B. McDonald,male,1943-08-29,"Sydney, Nova Scotia",Canada,,,
+Takaaki Kajita,Takaaki Kajita,male,1959-03-09,Higashimatsuyama,Japan,,,
+Jean-Pierre Sauvage,Jean-Pierre Sauvage,male,1944-10-21,Paris,France,,,
+Sir J. Fraser Stoddart,Sir J. Fraser Stoddart,male,1942-05-24,Edinburgh,United Kingdom,2024-12-30,,
+Bernard L. Feringa,Bernard L. Feringa,male,1951-05-18,Barger-Compascuum,the Netherlands,,,
+Oliver Hart,Oliver Hart,male,1948-10-09,London,United Kingdom,,,
+Bengt Holmström,Bengt Holmström,male,1949-04-18,Helsinki,Finland,,,
+Bob Dylan,Bob Dylan,male,1941-05-24,"Duluth, MN",USA,,,
+Juan Manuel Santos,Juan Manuel Santos,,,,,,,
+David J. Thouless,David J. Thouless,,,,,,,
+F. Duncan M. Haldane,F. Duncan M. Haldane,,,,,,,
+J. Michael Kosterlitz,J. Michael Kosterlitz,,,,,,,
+Yoshinori Ohsumi,Yoshinori Ohsumi,,,,,,,
+Rainer Weiss,Rainer Weiss,,,,,,,
+Joachim Frank,Joachim Frank,male,1940-09-12,Siegen,Germany,,,
+Richard Henderson,Richard Henderson,male,1945-07-19,Edinburgh,Scotland,,,
+Richard H. Thaler,Richard H. Thaler,,,,,,,
+Kazuo Ishiguro,Kazuo Ishiguro,male,1954-11-08,Nagasaki,Japan,,,
+Michael W. Young,Michael W. Young,,,,,,,
+Barry C. Barish,Barry C. Barish,,,,,,,
+Kip S. Thorne,Kip S. Thorne,,,,,,,
+Jeffrey C. Hall,Jeffrey C. Hall,,,,,,,
+Michael Rosbash,Michael Rosbash,male,1944-03-07,"Kansas City, MO",USA,,,
+Jacques Dubochet,Jacques Dubochet,male,1942-06-08,Aigle,Switzerland,,,
+Paul M. Romer,Paul M. Romer,male,,"Denver, CO",USA,,,
+Denis Mukwege,Denis Mukwege,male,1955-03-01,Bukavu,Democratic Republic of the Congo,,,
+Frances H. Arnold,Frances H. Arnold,female,1956-07-25,"Pittsburgh, PA",USA,,,
+George P. Smith,George P. Smith,male,1941-03-10,"Norwalk, CT",USA,,,
+William D. Nordhaus,William D. Nordhaus,male,1941-05-31,"Albuquerque, NM",USA,,,
+Olga Tokarczuk,Olga Tokarczuk,female,1962-01-29,Sulechów,Poland,,,
+James P. Allison,James P. Allison,male,1948-08-07,"Alice, TX",USA,,,
+Nadia Murad,Nadia Murad Basee Taha,female,1993-03-10,Kojo,Iraq,,,
+Gérard Mourou,Gérard Mourou,,,,,,,
+Donna Strickland,Donna Strickland,female,1959-05-27,Guelph,Canada,,,
+Tasuku Honjo,Tasuku Honjo,,,,,,,
+Arthur Ashkin,Arthur Ashkin,,,,,,,
+Sir Gregory P. Winter,Sir Gregory P. Winter,male,1951-04-14,Leicester,United Kingdom,,,
+Michael Kremer,Michael Kremer,male,1964-11-12,"New York, NY",USA,,,
+John B. Goodenough,John B. Goodenough,male,1922-07-25,Jena,Germany,2023-06-25,"Austin, TX",USA
+M. Stanley Whittingham,M. Stanley Whittingham,male,1941-12-22,,United Kingdom,,,
+Akira Yoshino,Akira Yoshino,male,1948-01-30,Suita,Japan,,,
+Abhijit Banerjee,Abhijit Banerjee,,,,,,,
+Esther Duflo,Esther Duflo,,,,,,,
+Peter Handke,Peter Handke,male,1942-12-06,Griffen,Austria,,,
+Abiy Ahmed Ali,Abiy Ahmed Ali,,,,,,,
+Michel Mayor,Michel Mayor,,,,,,,
+Didier Queloz,Didier Queloz,,,,,,,
+William G. Kaelin Jr,William G. Kaelin Jr,,,,,,,
+Sir Peter J. Ratcliffe,Sir Peter J. Ratcliffe,,,,,,,
+Gregg L. Semenza,Gregg L. Semenza,,,,,,,
+James Peebles,James Peebles,,,,,,,
+Robert B. Wilson,Robert B. Wilson,male,1937-05-16,"Geneva, NE",USA,,,
+Emmanuelle Charpentier,Emmanuelle Charpentier,female,1968-12-11,Juvisy-sur-Orge,France,,,
+Louise Glück,Louise Glück,female,1943-04-22,"New York, NY",USA,2023-10-13,"Cambridge, MA",USA
+Paul R. Milgrom,Paul R. Milgrom,male,1948-04-20,"Detroit, MI",USA,,,
+Harvey J. Alter,Harvey J. Alter,male,1935-09-12,"New York, NY",USA,,,
+Jennifer A. Doudna,Jennifer A. Doudna,female,1964-02-19,"Washington, D.C.",USA,,,
+Andrea Ghez,Andrea Ghez,,,,,,,
+Charles M. Rice,Charles M. Rice,,,,,,,
+Michael Houghton,Michael Houghton,,,,,,,
+Reinhard Genzel,Reinhard Genzel,,,,,,,
+Roger Penrose,Roger Penrose,male,1931-08-08,Colchester,United Kingdom,,,
+Benjamin List,Benjamin List,male,1968-01-11,Frankfurt-on-the-Main,Germany,,,
+David W.C. MacMillan,David W.C. MacMillan,male,1968-03-16,Bellshill,United Kingdom,,,
+David Card,David Card,male,,Guelph,Canada,,,
+Joshua D. Angrist,Joshua D. Angrist,,,,,,,
+Guido W. Imbens,Guido W. Imbens,male,1963-09-03,Geldrop,the Netherlands,,,
+Ardem Patapoutian,Ardem Patapoutian,male,,Beirut,Lebanon,,,
+Abdulrazak Gurnah,Abdulrazak Gurnah,male,,,,,,
+Dmitry Muratov,Dmitry Andreyevich Muratov,male,1961-10-29,Samara,Russia,,,
+Syukuro Manabe,Syukuro Manabe,,,,,,,
+Klaus Hasselmann,Klaus Hasselmann,,,,,,,
+Giorgio Parisi,Giorgio Parisi,,,,,,,
+David Julius,David Julius,male,1955-11-04,"New York, NY",USA,,,
+Maria Ressa,Maria Ressa,female,1963-10-02,Manila,Philippines,,,
+Douglas Diamond,Douglas W. Diamond,,,,,,,
+Carolyn Bertozzi,Carolyn R. Bertozzi,female,1966-10-10,"Boston, MA",USA,,,
+Morten Meldal,Morten Meldal,male,,Copenhagen,Denmark,,,
+K. Barry Sharpless,K. Barry Sharpless,male,1941-04-28,"Philadelphia, PA",USA,,,
+Ben Bernanke,Ben S. Bernanke,,,,,,,
+Philip Dybvig,Philip H. Dybvig,male,1955-05-22,"Gainesville, FL",USA,,,
+Annie Ernaux,Annie Ernaux,female,1940-09-01,Lillebonne,France,,,
+Alain Aspect,Alain Aspect,,,,,,,
+John Clauser,John F. Clauser,,,,,,,
+Anton Zeilinger,Anton Zeilinger,,,,,,,
+Svante Pääbo,Svante Pääbo,,,,,,,
+Ales Bialiatski,Ales Bialiatski ,male,1962-09-25,"Vyartsilya, Karelia",Russia,,,
+Claudia Goldin,Claudia Goldin,,,,,,,
+Moungi Bawendi,Moungi G. Bawendi,male,,Paris,France,,,
+Louis Brus,Louis E. Brus,male,,"Cleveland, OH",USA,,,
+Narges Mohammadi,Narges Mohammadi,female,1972-04-21,Zanjan,Iran,,,
+Jon Fosse,Jon Fosse,male,1959-09-29,Haugesund,Norway,,,
+Anne L’Huillier,Anne L’Huillier,,,,,,,
+Pierre Agostini,Pierre Agostini,,,,,,,
+Drew Weissman,Drew Weissman,male,1959-09-07,"Lexington, MA",USA,,,
+Katalin Karikó,Katalin Karikó,female,1955-01-17,Szolnok,Hungary,,,
+Ferenc Krausz,Ferenc Krausz,,,,,,,
+Aleksey Yekimov ,Aleksey Yekimov ,male,,St. Petersburg,Russia,,,

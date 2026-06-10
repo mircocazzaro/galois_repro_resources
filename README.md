@@ -1,6 +1,6 @@
-# SQL-over-LLMs Revisited: Reproducibility of Galois — Additional Material
+# [EA\&B] Galois revised: How Reliable Is SQL-over-LLM Execution? — Additional Material
 
-This repository contains additional experimental material for the paper **“SQL-over-LLMs Revisited: Reproducibility of Galois”**. The material complements the main paper with results that could not be included in the camera-ready version for space reasons.
+This repository contains additional experimental material for the paper **“[EA\&B] Galois revised: How Reliable Is SQL-over-LLM Execution?”**. The material complements the main paper with results that could not be included in the camera-ready version for space reasons.
 
 The focus of this repository is twofold. First, it reports the reproducibility analysis on the **Nobel Prizes** benchmark, a second parametric benchmark designed with the same rationale as the benchmark discussed in the paper: each query family is instantiated through multiple variants, so that the analysis can distinguish aggregate performance from query-family-level behavior. Second, it reports an additional **$\tau$-tuning** analysis for the full Galois configuration, used to check whether the physical scan-selection threshold materially changes the observed conclusions.
 

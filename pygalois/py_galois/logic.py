@@ -48,6 +48,38 @@ def build_plans(llm: BaseLLM, sql: str, table_metas: Dict[str, Dict],
     return LogicalPlan(per_table)
 
 
+def build_all_pushdown_table_plan(
+    sql: str,
+    table_metas: Dict[str, Dict],
+) -> LogicalPlan:
+    """Build the fixed GaloisA policy without confidence-based planning.
+
+    Predicate-to-table assignment deliberately reuses the same extraction rules as
+    the other variants, including the current per-table handling of joins. For a
+    single-table query, every unqualified WHERE atom belongs to that table.
+    """
+    atoms_by_table = extract_where_atoms(sql)
+    if len(table_metas) == 1 and "__unknown__" in atoms_by_table:
+        only_table = next(iter(table_metas))
+        atoms_by_table[only_table] = (
+            atoms_by_table.get(only_table, []) + atoms_by_table["__unknown__"]
+        )
+
+    per_table: Dict[str, Dict[str, Any]] = {}
+    for table in table_metas:
+        atoms = list(atoms_by_table.get(table, []))
+        per_table[table] = {
+            "strategy": "all" if atoms else "none",
+            "atoms": atoms,
+            "pushed_cond": " AND ".join(atoms) if atoms else None,
+            "physical": "table",
+            "conf_keys": None,
+            "conf_q": None,
+        }
+
+    return LogicalPlan(per_table)
+
+
 def execute_plan(llm: BaseLLM, plan: LogicalPlan, table_metas: Dict[str, Dict],
                  select_attrs_by_table: Dict[str, List[str]]
                  ) -> Tuple[Dict[str, List[Dict[str, Any]]], int, float, List[str]]:

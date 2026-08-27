@@ -3,6 +3,24 @@ import re, sqlite3, json, os
 from typing import List, Dict, Tuple, Any, Optional
 
 
+# Tokens that may legitimately follow a table reference and must never be taken as its
+# alias. Without this guard, "FROM airports WHERE ..." would register WHERE as an alias.
+_NON_ALIAS_TOKENS = {
+    "as", "on", "using", "where", "join", "inner", "left", "right", "full", "outer",
+    "cross", "natural", "group", "order", "having", "limit", "union", "intersect",
+    "except",
+}
+
+
+def _mask_string_literals(text: str) -> str:
+    """Blank out the body of single-quoted literals, preserving length and offsets.
+
+    Needed so that a dot inside a literal is not mistaken for a table qualifier:
+    in ``name = 'Barack H. Obama'`` the ``H.`` would otherwise be read as an alias.
+    """
+    return re.sub(r"'[^']*'", lambda m: "'" + "x" * (len(m.group(0)) - 2) + "'", text)
+
+
 def extract_where_atoms(sql: str) -> Dict[str, List[str]]:
     """Very simple WHERE atom splitter per table.
     Returns: mapping table_name -> list of atom strings for that table.
@@ -15,15 +33,18 @@ def extract_where_atoms(sql: str) -> Dict[str, List[str]]:
     s = re.sub(r'\s+', ' ', sql)
     s = s.replace('target.', '')
 
-    # Build alias -> table-name map from FROM / JOIN clauses
+    # Build alias -> table-name map from FROM / JOIN clauses.
+    # The optional AS keyword is skipped so that "FROM t AS a" maps a (not AS) to t.
     alias_map: Dict[str, str] = {}
     for m_tbl in re.finditer(
-        r'\b(from|join)\s+([A-Za-z_][\w\.]*)\s+([A-Za-z_][\w]*)',
+        r'\b(from|join)\s+([A-Za-z_][\w\.]*)\s+(?:as\s+)?([A-Za-z_][\w]*)',
         s,
         flags=re.IGNORECASE,
     ):
         table = m_tbl.group(2).split('.')[-1]  # strip any schema
         alias = m_tbl.group(3)
+        if alias.lower() in _NON_ALIAS_TOKENS:
+            continue
         alias_map[alias] = table
 
     # Capture WHERE clause
@@ -36,10 +57,12 @@ def extract_where_atoms(sql: str) -> Dict[str, List[str]]:
     # Split on AND / OR keeping terms
     terms = re.split(r'\s+(?:and|or)\s+', where_clause, flags=re.IGNORECASE)
 
-    # Associate term to a table: use alias→table mapping when possible
+    # Associate term to a table: use alias→table mapping when possible.
+    # The prefix is searched on a literal-masked copy so that dots inside quoted values
+    # are not mistaken for qualifiers; the atom itself is kept verbatim.
     for t in terms:
         q = t.strip().strip('()')
-        m2 = re.search(r'([A-Za-z_][\w]*)\.', q)
+        m2 = re.search(r'([A-Za-z_][\w]*)\.', _mask_string_literals(q))
         if m2:
             prefix = m2.group(1)           # alias or table
             tbl = alias_map.get(prefix, prefix)

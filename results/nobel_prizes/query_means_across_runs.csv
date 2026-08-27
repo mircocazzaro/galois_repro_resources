@@ -1,0 +1,601 @@
+dataset,model,model_folder,method,method_label,query_id,query_num,category,query_label,F1-Cell,Cardinality,Tuple Constr.,AVG-Score
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query1,1,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query10,10,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query11,11,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query12,12,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query13,13,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query14,14,q2,q2,0.6,0.05454545454545454,0.21818181818181817,0.2909090909090909
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query15,15,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query16,16,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query17,17,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query18,18,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query19,19,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query2,2,q1,q1,1.0,0.5,1.0,0.8333333333333334
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query20,20,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query21,21,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query23,23,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query28,28,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query29,29,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query3,3,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query31,31,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query32,32,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query33,33,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query34,34,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query35,35,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query36,36,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query37,37,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query38,38,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query39,39,q4,q4,0.3,0.3,0.3,0.3
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query4,4,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query40,40,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query41,41,q5,q5,0.17142857142857143,0.2,0.0,0.12380952380952381
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query42,42,q5,q5,0.8075000000000001,0.6,0.22000000000000003,0.5425
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query43,43,q5,q5,0.6196078431372549,1.0,0.0,0.5398692810457517
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query44,44,q5,q5,0.7829181494661921,0.909090909090909,0.0,0.5640030195190336
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query45,45,q5,q5,0.802919708029197,0.909090909090909,0.0,0.570670205706702
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query46,46,q5,q5,0.7071428571428571,0.9,0.0,0.5357142857142857
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query47,47,q5,q5,0.784316217590239,0.9545454545454545,0.0,0.5796205573785644
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query48,48,q5,q5,0.8148148148148147,1.0,0.0,0.6049382716049383
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query49,49,q5,q5,0.7857142857142857,1.0,0.0,0.5952380952380952
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query5,5,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query50,50,q5,q5,0.7769444387303807,0.8,0.0,0.5256481462434601
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query6,6,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query7,7,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query8,8,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_a,GaloisA,query9,9,q1,q1,0.8,0.8,0.8,0.8
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query1,1,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query10,10,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query11,11,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query12,12,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query13,13,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query14,14,q2,q2,0.4,0.03636363636363636,0.14545454545454545,0.19393939393939394
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query15,15,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query16,16,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query17,17,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query18,18,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query19,19,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query2,2,q1,q1,1.0,0.5,1.0,0.8333333333333334
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query20,20,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query21,21,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query23,23,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query28,28,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query29,29,q3,q3,0.0,0.3,0.0,0.1
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query3,3,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query31,31,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query32,32,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query33,33,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query34,34,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query35,35,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query36,36,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query37,37,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query38,38,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query39,39,q4,q4,0.6,0.6,0.6,0.6
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query4,4,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query40,40,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query41,41,q5,q5,0.21000000000000002,0.1,0.06666666666666667,0.12555555555555556
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query42,42,q5,q5,0.26526315789473687,0.08,0.08,0.14175438596491227
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query43,43,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query44,44,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query45,45,q5,q5,0.0588235294117647,0.01,0.0,0.022941176470588232
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query46,46,q5,q5,0.15658362989323843,0.18181818181818182,0.0,0.11280060390380672
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query47,47,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query48,48,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query49,49,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query5,5,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query50,50,q5,q5,0.15658362989323843,0.18181818181818182,0.0,0.11280060390380672
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query6,6,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query7,7,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query8,8,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_f,GaloisF,query9,9,q1,q1,0.4,0.4,0.4,0.4
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query1,1,q1,q1,1.0,0.95,1.0,0.9833333333333334
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query10,10,q1,q1,1.0,0.95,1.0,0.9833333333333334
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query11,11,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query12,12,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query13,13,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query14,14,q2,q2,0.3,0.02727272727272727,0.10909090909090909,0.14545454545454545
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query15,15,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query16,16,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query17,17,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query18,18,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query19,19,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query2,2,q1,q1,1.0,0.5,1.0,0.8333333333333334
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query20,20,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query21,21,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query23,23,q3,q3,0.0,0.9,0.0,0.3
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query28,28,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query29,29,q3,q3,0.0,0.4,0.0,0.13333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query3,3,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query31,31,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query32,32,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query33,33,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query34,34,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query35,35,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query36,36,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query37,37,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query38,38,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query39,39,q4,q4,0.4,0.4,0.4,0.4
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query4,4,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query40,40,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query41,41,q5,q5,0.16,0.06666666666666667,0.06666666666666667,0.09777777777777777
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query42,42,q5,q5,0.56,0.14,0.28,0.3266666666666666
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query43,43,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query44,44,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query45,45,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query46,46,q5,q5,0.07829181494661921,0.09090909090909091,0.0,0.05640030195190336
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query47,47,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query48,48,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query49,49,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query5,5,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query50,50,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query6,6,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query7,7,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query8,8,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_s,GaloisS,query9,9,q1,q1,0.2,0.2,0.2,0.2
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query1,1,q1,q1,0.5,0.35,0.5,0.45
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query10,10,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query11,11,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query12,12,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query13,13,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query14,14,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query15,15,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query16,16,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query17,17,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query18,18,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query19,19,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query2,2,q1,q1,0.3,0.15,0.3,0.25
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query20,20,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query21,21,q3,q3,0.0,0.2,0.0,0.06666666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query22,22,q3,q3,0.0,0.1,0.0,0.03333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query23,23,q3,q3,0.0,0.2,0.0,0.06666666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query24,24,q3,q3,0.0,0.2,0.0,0.06666666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query25,25,q3,q3,0.0,0.2,0.0,0.06666666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query26,26,q3,q3,0.0,0.3,0.0,0.1
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query27,27,q3,q3,0.0,0.1,0.0,0.03333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query28,28,q3,q3,0.0,0.2,0.0,0.06666666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query29,29,q3,q3,0.0,0.2,0.0,0.06666666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query3,3,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query30,30,q3,q3,0.0,0.2,0.0,0.06666666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query31,31,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query32,32,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query33,33,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query34,34,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query35,35,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query36,36,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query37,37,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query38,38,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query39,39,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query4,4,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query40,40,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query41,41,q5,q5,0.25263157894736843,0.2,0.0,0.15087719298245614
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query42,42,q5,q5,0.24000000000000005,0.26,0.06000000000000001,0.18666666666666668
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query43,43,q5,q5,0.695996748847016,0.9400000000000001,0.4,0.6786655829490054
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query44,44,q5,q5,0.23419732675764285,0.2545454545454545,0.0,0.1629142604343658
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query45,45,q5,q5,0.4014598540145985,0.4545454545454545,0.0,0.285335102853351
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query46,46,q5,q5,0.15714285714285714,0.2,0.0,0.11904761904761904
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query47,47,q5,q5,0.4714285714285714,0.6,0.0,0.3571428571428571
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query48,48,q5,q5,0.40740740740740733,0.5,0.0,0.30246913580246915
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query49,49,q5,q5,0.48796992481203005,0.42727272727272725,0.0,0.30508088402825245
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query5,5,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query50,50,q5,q5,0.5293233082706766,0.6090909090909091,0.0,0.37947140578719524
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query6,6,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query7,7,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query8,8,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,galois_wo,GaloisWO,query9,9,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query1,1,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query10,10,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query11,11,q2,q2,0.9787234042553191,0.816083916083916,0.6363636363636364,0.8103903189009571
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query12,12,q2,q2,0.9795918367346939,0.9230769230769231,0.6666666666666666,0.8564451421594278
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query13,13,q2,q2,0.980392156862745,0.956043956043956,0.6153846153846154,0.8506069094304388
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query14,14,q2,q2,1.0,1.0,0.36363636363636365,0.787878787878788
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query15,15,q2,q2,0.9767441860465118,0.9916666666666666,0.4166666666666667,0.7950258397932816
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query16,16,q2,q2,1.0,0.8944444444444445,0.825,0.9064814814814814
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query17,17,q2,q2,1.0,0.5,0.888888888888889,0.7962962962962963
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query18,18,q2,q2,1.0,1.0,0.8,0.9333333333333332
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query19,19,q2,q2,1.0,0.675,0.6666666666666666,0.7805555555555554
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query2,2,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query20,20,q2,q2,1.0,0.8857142857142858,1.0,0.961904761904762
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query21,21,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query23,23,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query28,28,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query29,29,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query3,3,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query31,31,q4,q4,0.8666666666666666,1.0,0.5,0.7888888888888889
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query32,32,q4,q4,1.0,0.5,0.0,0.5
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query33,33,q4,q4,0.9,0.425,0.0,0.4416666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query34,34,q4,q4,0.8,1.0,0.0,0.6
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query35,35,q4,q4,0.8,1.0,0.0,0.6
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query36,36,q4,q4,0.8,1.0,0.0,0.5999999999999999
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query37,37,q4,q4,1.0,1.0,0.0,0.6666666666666666
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query38,38,q4,q4,1.0,1.0,0.0,0.6666666666666666
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query39,39,q4,q4,0.9666666666666666,1.0,0.0,0.6555555555555556
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query4,4,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query40,40,q4,q4,0.6666666666666666,1.0,0.0,0.5555555555555555
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query41,41,q5,q5,0.6,0.5,0.0,0.3666666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query42,42,q5,q5,0.7058823529411765,1.0,0.2,0.6352941176470589
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query43,43,q5,q5,0.6666666666666667,1.0,0.0,0.5555555555555556
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query44,44,q5,q5,0.8768472906403941,1.0,0.24545454545454545,0.7074339453649798
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query45,45,q5,q5,0.861640790078089,0.909090909090909,0.22999999999999998,0.6669105663896661
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query46,46,q5,q5,0.8571428571428571,1.0,0.2727272727272727,0.70995670995671
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query47,47,q5,q5,0.8571428571428571,1.0,0.09090909090909091,0.6493506493506493
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query48,48,q5,q5,0.7915343915343914,1.0,0.0,0.5971781305114638
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query49,49,q5,q5,0.8571428571428571,1.0,0.09090909090909091,0.6493506493506493
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query5,5,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query50,50,q5,q5,0.7899014778325123,1.0,0.02727272727272727,0.6057247350350798
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query6,6,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query7,7,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query8,8,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,nl,NL,query9,9,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query1,1,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query10,10,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query11,11,q2,q2,0.09787234042553192,0.05454545454545454,0.06363636363636363,0.0720180528691167
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query12,12,q2,q2,0.9836734693877551,0.7333333333333334,0.65,0.7890022675736961
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query13,13,q2,q2,0.980392156862745,0.31538461538461543,0.6153846153846154,0.6370537958773254
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query14,14,q2,q2,1.0,0.18181818181818182,0.36363636363636365,0.5151515151515151
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query15,15,q2,q2,0.9767441860465118,0.16666666666666666,0.4166666666666667,0.5200258397932817
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query16,16,q2,q2,1.0,0.25,0.75,0.6666666666666666
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query17,17,q2,q2,0.9769230769230768,0.2,0.3888888888888889,0.5219373219373219
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query18,18,q2,q2,0.9652173913043478,0.44000000000000006,0.8400000000000001,0.7484057971014493
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query19,19,q2,q2,0.9529411764705882,0.6666666666666666,0.6666666666666666,0.7620915032679738
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query2,2,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query20,20,q2,q2,1.0,0.9214285714285714,1.0,0.9738095238095239
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query21,21,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query23,23,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query28,28,q3,q3,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query29,29,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query3,3,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query31,31,q4,q4,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query32,32,q4,q4,1.0,0.5,0.0,0.5
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query33,33,q4,q4,1.0,0.5,0.0,0.5
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query34,34,q4,q4,0.8,1.0,0.0,0.6
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query35,35,q4,q4,0.8,1.0,0.0,0.6
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query36,36,q4,q4,1.0,1.0,0.0,0.6666666666666666
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query37,37,q4,q4,0.9,0.9,0.0,0.6
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query38,38,q4,q4,1.0,1.0,0.0,0.6666666666666666
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query39,39,q4,q4,1.0,1.0,0.0,0.6666666666666666
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query4,4,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query40,40,q4,q4,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query41,41,q5,q5,0.6,0.5,0.0,0.3666666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query42,42,q5,q5,0.8125,1.0,0.3,0.7041666666666667
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query43,43,q5,q5,0.8162366701066391,1.0,0.4800000000000001,0.7654122233688797
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query44,44,q5,q5,0.7775862068965517,1.0,0.0,0.5925287356321839
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query45,45,q5,q5,0.7720130305643383,0.909090909090909,0.0,0.5603679798850825
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query46,46,q5,q5,0.8802298850574714,1.0,0.32727272727272727,0.7358342041100662
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query47,47,q5,q5,0.7741935483870969,1.0,0.09090909090909091,0.6217008797653959
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query48,48,q5,q5,0.7694581280788176,1.0,0.0,0.5898193760262725
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query49,49,q5,q5,0.8275862068965518,1.0,0.09090909090909091,0.6394984326018808
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query5,5,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query50,50,q5,q5,0.8711827956989247,1.0,0.41818181818181815,0.7631215379602476
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query6,6,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query7,7,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query8,8,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,GPT-4o-mini,azure-gpt-4o-mini-ALLMODES-tau0.6-20260506_231825,sql,SQL,query9,9,q1,q1,0.1,0.1,0.1,0.1
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query1,1,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query10,10,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query11,11,q2,q2,0.09787234042553192,0.02727272727272727,0.0,0.0417150225660864
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query12,12,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query13,13,q2,q2,0.096,0.015384615384615385,0.0,0.03712820512820513
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query14,14,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query15,15,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query16,16,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query17,17,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query18,18,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query19,19,q2,q2,0.09411764705882353,0.03333333333333333,0.06666666666666667,0.06470588235294117
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query2,2,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query20,20,q2,q2,0.3,0.05,0.16666666666666666,0.17222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query21,21,q3,q3,0.5,1.0,0.5,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query23,23,q3,q3,0.0,0.5,0.0,0.16666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query28,28,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query29,29,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query3,3,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query31,31,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query32,32,q4,q4,0.36,0.1,0.0,0.15333333333333335
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query33,33,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query34,34,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query35,35,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query36,36,q4,q4,0.1,0.1,0.0,0.06666666666666667
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query37,37,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query38,38,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query39,39,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query4,4,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query40,40,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query41,41,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query42,42,q5,q5,0.08750000000000001,0.06,0.06,0.06916666666666668
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query43,43,q5,q5,0.056338028169014086,0.08,0.0,0.04544600938967136
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query44,44,q5,q5,0.07795275590551182,0.08181818181818182,0.0,0.05325697924123122
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query45,45,q5,q5,0.7746478873239436,0.909090909090909,0.0,0.5612462654716176
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query46,46,q5,q5,0.7471698113207547,0.8181818181818181,0.0,0.5217838765008577
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query47,47,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query48,48,q5,q5,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query49,49,q5,q5,0.7534246575342466,0.909090909090909,0.0,0.5541718555417185
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query5,5,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query50,50,q5,q5,0.7534246575342466,0.909090909090909,0.0,0.5541718555417185
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query6,6,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query7,7,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query8,8,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_a,GaloisA,query9,9,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query1,1,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query10,10,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query11,11,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query12,12,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query13,13,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query14,14,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query15,15,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query16,16,q2,q2,0.1,0.0125,0.0375,0.05
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query17,17,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query18,18,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query19,19,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query2,2,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query20,20,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query21,21,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query23,23,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query28,28,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query29,29,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query3,3,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query31,31,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query32,32,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query33,33,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query34,34,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query35,35,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query36,36,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query37,37,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query38,38,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query39,39,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query4,4,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query40,40,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query41,41,q5,q5,0.588235294117647,0.6,0.0,0.39607843137254894
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query42,42,q5,q5,0.8750000000000002,1.0,0.6,0.825
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query43,43,q5,q5,0.5555555555555556,1.0,0.0,0.5185185185185185
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query44,44,q5,q5,0.8571428571428571,0.909090909090909,0.09090909090909091,0.619047619047619
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query45,45,q5,q5,0.792079207920792,0.8,0.0,0.5306930693069307
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query46,46,q5,q5,0.7829181494661921,0.909090909090909,0.0,0.5640030195190336
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query47,47,q5,q5,0.7829181494661921,0.909090909090909,0.0,0.5640030195190336
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query48,48,q5,q5,0.7586206896551724,1.0,0.0,0.5862068965517241
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query49,49,q5,q5,0.7857142857142857,1.0,0.0,0.5952380952380952
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query5,5,q1,q1,0.6,0.6,0.6,0.6
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query50,50,q5,q5,0.7829181494661921,0.909090909090909,0.0,0.5640030195190336
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query6,6,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query7,7,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query8,8,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_f,GaloisF,query9,9,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query1,1,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query10,10,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query11,11,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query12,12,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query13,13,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query14,14,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query15,15,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query16,16,q2,q2,0.1,0.0125,0.0375,0.05
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query17,17,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query18,18,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query19,19,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query2,2,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query20,20,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query21,21,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query23,23,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query28,28,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query29,29,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query3,3,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query31,31,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query32,32,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query33,33,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query34,34,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query35,35,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query36,36,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query37,37,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query38,38,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query39,39,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query4,4,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query40,40,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query41,41,q5,q5,0.6153846153846154,0.75,0.0,0.4551282051282051
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query42,42,q5,q5,0.8750000000000002,1.0,0.6,0.825
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query43,43,q5,q5,0.6250000000000001,1.0,0.0,0.5416666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query44,44,q5,q5,0.8571428571428571,0.909090909090909,0.09090909090909091,0.619047619047619
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query45,45,q5,q5,0.792079207920792,0.8,0.0,0.5306930693069307
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query46,46,q5,q5,0.7829181494661921,0.909090909090909,0.0,0.5640030195190336
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query47,47,q5,q5,0.7829181494661921,0.909090909090909,0.0,0.5640030195190336
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query48,48,q5,q5,0.7586206896551724,1.0,0.0,0.5862068965517241
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query49,49,q5,q5,0.7857142857142857,1.0,0.0,0.5952380952380952
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query5,5,q1,q1,0.6,0.6,0.6,0.6
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query50,50,q5,q5,0.7829181494661921,0.909090909090909,0.0,0.5640030195190336
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query6,6,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query7,7,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query8,8,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_s,GaloisS,query9,9,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query1,1,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query10,10,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query11,11,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query12,12,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query13,13,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query14,14,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query15,15,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query16,16,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query17,17,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query18,18,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query19,19,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query2,2,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query20,20,q2,q2,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query21,21,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query23,23,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query28,28,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query29,29,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query3,3,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query31,31,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query32,32,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query33,33,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query34,34,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query35,35,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query36,36,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query37,37,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query38,38,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query39,39,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query4,4,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query40,40,q4,q4,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query41,41,q5,q5,0.631578947368421,0.5,0.0,0.37719298245614036
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query42,42,q5,q5,0.8,1.0,0.2,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query43,43,q5,q5,0.6382978723404256,0.6,0.0,0.4127659574468085
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query44,44,q5,q5,0.7829181494661921,0.909090909090909,0.0,0.5640030195190336
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query45,45,q5,q5,0.802919708029197,0.909090909090909,0.0,0.570670205706702
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query46,46,q5,q5,0.7857142857142857,1.0,0.0,0.5952380952380952
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query47,47,q5,q5,0.7857142857142857,1.0,0.0,0.5952380952380952
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query48,48,q5,q5,0.8148148148148147,1.0,0.0,0.6049382716049383
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query49,49,q5,q5,0.7857142857142857,1.0,0.0,0.5952380952380952
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query5,5,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query50,50,q5,q5,0.7857142857142857,1.0,0.0,0.5952380952380952
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query6,6,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query7,7,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query8,8,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,galois_wo,GaloisWO,query9,9,q1,q1,0.0,0.0,0.0,0.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query1,1,q1,q1,0.6666666666666666,0.3333333333333333,0.6666666666666666,0.5555555555555556
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query10,10,q1,q1,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query11,11,q2,q2,0.652482269503546,0.3636363636363636,0.30303030303030304,0.43971631205673756
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query12,12,q2,q2,0.6530612244897959,0.5,0.4444444444444444,0.5325018896447468
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query13,13,q2,q2,0.6535947712418301,0.6153846153846154,0.4102564102564103,0.5597452656276186
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query14,14,q2,q2,0.6666666666666666,0.48484848484848486,0.6666666666666666,0.6060606060606061
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query15,15,q2,q2,0.6511627906976745,0.2777777777777778,0.2777777777777778,0.4022394487510767
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query16,16,q2,q2,0.6666666666666666,0.4166666666666667,0.5,0.5277777777777778
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query17,17,q2,q2,0.6666666666666666,0.26666666666666666,0.5185185185185185,0.48395061728395056
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query18,18,q2,q2,0.6666666666666666,0.5333333333333333,0.6666666666666666,0.6222222222222221
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query19,19,q2,q2,0.6666666666666666,0.4444444444444444,0.4444444444444444,0.5185185185185185
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query2,2,q1,q1,0.6666666666666666,0.3333333333333333,0.6666666666666666,0.5555555555555556
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query20,20,q2,q2,0.6666666666666666,0.2222222222222222,0.6666666666666666,0.5185185185185185
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query21,21,q3,q3,0.0,0.6666666666666666,0.0,0.2222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query22,22,q3,q3,0.0,0.6666666666666666,0.0,0.2222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query23,23,q3,q3,0.0,0.6666666666666666,0.0,0.2222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query24,24,q3,q3,0.0,0.6666666666666666,0.0,0.2222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query25,25,q3,q3,0.0,0.6666666666666666,0.0,0.2222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query26,26,q3,q3,0.0,0.6666666666666666,0.0,0.2222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query27,27,q3,q3,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query28,28,q3,q3,0.0,0.6666666666666666,0.0,0.2222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query29,29,q3,q3,0.0,0.6666666666666666,0.0,0.2222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query3,3,q1,q1,0.6666666666666666,0.4444444444444444,0.6666666666666666,0.5925925925925926
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query30,30,q3,q3,0.0,0.6666666666666666,0.0,0.2222222222222222
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query31,31,q4,q4,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query32,32,q4,q4,0.6666666666666666,0.3333333333333333,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query33,33,q4,q4,0.6666666666666666,0.3333333333333333,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query34,34,q4,q4,0.5333333333333333,0.6666666666666666,0.0,0.39999999999999997
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query35,35,q4,q4,0.5333333333333333,0.6666666666666666,0.0,0.39999999999999997
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query36,36,q4,q4,0.6666666666666666,0.6666666666666666,0.0,0.4444444444444444
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query37,37,q4,q4,0.6666666666666666,0.6666666666666666,0.0,0.4444444444444444
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query38,38,q4,q4,0.6666666666666666,0.6666666666666666,0.0,0.4444444444444444
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query39,39,q4,q4,0.6666666666666666,0.6666666666666666,0.0,0.4444444444444444
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query4,4,q1,q1,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query40,40,q4,q4,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query41,41,q5,q5,0.54421768707483,0.3333333333333333,0.4444444444444444,0.44066515495086916
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query42,42,q5,q5,0.5925925925925926,0.6666666666666666,0.5333333333333333,0.5975308641975309
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query43,43,q5,q5,0.5882352941176471,1.0,0.0,0.5294117647058824
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query44,44,q5,q5,0.8333333333333334,1.0,0.9090909090909091,0.9141414141414143
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query45,45,q5,q5,0.967741935483871,0.9090909090909091,1.0,0.9589442815249267
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query46,46,q5,q5,0.8125,1.0,0.3636363636363636,0.725378787878788
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query47,47,q5,q5,0.5789473684210527,1.0,0.0,0.5263157894736842
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query48,48,q5,q5,0.6470588235294117,1.0,0.0,0.5490196078431372
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query49,49,q5,q5,0.6470588235294118,1.0,0.0,0.5490196078431372
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query5,5,q1,q1,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query50,50,q5,q5,0.8484848484848485,1.0,0.6363636363636364,0.8282828282828283
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query6,6,q1,q1,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query7,7,q1,q1,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query8,8,q1,q1,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,nl,NL,query9,9,q1,q1,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query1,1,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query10,10,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query11,11,q2,q2,0.9565217391304348,0.2727272727272727,0.4545454545454545,0.5612648221343873
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query12,12,q2,q2,0.9583333333333334,0.16666666666666666,0.5,0.5416666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query13,13,q2,q2,0.980392156862745,0.23076923076923078,0.6153846153846154,0.608848667672197
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query14,14,q2,q2,0.9743589743589742,0.2727272727272727,0.36363636363636365,0.5369075369075369
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query15,15,q2,q2,0.9767441860465118,0.25,0.4166666666666667,0.5478036175710594
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query16,16,q2,q2,0.9743589743589742,0.25,0.625,0.6164529914529915
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query17,17,q2,q2,0.9743589743589742,0.2,0.3333333333333333,0.5025641025641026
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query18,18,q2,q2,0.9565217391304348,0.4,0.8,0.7188405797101449
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query19,19,q2,q2,1.0,0.6666666666666666,1.0,0.888888888888889
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query2,2,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query20,20,q2,q2,1.0,0.3333333333333333,1.0,0.7777777777777777
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query21,21,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query22,22,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query23,23,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query24,24,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query25,25,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query26,26,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query27,27,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query28,28,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query29,29,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query3,3,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query30,30,q3,q3,0.0,1.0,0.0,0.3333333333333333
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query31,31,q4,q4,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query32,32,q4,q4,1.0,0.25,0.0,0.4166666666666667
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query33,33,q4,q4,1.0,0.25,0.0,0.4166666666666667
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query34,34,q4,q4,0.8,1.0,0.0,0.6
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query35,35,q4,q4,0.8,1.0,0.0,0.6
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query36,36,q4,q4,1.0,1.0,0.0,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query37,37,q4,q4,1.0,1.0,0.0,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query38,38,q4,q4,1.0,1.0,0.0,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query39,39,q4,q4,1.0,1.0,0.0,0.6666666666666666
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query4,4,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query40,40,q4,q4,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query41,41,q5,q5,0.9,0.5,1.0,0.7999999999999999
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query42,42,q5,q5,0.631578947368421,1.0,0.2,0.6105263157894737
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query43,43,q5,q5,0.5263157894736842,1.0,0.0,0.5087719298245613
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query44,44,q5,q5,0.9354120267260579,0.909090909090909,0.909090909090909,0.917864614969292
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query45,45,q5,q5,0.8387096774193548,0.9,1.0,0.9129032258064516
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query46,46,q5,q5,0.8342245989304813,0.909090909090909,0.36363636363636365,0.7023172905525846
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query47,47,q5,q5,0.5962059620596206,0.909090909090909,0.0,0.5017656237168432
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query48,48,q5,q5,0.5945945945945945,1.0,0.0,0.5315315315315315
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query49,49,q5,q5,0.5789473684210527,0.8181818181818181,0.0,0.4657097288676237
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query5,5,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query50,50,q5,q5,0.5789473684210527,0.909090909090909,0.0,0.49601275917065396
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query6,6,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query7,7,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query8,8,q1,q1,1.0,1.0,1.0,1.0
+nobel_prizes,Llama 3 8B,ollama-llama3-8b-ALLMODES-tau0.6-20260506_113307,sql,SQL,query9,9,q1,q1,1.0,1.0,1.0,1.0

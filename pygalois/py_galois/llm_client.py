@@ -4,9 +4,21 @@ from typing import List, Dict, Any, Tuple, Optional
 from openai import OpenAI, AzureOpenAI
 from openai import RateLimitError, APIError
 import requests
-from ibm_watsonx_ai import Credentials
-from ibm_watsonx_ai.foundation_models import ModelInference
-from ibm_watsonx_ai.foundation_models.schema import TextChatParameters
+
+try:
+    from ibm_watsonx_ai import Credentials
+    from ibm_watsonx_ai.foundation_models import ModelInference
+    from ibm_watsonx_ai.foundation_models.schema import TextChatParameters
+except (ImportError, ModuleNotFoundError) as watsonx_import_error:
+    _WATSONX_IMPORT_ERROR = watsonx_import_error
+
+    class _MissingWatsonxDependency:
+        def __init__(self, *args, **kwargs):
+            raise RuntimeError(
+                "The WatsonX backend requires a compatible ibm-watsonx-ai installation"
+            ) from _WATSONX_IMPORT_ERROR
+
+    Credentials = ModelInference = TextChatParameters = _MissingWatsonxDependency
 
 
 WATSONX_API_KEY=""
@@ -16,7 +28,7 @@ WATSONX_MODEL_ID="meta-llama/llama-3-3-70b-instruct"
 
 
 #gianmaria 4o-mini
-AZURE_OPENAI_API_KEY=''
+AZURE_OPENAI_API_KEY=""
 AZURE_OPENAI_BASE_URL = "https://kbest.openai.azure.com/openai/v1/"
 AZURE_OPENAI_DEPLOYMENT = "gpt-4o-mini-2" 
 AZURE_OPENAI_API_VERSION='2024-12-01-preview'
@@ -39,7 +51,7 @@ AZURE_GROK_DEPLOYMENT = "grok-4-1-fast-reasoning"
 
 
 #mirco 4o 
-#AZURE_OPENAI_API_KEY=''
+#AZURE_OPENAI_API_KEY=""
 #AZURE_OPENAI_ENDPOINT='https://mirco-mhw89i0v-swedencentral.cognitiveservices.azure.com/'
 #AZURE_OPENAI_API_VERSION='2025-03-01-preview'
 #AZURE_OPENAI_DEPLOYMENT='gpt-4o'
@@ -405,10 +417,14 @@ class OpenAIClient(BaseLLM):
 
         if self.azure:
             self._client = OpenAI(
-                base_url=AZURE_OPENAI_BASE_URL,
-                api_key=AZURE_OPENAI_API_KEY,
+                base_url=os.environ.get("AZURE_OPENAI_BASE_URL", AZURE_OPENAI_BASE_URL),
+                api_key=os.environ.get("AZURE_OPENAI_API_KEY", AZURE_OPENAI_API_KEY),
             )
-            self.model = AZURE_OPENAI_DEPLOYMENT
+            self.model = (
+                model
+                or os.environ.get("AZURE_OPENAI_DEPLOYMENT")
+                or AZURE_OPENAI_DEPLOYMENT
+            )
         else:
             self._client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 

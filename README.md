@@ -50,6 +50,10 @@ Overall, the material confirms the main findings of the paper. Direct prompting 
 │       ├── scan.py
 │       └── sql_utils.py
 │
+├── scripts/
+│   ├── audit_alias_predicate_binding.py
+│   └── audit_multitable_joins.py
+│
 ├── figures/
 │   ├── delta_distribution_grid_vs_nl_nobel_prizes.png
 │   ├── efficiency_tokens_time_scatter_nobel_prizes.png
@@ -62,10 +66,19 @@ Overall, the material confirms the main findings of the paper. Direct prompting 
 │   ├── quality_profile_table_nobel_prizes_gpt4omini.tex
 │   └── quality_profile_table_nobel_prizes_llama38b.tex
 │
+├── results/
+│   └── nobel_prizes/
+│       ├── per_query_results.csv
+│       ├── query_means_across_runs.csv
+│       ├── query_mean_summary.csv
+│       ├── method_summary_by_runs.csv
+│       └── run_metrics.csv
+│
+├── SOURCE_HASHES.md
 └── galois_eval.py
 ```
 
-The `benchmarks/` directory contains the benchmark schemas, source tables, SQL queries, and natural-language questions. The `pygalois/` directory contains the Python reproduction of the Galois execution model. The `figures/` and `tables/` directories contain the additional plots and LaTeX tables discussed below. The `galois_eval.py` script evaluates predicted result sets against ground-truth answers using the metrics adopted in the paper.
+The `benchmarks/` directory contains the benchmark schemas, source tables, SQL queries, and natural-language questions. The `pygalois/` directory contains the Python reproduction of the Galois execution model. The `scripts/` directory contains the audit utilities described below. The `figures/` and `tables/` directories contain the additional plots and LaTeX tables discussed below, and `results/` contains the per-query and per-family measurements behind them. `SOURCE_HASHES.md` records the SHA-256 of every source file, so that a reported number can be tied to the exact code that produced it. The `galois_eval.py` script evaluates predicted result sets against ground-truth answers using the metrics adopted in the paper.
 
 ---
 
@@ -163,11 +176,23 @@ watsonx:<model_id>
 grok
 ```
 
+No credential is stored in this repository: every key constant in `pygalois/py_galois/llm_client.py` is empty, and the Azure path reads its configuration from the environment, falling back to those constants only if the variables are unset. Supply your own credentials through the environment rather than editing the source.
+
 For OpenAI models, set:
 
 ```bash
 export OPENAI_API_KEY="..."
 ```
+
+For an Azure OpenAI deployment, set:
+
+```bash
+export AZURE_OPENAI_API_KEY="..."
+export AZURE_OPENAI_BASE_URL="https://<resource>.openai.azure.com/openai/v1/"
+export AZURE_OPENAI_DEPLOYMENT="<deployment-name>"
+```
+
+The deployment can also be given inline as `--provider azure:<deployment-name>`, which takes precedence over the environment variable.
 
 For local Ollama models, make sure Ollama is running and that the model is available:
 
@@ -239,6 +264,19 @@ PYTHONPATH=pygalois python -m py_galois.runner \
   --mode sql \
   --tau 0.6 \
   --out runs/sql_gpt4omini_nobel
+```
+
+To re-execute only part of a dataset, pass a comma-separated list of 1-based query indices. Every other query is skipped and its existing output is left untouched, which is useful when a fix affects only some queries and the rest should not be paid for again:
+
+```bash
+PYTHONPATH=pygalois python -m py_galois.runner \
+  --data-root benchmarks \
+  --datasets paintings_extended \
+  --provider openai:gpt-4o-mini \
+  --mode galois_a \
+  --tau 0.6 \
+  --only-queries 9,10,13,14 \
+  --out runs/galoisa_gpt4omini
 ```
 
 Each run writes one output file and one log file per query:
@@ -368,6 +406,30 @@ The paper keeps `tau = 0.6`, following the original Galois setup. The supplement
 
 ---
 
+## Audit scripts
+
+The `scripts/` directory contains the two audit utilities referenced in the paper. Both are read-only and neither calls an LLM.
+
+### Predicate-to-relation binding
+
+```bash
+python scripts/audit_alias_predicate_binding.py
+```
+
+This script checks that every `WHERE` atom of every benchmark query is bound to the relation it belongs to, including when the query uses a table alias, with or without the optional `AS` keyword, and when a quoted literal contains a dot. It reports, per dataset, how many atoms were extracted, how many were bound, and how many were lost. On the benchmarks in this repository it reports zero lost predicates out of 330, which is the check behind the predicate-binding correction described in the paper.
+
+### Multi-table join execution
+
+```bash
+python scripts/audit_multitable_joins.py \
+  --run-dir runs/galoisa_gpt4omini/paintings_extended \
+  --family-size 10
+```
+
+This script reads the per-query logs of an existing run and reconstructs, operator by operator, what each scan returned and what the join then produced. It reports how many join conditions found no matching key value on either side, how many had non-empty scans whose keys did not intersect, and where in the plan the result became empty. It is the script behind the operator-level join evidence reported in the paper, and it requires a run directory produced beforehand by `py_galois.runner`.
+
+---
+
 # Supplementary results
 
 This section reports additional results that complement the main paper. The focus is twofold. First, we report the reproducibility analysis on the **Nobel Prizes** benchmark, a second parametric benchmark designed with the same rationale as Paintings Extended. Second, we report an additional **$\tau$-tuning** analysis for the full Galois configuration.
@@ -389,11 +451,13 @@ tables/avg_barplot_table_nobel_prizes.tex
 | `NL`       | 0.681 (0.005) | 0.509 (0.344) |
 | `SQL`      | 0.649 (0.007) | 0.656 (0.000) |
 | `GaloisWO` | 0.085 (0.032) | 0.178 (0.000) |
-| `GaloisS`  | 0.212 (0.012) | 0.204 (0.000) |
-| `GaloisA`  | 0.211 (0.009) | 0.202 (0.000) |
-| `GaloisF`  | 0.217 (0.011) | 0.202 (0.000) |
+| `GaloisS`  | 0.263 (0.017) | 0.217 (0.012) |
+| `GaloisA`  | 0.375 (0.014) | 0.308 (0.019) |
+| `GaloisF`  | 0.273 (0.019) | 0.215 (0.012) |
 
 The aggregate picture is consistent with the conclusions of the paper. On GPT-4o-mini, `NL` and `SQL` are clearly stronger than the Galois variants, with `NL` reaching the best average score. On Llama 3 8B, `SQL` is the strongest method, while `NL` shows high variability. The structured Galois variants improve over `GaloisWO`, but they remain below the direct prompting baselines in aggregate quality.
+
+Among the structured modes, `GaloisA` is the strongest on both models, ahead of `GaloisF` and `GaloisS`, which stay close to each other. The three are therefore not interchangeable on this benchmark, and the all-pushdown policy is what accounts for most of the improvement over the unoptimized structured baseline.
 
 This supports the same interpretation developed in the paper: Galois-style execution should not be understood as uniformly better than direct prompting. Its value is conditional on the query family, the model backend, and the quality/cost regime.
 
@@ -429,9 +493,11 @@ This matters because the usefulness of SQL-over-LLM execution cannot be evaluate
 
 The heatmap reports mean AVG-Score by query family, model, and method. This is the most informative plot for understanding where structured execution helps and where it fails.
 
-For GPT-4o-mini, direct prompting dominates several families. `NL` is particularly strong on `q1` and `q2`, while `SQL` is also competitive across multiple families. The Galois variants show localized strengths, for example on `q1` and partially on `q3`, but they collapse on other families such as `q2` and `q4`.
+The dominant pattern is the collapse on `q2` and `q4`, the two families that require a join between awardees and recipients. There every structured mode falls to near zero, at most 0.060 on GPT-4o-mini and at most 0.032 on Llama 3 8B, while the direct baselines stay between 0.46 and 0.85. This is the multi-relation effect analysed in the paper: the two sides of the join are materialised by separate model calls, so their key values need not agree.
 
-For Llama 3 8B, `SQL` is especially robust on the first families and remains the strongest aggregate method. However, the heatmap also shows that Galois-style execution can be competitive in specific regions, especially on `q5`, where the structured variants obtain scores close to the direct baselines.
+Outside those two families structured execution is competitive. On `q1` it is close to parity, with `GaloisA` at 0.963 against 1.000 for `NL` on GPT-4o-mini and at 0.900 against 1.000 for `SQL` on Llama 3 8B. On `q3` with Llama 3 8B it is the only family of the benchmark that structured execution wins outright, `GaloisA` reaching 0.350 against 0.333 for the better direct baseline, although all methods score low there.
+
+Family `q5`, the one combining `COUNT` with `GROUP BY` over a range, is where the two pushdown policies part ways, and in opposite directions on the two models. On GPT-4o-mini `GaloisA` is the best structured mode at 0.518 while `GaloisS` and `GaloisF` fall to about 0.05; on Llama 3 8B the ordering inverts, with `GaloisWO`, `GaloisS` and `GaloisF` between 0.558 and 0.584, close to the direct baselines, and `GaloisA` down at 0.236. Which pushdown policy pays off on an aggregation family is therefore backend-dependent, which is the same implementation and prompt sensitivity that the paper reports.
 
 This supports one of the central claims of the paper: the value of structured execution is query-semantics-dependent rather than uniform. Galois-style decomposition is not generally superior, but it can still be useful for specific query families where the interaction between predicates, tuple retrieval, and post-processing is favorable.
 
@@ -458,19 +524,21 @@ The following table reports the merged quality profile for the Nobel Prizes benc
 | GPT-4o-mini | `NL`       | 0.732 (0.007) | 0.940 (0.003) |    0.371 (0.010) | 0.681 (0.005) |
 | GPT-4o-mini | `SQL`      | 0.729 (0.006) | 0.827 (0.006) |    0.391 (0.015) | 0.649 (0.007) |
 | GPT-4o-mini | `GaloisWO` | 0.094 (0.036) | 0.137 (0.055) |    0.025 (0.016) | 0.085 (0.032) |
-| GPT-4o-mini | `GaloisS`  | 0.160 (0.016) | 0.324 (0.013) |    0.151 (0.011) | 0.212 (0.012) |
-| GPT-4o-mini | `GaloisA`  | 0.161 (0.015) | 0.325 (0.010) |    0.149 (0.008) | 0.211 (0.009) |
-| GPT-4o-mini | `GaloisF`  | 0.165 (0.015) | 0.335 (0.017) |    0.151 (0.008) | 0.217 (0.011) |
+| GPT-4o-mini | `GaloisS`  | 0.214 (0.020) | 0.372 (0.017) |    0.201 (0.018) | 0.263 (0.017) |
+| GPT-4o-mini | `GaloisA`  | 0.355 (0.016) | 0.559 (0.017) |    0.211 (0.013) | 0.375 (0.014) |
+| GPT-4o-mini | `GaloisF`  | 0.225 (0.023) | 0.388 (0.021) |    0.206 (0.018) | 0.273 (0.019) |
 | Llama 3 8B  | `NL`       | 0.548 (0.372) | 0.630 (0.408) |    0.349 (0.252) | 0.509 (0.344) |
 | Llama 3 8B  | `SQL`      | 0.727 (0.000) | 0.808 (0.000) |    0.432 (0.000) | 0.656 (0.000) |
 | Llama 3 8B  | `GaloisWO` | 0.152 (0.000) | 0.378 (0.000) |    0.004 (0.000) | 0.178 (0.000) |
-| Llama 3 8B  | `GaloisS`  | 0.173 (0.000) | 0.404 (0.000) |    0.034 (0.000) | 0.204 (0.000) |
-| Llama 3 8B  | `GaloisA`  | 0.171 (0.000) | 0.401 (0.000) |    0.034 (0.000) | 0.202 (0.000) |
-| Llama 3 8B  | `GaloisF`  | 0.171 (0.000) | 0.401 (0.000) |    0.034 (0.000) | 0.202 (0.000) |
+| Llama 3 8B  | `GaloisS`  | 0.187 (0.013) | 0.416 (0.011) |    0.047 (0.011) | 0.217 (0.012) |
+| Llama 3 8B  | `GaloisA`  | 0.276 (0.026) | 0.452 (0.025) |    0.196 (0.012) | 0.308 (0.019) |
+| Llama 3 8B  | `GaloisF`  | 0.185 (0.013) | 0.413 (0.011) |    0.047 (0.011) | 0.215 (0.012) |
 
 For GPT-4o-mini, the direct baselines obtain much higher `F1-Cell` and `Cardinality` than the Galois variants. `NL` reaches the best aggregate score mainly because it combines strong cell-level correctness with very high cardinality. `SQL` is close in `F1-Cell` and slightly stronger in `Tuple Constraint`, but lower in cardinality.
 
 For Llama 3 8B, `SQL` is the strongest method across the aggregate score and gives a more stable profile than `NL`, whose standard deviation is large. The Galois variants have lower tuple-level correctness and remain far from the direct baselines, although the optimized variants improve over the unoptimized `GaloisWO` baseline in some dimensions.
+
+The profiles also show where `GaloisA` gains over the other two structured modes. On GPT-4o-mini its advantage is concentrated in `Cardinality`, 0.559 against 0.372 and 0.388, while `Tuple Constraint` is almost the same across the three; the same holds on Llama 3 8B, where `Cardinality` is 0.452 against roughly 0.41 but `Tuple Constraint` reaches 0.196 against 0.047. Pushing every predicate into the scan therefore mainly helps the model return the right number of rows, and only on the weaker model does it also help reconstruct whole tuples.
 
 The quality profiles therefore clarify why the aggregate results look the way they do. The main weakness of the Galois variants is not only final `AVG-Score`, but also the combination of incomplete tuple retrieval, weaker cell-level recall, and lower tuple reconstruction quality.
 
@@ -513,6 +581,20 @@ The experiments involve LLM backends, so exact numerical results may depend on m
 For the most controlled setting, use fixed model deployments, temperature `0`, fixed `top_p` when supported, fixed `tau`, the same prompts and parsing utilities, the same benchmark data and query files, and repeated runs when the backend is not fully deterministic.
 
 The paper reports that locally served open-weight models can produce zero standard deviation across repeated runs under deterministic decoding, while hosted models may still exhibit small run-to-run variation.
+
+---
+
+## Revision notes
+
+This revision of the repository updates the code and the Nobel Prizes results. Two corrections to `py-galois` were made while auditing the implementation, and every affected number was recomputed from re-executed runs.
+
+The first correction concerns the `galois_a` mode. It was previously planned through the same confidence-based path as `galois_f`, so predicate classification could drop predicates before the surviving ones were relabelled as all-pushdown, and the physical operator was still chosen by comparing an elicited confidence against `tau`. It is now planned by a dedicated function that pushes every predicate assigned to a relation, fixes the physical operator to `TableScan`, and never issues a confidence prompt, which is the policy the mode is meant to implement. See `build_all_pushdown_table_plan` in `pygalois/py_galois/logic.py` and its use in `pygalois/py_galois/runner.py`.
+
+The second correction concerns predicate-to-relation binding in `extract_where_atoms`. A table alias could be misread when it was not introduced by `AS`, when the token following the relation was a keyword such as `WHERE`, or when a quoted literal contained a dot, as in `'Barack H. Obama'`. A predicate could then be attributed to the wrong relation or omitted. See `pygalois/py_galois/sql_utils.py`, and `scripts/audit_alias_predicate_binding.py` for the check that verifies the fix.
+
+Both corrections affect only the structured modes that push predicates into the scans. The direct baselines and `galois_wo`, which pushes none, are unchanged, which is visible in the tables above: `NL`, `SQL` and `GaloisWO` report the same values as before, while `GaloisS`, `GaloisA` and `GaloisF` improve. On the Nobel Prizes benchmark `GaloisA` moves from 0.211 to 0.375 on GPT-4o-mini and from 0.202 to 0.308 on Llama 3 8B. The conclusions of the paper are unaffected: the structured modes remain below the direct baselines in aggregate quality, and their advantage remains confined to specific query families.
+
+Also in this revision: the LLM client no longer requires `ibm-watsonx-ai` to be installed unless the watsonx backend is used, the Azure configuration is read from the environment, the runner accepts `--only-queries` for targeted re-execution, per-query and per-family Nobel results are included under `results/`, compiled bytecode is no longer tracked, and `SOURCE_HASHES.md` records the SHA-256 of every source file.
 
 ---
 

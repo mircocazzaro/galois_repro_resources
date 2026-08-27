@@ -3,7 +3,12 @@ from pathlib import Path
 from typing import List, Dict, Any
 from .llm_client import OpenAIClient, MockLLM, BaseLLM, WatsonxClient, FoundryOpenAIClient, OpenRouterClient, OllamaClient, AzureGrokClient
 from .dataio import load_dataset_meta, load_queries, load_nl_queries
-from .logic import build_plans, execute_plan, final_answer_from_scans
+from .logic import (
+    build_all_pushdown_table_plan,
+    build_plans,
+    execute_plan,
+    final_answer_from_scans,
+)
 from .json_utils import try_parse_json, ensure_list_of_dicts
 
 
@@ -19,7 +24,9 @@ def make_llm(provider: str) -> BaseLLM:
         model = parts[1] if len(parts) == 2 else None
         return OpenAIClient(model=model, azure=False)
     if provider.startswith("azure"):
-        return OpenAIClient(model=None, azure=True)
+        parts = provider.split(":", 1)
+        deployment = parts[1] if len(parts) == 2 else None
+        return OpenAIClient(model=deployment, azure=True)
     if provider.startswith("watsonx"):
         parts = provider.split(":", 1)
         model_id = parts[1] if len(parts) == 2 else None
@@ -218,7 +225,8 @@ def extract_tables_in_query(sql: str, ds_tables_meta: Dict[str, Any]) -> set[str
     return used_meta_keys
 
 
-def run_dataset(ds_dir: Path, provider: str, tau: float, out_base: Path, mode: str):
+def run_dataset(ds_dir: Path, provider: str, tau: float, out_base: Path, mode: str,
+                only_queries: set[int] | None = None):
     """
     Writes one JSON per query in: out_base/<dataset>/qXX.json
     And one log per query in:     out_base/<dataset>/qXX.log
@@ -250,6 +258,9 @@ def run_dataset(ds_dir: Path, provider: str, tau: float, out_base: Path, mode: s
     ds_out.mkdir(parents=True, exist_ok=True)
 
     for idx, sql in enumerate(queries, 1):
+        if only_queries is not None and idx not in only_queries:
+            # Targeted re-execution: leave every other query output untouched.
+            continue
         qid = f"query{idx}"
         json_path = ds_out / f"{qid}.json"
         log_path = ds_out / f"{qid}.log"
@@ -327,16 +338,9 @@ def run_dataset(ds_dir: Path, provider: str, tau: float, out_base: Path, mode: s
                             cfg["pushed_cond"] = None
 
                 elif mode == "galois_a":
-                    # Stessa pianificazione di Galois_F ma pushdown "all"
-                    plan = build_plans(llm, sql, query_tables_meta, select_attrs_q, key_attrs_q, tau)
-                    for cfg in plan.per_table.values():
-                        atoms = cfg.get("atoms") or []
-                        if atoms:
-                            cfg["strategy"] = "all"
-                            cfg["pushed_cond"] = " AND ".join(atoms)
-                        else:
-                            cfg["strategy"] = "none"
-                            cfg["pushed_cond"] = None
+                    # Fixed GaloisA policy: push every assigned predicate and use
+                    # TableScan, without LLM confidence calls or tau-based choices.
+                    plan = build_all_pushdown_table_plan(sql, query_tables_meta)
 
                 else:
                     # Galois_F (default): full logical + physical optimization
@@ -444,17 +448,27 @@ def main():
         choices=["galois_f", "galois_wo", "galois_s", "galois_a", "nl", "sql"],
         help="Execution mode",
     )
+    ap.add_argument(
+        "--only-queries",
+        type=str,
+        default=None,
+        help="Comma-separated 1-based query indices to (re-)execute. Any other query in "
+             "the dataset is skipped and its existing output is left untouched. Used for "
+             "targeted re-execution of a subset of queries.",
+    )
     args = ap.parse_args()
 
     data_root = Path(args.data_root)
     out_base = Path(args.out)
+    only = ({int(x) for x in args.only_queries.split(",") if x.strip()}
+            if args.only_queries else None)
 
     for name in args.datasets.split(","):
         ds_dir = data_root / name.strip()
         if not ds_dir.exists():
             print(f"Skip missing dataset: {ds_dir}")
             continue
-        run_dataset(ds_dir, args.provider, args.tau, out_base, args.mode)
+        run_dataset(ds_dir, args.provider, args.tau, out_base, args.mode, only_queries=only)
 
 
 if __name__ == "__main__":
